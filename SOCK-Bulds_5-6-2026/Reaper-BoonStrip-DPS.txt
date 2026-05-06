@@ -1,9 +1,11 @@
 Reaper DPS Boon Strip
 - <:necro_reaper:1162443916352700556> Reaper DPS Boon Strip
 - Credit: @Bloop
-- [The Build](https://gw2skills.net/editor/?PSwEQ7MrMhE2SLDJkd0xKj0h/6sZD-DWZYBB5sFUsYU3Klmii6ChOLgKSAb/JEAB2AkxwbR/ZAA-w)
+- [The Build](https://gw2skills.net/editor/?PSwEQ7MrMhE2SLDJkd0xKj0h/6sZD-DWZYBB5sFUsYU3Klmii6ChOLgKSAb/JEgQ2DvF9nBAA-w)
 - [Training Video](https://www.youtube.com/watch?v=4IgC0bAND1U)
 - [Law of the REAPER](https://youtu.be/u0FrNCQfYEc)
+
+- 18 Precise Infusions, if you lack infusions swap zerker pieces to Assassin to reach 79% crit unbuffed
 - **Important Note**: it is almost always better to save your wells for when the zerg fully commits and the enemy zerg stops maneuvering as much. Be patient in order to get maximum value from your wells.
 - **Important Note**: While DPS is tied to your Shroud uptime, going into Shroud strips boons and should be high priority. Stay on tag to reduce dmg taken.
 
