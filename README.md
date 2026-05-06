@@ -12,5 +12,5 @@
 
 
 
-** If you want to stop dying, join SOCK! **
+** If you want to stop dying "emotionally", join SOCK! **
 * https://discord.gg/sockisfreee
