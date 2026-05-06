@@ -1,0 +1,9 @@
+Reaper DPS
+<:necro_reaper:1162443916352700556> Reaper DPS
+- Credit:  @disform
+- [The Build](<http://en.gw2skills.net/editor/?PSwAEd3lJwWYHMEWJOyXntaA-DWRYBRNIG+DJTRQESgKUCy8sQACYP8W0fGAA-w>)
+- More Info
+ - This is a classic power reaper build. Unlike chill version, most of the damage comes from shroud skills. This is a fast paced build, designed to be played similar to Raid version. Do not camp any weapon set. 
+ - Do not use axe 1 and axe 2 only situationally. Spam boonstrip skills. Use both wells together. Elite skill on CD, paired with "Nothing can save you".
+ - In a regular fight, start in Axe/Focus set, once at 500-600 range (just before melee), use both wells unless tag is making that call, then shroud. If you are in GS, use GS4 before going into Shroud.
+

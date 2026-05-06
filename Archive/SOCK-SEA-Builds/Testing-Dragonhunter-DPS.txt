@@ -1,0 +1,32 @@
+Dragonhunter DPS
+<:guardian_dragonhunter_:1162443860425838714> Dragonhunter DPS
+
+- [The Build](<http://gw2skills.net/editor/?PWgEQLUWArh5wwYj4Qv43eB-DWRYiRFH2cQnFSTJanhQFVltPCCQA7h3i+zAAA-w>)
+- [The Build for PACK](<https://gw2skills.net/editor/?PWgEQLUmQCrJs5EywCclR6Qv43eB-DWRYihzdOqSRlSTJadFQnhQFRltnFCQA7h3i+zAAA-w>
+- [Video @metalloneGW2](<https://www.youtube.com/watch?v=32Akw1mArrY>)
+
+- More Info
+ - Make sure you have 55% Crit chance without any boons or you will not hit max crit. You may need to add some precision infusions if you use exotic gear.
+ - Replace Sword of Justice with Stand Your Ground if you are having trouble with cc.
+ - Start fights with the spear equipped. When the commander calls for ranged damage, cast Spear 5 to empower your other spear abilities and then cast Spear 4 followed by Sword of Justice. At this range you should also use F1 to try to pull enemies into our team.
+ - When the fight moves into melee range, stack your traps on top of one another in the path of the enemy or on top of the enemy. Cast F3 just before you enter melee range of the enemy and then swap to greatsword and cast Greatsword 4 -> Greatsword 2 on top of your traps as the enemy walks over them. Fill with greatsword auto-attacks until Greatsword 2 & 4 come off of cooldown and then use them again. Then swap to spear and use Spear 5 followed by Spear 3 and 4. Fill with auto-attacks and continue swapping between the two weapons when possible. Cast your traps together again whenever they are both off cooldown.
+ 
+ 
+ 
+ ------testing-----
+
+**DH GS+Hammer DPS**
+- [Video](<https://youtu.be/_mFCdNvp6RA?t=11>) 
+- [The Build](<https://gw2skills.net/editor/?PWgAEJlVwaYOMMWJW8X1tXA-DWhYBBRsFEoYUh2mDrUaKE6sAaNCqIBs9HQACYP8W0/MCA-w>)
+
+Our current Dragonhunter build uses Radiance, Zeal, Dragonhunter.
+Relic of the Dragonhunter
+
+- **TEST BUILD - DH GS+Spear DPS**
+- [Video](<https://youtu.be/1bMo-Ykvb6E?t=100>) 
+- might and fury for group
+- good burst potential 
+- Radiance,Virtues,Dragonhunter
+- Relic of the Brawler
+- [The Build minMax from video](<https://gw2skills.net/editor/?PWgEEiWWBrh5wwYlYxfV3eB-DWhYBBRsFEoYUh2mDrUaKE6sAaNCqIBs9HQACYP8W0/MCA-w>)
+- [The Build for zerg](<https://gw2skills.net/editor/?PWgEQLUWArh5wwYjYxfV3eB-DWRYiRFH5cQblSTJanhQrFQFRlt/ACQA7h3i+zAAA-w>)

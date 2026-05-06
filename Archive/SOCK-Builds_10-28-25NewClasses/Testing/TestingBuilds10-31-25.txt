@@ -1,0 +1,28 @@
+SOCK Testing Builds 10-31-25
+  build editor is not updaaaatedddd yet but the traits are in the correct position
+  Help us with testing and give feed back but don't be a poop head!!!
+
+[Amalgam DPS](https://gw2skills.net/editor/?PegEQjWmMzjZz6Yp4Yv8O9Ug2rPdA-DWRYBRVbO4CppkIzIoiSw2zCFQg0Hk9wB+W0fGAA-w)
+13 precise infusions + 5 power infusions
+46% crit chance unbuffed -> 76% buffed ->  +15% when inside 450 distance 91% -> hit 100% crit chance in evolved form 
+Peppercorn-Crusted Sous-Vide Steak
+Superior Sharpening Stone
+
+[Troubadour Main Stab Support](https://gw2skills.net/editor/?PiwAw6RlZwsYwMRGNe0TqzcA-DWJYjRHfZkZKUdFo7rhQIg9gA+p7Hs0+lGA-w)
+12 concentration infusions + 6 healing infusions
+with regen active 100% boon duration
+Bowl of Fruit Salad with Mint Garnish
+Magnanimous Maintenance Oil
+
+[Luminary Main Stab Support](https://gw2skills.net/editor/?PWwEQLtrMXWMTkhxIxj/afeB-DWJYjRN/ZUtMIdlgHPREiwsHeL+fpBA-w)
+18 concentration infusions
+Bowl of Fruit Salad with Mint Garnish
+Magnanimous Maintenance Oil
+
+[Paragon Boon Support](https://gw2skills.net/editor/?PKxEYiNssA2HDjJzIxk3ye6B-DWJYjRNfhEUYkZCkaFo7zgQEg9wbp/LNA-w)
+Tatics -> Martial Cadence more stab and condi cleanse on weapon swap
+18 Healing infusions
+Bowl of Spiced Fruit Salad
+Magnanimous Maintenance Oil
+
+

@@ -1,0 +1,29 @@
+https://www.youtube.com/watch?v=gyu2pPoFbt4
+https://www.youtube.com/watch?v=OAgstKLaWxM
+
+Here’s how I run the spear build and get the most out of Volcano. It’s focused on stacking as many modifiers as possible and keeping the flow clean between attunements. 
+
+This build is meant to be on stack with stab and healing. The rotation when fighting will be different as you'll need to be moving. This just shows how I would like to do the rotations in a near perfect world.
+
+Volcano Damage Combo Overview
+──────────────────────────────
+The goal of this combo is to stack as many damage modifiers as possible on Volcano for maximum output.
+Only use Etching: Volcano when you can safely stay in the area for the full three casts it takes to charge it completely.
+You can use Blazing Barrage before or after the combo to add extra damage.
+Always trigger Seethe after using all other spear skills so its effect enhances Volcano.
+The center of Meteor hits 25 percent harder, so aim carefully and try to land it on five targets within the center radius each time.
+
+Attunement Priority
+────────────────────
+Fire
+Air
+Earth
+Water
+
+General Rotation Tips
+──────────────────────
+• Cast Zap and Lightning Blitz as soon as they’re off cooldown.
+• Both Zap and Lightning Blitz can charge your Etching skills, so use them in place of weaker skills whenever they’re available.
+• Try to start fights with your Familiar fully charged so you can open with Zap followed by Lightning Blitz.
+• Use Rejuvenate immediately after casting Zap while in Earth or Water Attunement.
+ ◦ This is an efficient way to charge Etching

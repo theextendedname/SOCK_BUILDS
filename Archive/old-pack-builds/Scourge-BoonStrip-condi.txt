@@ -1,0 +1,18 @@
+Scourge Condi Boon Strip
+<:necro_scourge:1162443917648728124>Scourge Condi Boon Strip
+- Credit: @disform 
+- [The Build](<http://en.gw2skills.net/editor/?PSwAs2FlNweYHMEmJOqL5PTA-DWRYcBbGdtDJHJRmChOUBK8cANg4TDA-w>)
+- More info
+**WARNING**: This build may be replaced by the power version, if it proves to be better.
+
+ - The build is designed to boonstrip at range and apply constant condi pressure. It complements Mystic Rebuke in the comp.
+
+**Gameplay**: F2 and F5 skills boonstrip using the shades, so placing them correctly is critical to the build. Use them on cooldown. 
+
+ - Camp Axe/Focus set. Spam Scepter 3 and Focus 5.  Use other skills to fill the gaps. Use GS on melee for GS4, GS5 for pulls and Gravedigger but don't camp this set. 
+
+ - Utility skills are extremely important. Hit both wells on cooldown. Use "Trail of Anguish" just before engaging on melee. Use "Ghastly Breach" when called for or we are already in melee range. Use healing skill offensively, on melee range. 
+
+ - Be mindful with shades, do not spam all your shades at the beginning of the fight, it takes a bit to recharge. *Always have at least 1 shade up*. 
+
+ - This build, despite not having barrier on shades, it's not fragile. The trait "Feed from corruption" grants you barrier when you corrupt or remove a boon.

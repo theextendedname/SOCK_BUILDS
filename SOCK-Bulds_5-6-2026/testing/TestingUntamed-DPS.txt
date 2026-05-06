@@ -1,0 +1,55 @@
+Untamed DPS
+<:ranger_untamed:1162443945868005456> Untamed DPS
+
+- [The Build](https://gw2skills.net/editor/?POgEIiWWapbtspG70abu56IroH/OBMbnF-DWhYBBxvF0gYUVroDRpUaKKqLE6MBatAs9PQAEY/c4fSHgmqcGBA-w)
+https://gw2skills.net/editor/?POgEQTUWKbl1yUZu4IroH/K5WZB-DWhYBBxvF0gYURroDRpQaqAqLC6MFs9PQACYP8W0/MCA-w
+- [Video](<https://www.youtube.com/watch?v=giOev9ByiOM>)
+
+
+-  **Untamed Mechanics:**
+    - Untamed mechanic: Revolves around switching between Unleashed states for you and your pet to boost damage and abilities.
+    - Unleashed Player: Access to powerful Ambush skills (burst damage, boon strip). 
+    - Unleashed Pet: Gains new abilities like Venomous Outburst, Rending Vines, and Enveloping Haze. 
+    - Cycle Unleash **Pet Combo:**: Every 15-20 seconds to utilize Unleashed Power Passive, boon strips and Enveloping Haze.
+    - The Unleashed Power Passive: For 4 seconds after swapping to Unleased Ranger. You gain access to Ravager's Abbandon(Spear 1) and Relentless Whirl(Hammer 1). These are high damage and powerful.
+
+-  **Pet Choices:**
+    - Brown Bear: Damage immunity, condition cleanse
+    - Polar Bear:  Damage immunity, AoE chill & stun
+    - Melo: Damage immunity, poison AoE heal reduction
+
+
+-  **Pet Tip:** Set pet to avoid combat and manually control skills
+
+-  **Weapon Sets:**
+    - Spear: Focus on AoE pressure and burst
+    - Hammer: Primarily use the Unleashed skills for higher damage and boon strip
+
+-  **Other Key Info:**
+    - Exploding Spores: Use frequently to deal high damage, strip bounds, and apply poison
+    - Forest's Fortification: Use strikes to reduce its cooldown, %50 incoming damage reduction, combo with Exploding Spores for burst damage
+    - Signate of the Wild: activate for a damage boost
+
+
+-  **Pet Combo:**
+    - Select a Target -> Unleash Pet -> Pet(F1, F2,F3) -> Unleashed Ranger
+
+-  **Spear Combo:**
+    -  Ravager's Abandon/Spear(1) + Spear(5) + Use Spear Ambush(2 Or 4)
+
+-  **Hammer Combo:**
+    - Forest's Fortification -> Relentless Whirl(Hammer 1) -> Exploding Spores(util) -> Hammer(5) -> Signate of the Wild(util) -> Hammer(4, 2, 3) -> Hammer (1,1,1)
+
+-  **One key Combo**
+    - **Pet Combo** -> Ravager's Abandon/Spear(1) -> Weapon Swap ->  Relentless Whirl(Hammer 1)
+
+-  **Full Rotation:**
+    - **Pet Combo** -> **Spear Combo** -> **Hammer Combo**
+    -  ________________________________________________________    
+    - Select a Target -> Unleash Pet -> Pet(F1, F2,F3) -> Unleashed Ranger ->  Ravager's Abandon/Spear(1) -> Spear(5) + Use Spear Ambush(2 Or 4), Weapon swap to Hammer -> Forest's Fortification -> Relentless Whirl(Hammer 1) -> Exploding Spores(util) -> Hammer(5) -> Signate of the Wild(util) -> Hammer(4, 2, 3) -> Hammer (1,1,1)
+
+
+-  **Mid-Combat:**
+    - Alternate between spear and hammer rotations, using the listed skills to maintain a consistent damage flow.
+   -  Cycle Unleash **Pet Combo**: Every 15-20 seconds to utilize Unleashed Power Passive, boon strips and Enveloping Haze.
+    -  Use the **One key Combo** if your other skills are on cooldown

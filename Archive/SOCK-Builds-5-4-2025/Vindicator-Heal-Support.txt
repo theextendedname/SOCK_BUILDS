@@ -1,0 +1,42 @@
+Vindicator Healer
+<:HealVindi:1217514505261813820> Vindicator Healer
+- Credit: @Autumn
+- PACK Build :wolf:   
+- [The Build](<https://en.gw2skills.net/editor/?PmwAYl7llQHMKqhVRPsJyhFSfsBKgnv0ZcH-DWJYjR9fhkUimZIUdV57FhQEgt/bp/NLA-w>)
+- More info
+[Video Guide and Fight Commentary](https://youtu.be/bHVl0-zHDX4)
+
+Thanks to Autumn for the majority of this guide.
+
+TLDR:
+Priorities, high to low:
+- Dwarf: Rite, Road
+- Centaur: Energy Expulsion, Natural Harmony, Purifying Essence
+- Weapons: Shield 4
+- Dodge, dodge, dodge
+- Energy Meld, usually in Dwarf
+
+Role:
+- Healing, damage mitigation, cleansing, stability
+- Provide damage reduction through Rite of the Great Dwarf (Rite)
+- Provide stability through Inspiring Reinforcements (Roads)
+- Provide boons, healing, and cleansing in Centaur
+
+Fights (start at 50 energy in Dwarf stance):
+- Dodge regularly to keep up 20% outgoing healing buff and filler heal/cleanse/prot
+- Use Rite as group approaches enemies
+- Swap to Centaur
+- Use Energy Expulsion, the centaur elite, re-deploy Tablet again immediately
+- Cleanse if needed with Purifying Essence, otherwise heal with Natural Harmony
+- Swap to Dwarf below 10% energy ->Rite, Road, dodge
+
+Energy Management:
+- Try to be below 10 energy before you legend swap for extra 25 energy from Charged Mists (use upkeep skills if necessary)
+- You can legend swap during Rite without interruption but NOT Energy Expulsion (centaur elite)
+- Energy Meld gives 25 energy, use on cooldown and have a plan to use the bonus energy
+
+General Tips:
+- Learn to love tablet management. Its utils are small, 240 radius.
+- In Centaur, the first util used after deploying the tablet is "Empowered," giving them more value.
+- Prioritize utility skills over weapon skills if energy usage is tight
+- Always legend swap on cooldown, try to be below 10 energy

@@ -1,0 +1,62 @@
+Core Necromancer DPS Boon Strip
+<:necro:1162443913177608212> Core Necromancer DPS Boon Strip
+
+ - [The Build](https://gw2skills.net/editor/?PSDBc2tzlRExwCbIhsjOGZkO8L7rSA-DWZYBRfaQMM6g4PlmUE1JCyUgkzUwWnFOQADmXj+dKBA-w)
+ - [Credit: @Bloop]
+ - Weapon Options Axe/Focus, Scepter/Sword
+ - 18 Mighty Infusions
+ - Peppercorn-Crusted Sous-Vide Steak
+ - Superior Sharpening Stone
+ - Crit chance unbuffed + Fury + `Death Perception` (while in Shroud) + `Hematic Focus` (if bleed is present) 
+
+*Burst Damage Skill List*
+ - `Well of Corruption`
+ - `Well of Suffering`
+ - `Unholy Feast` (Axe 3)
+ - `Spinal Shivers` (Focus 5)
+ - `Devouring Darkness` (Scepter 3)
+
+*Damage Modifier Skill List* - `Death Perception` (Trait)
+ - `Spiteful Spirit` (Trait)
+
+*Ticking Damage Skill List*
+ - `Well of Corruption`
+ - `Well of Suffering`
+ - `Tainted Shackles` (Shroud 5)
+
+
+
+Example Burst Axe/Focus Rotation
+ - Start on Axe/Focus
+ - `Well of Corruption`(util)
+ - `Well of Suffering`(util)
+ - `Enter Death Shroud`(F1) 
+ - `Dark Path`(Shroud 2) + `Tainted Shackles`(Shroud 5)
+ - `Life Transfer`(Shroud 4)
+ - `Dark Path`(Shroud 2) - cast second time before leaving shroud
+ - `Exit Death Shroud`(F1)
+ - `Unholy Feast`(Axe 3)
+ - `Spinal Shivers`(Focus 5)
+ - `Ghastly Claws`(Axe 2)
+ - Swap to Scepter/Sword and repeat (Wells/Shroud may be on cooldown, use weapon skills as filler)
+
+Example Burst Scepter/Sword Rotation
+ - Start on Scepter/Sword
+ - `Well of Corruption`(util)
+ - `Well of Suffering`(util)
+ - `Enter Death Shroud`(F1) 
+ - `Dark Path`(Shroud 2) + `Tainted Shackles`(Shroud 5)
+ - `Life Transfer`(Shroud 4)
+ - `Dark Path`(Shroud 2) 
+ - `Exit Death Shroud`(F1)
+ - `Devouring Darkness`(Scepter 3)
+ - `Hungering Maelstrom`(Sword 4) -> `Gormandize`(Sword 4 flip)
+ - `Grasping Dead`(Scepter 2)
+ - Swap to Axe/Focus and repeat (Wells/Shroud may be on cooldown, use weapon skills as filler)
+
+*Build Options*
+ - Weapon Options Axe/Focus, Scepter/Sword.
+ - Use `Signet of Vampirism` as a second, better heal; do not save it only for recovery.
+ - Target enemy players at the back of the group when using `Life Blast` to maximize projectile hits.
+ - Use `Doom` (Shroud 3) only on single targets without Stability for CC.
+ - This build has high passive defense but low mobility and low active defense; use `Dark Pursuit` (Shroud 2) for movement.

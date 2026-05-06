@@ -1,0 +1,69 @@
+Scourge Support Boon Strip
+<:necro_scourge:1162443917648728124>Scourge Support Boon Strip
+- Credit: @disform 
+- PACK Build :wolf:   
+- [The Build](<https://gw2skills.net/editor/?PSgAEZlNweYSMEmJOsT1veA-DWJYjRF/pkkIITJQ1ChcWA+63QICwe4t0/mFA-w>)
+
+
+- More info
+### 💀 Necromancer WvW Guide 💀
+
+This guide will help you get the most out of your Necromancer build in group fights!
+
+#### 🛡️ Survival
+* **Moderate passive defense, low active defense, and no mobility skills.**
+* Be conservative with **Trail of Anguish**; it's your only stunbreak.
+* Don't use **Sand Flare** if the cast is likely to be interrupted.
+
+**Active Defense Priority:**
+1.  **Trail of Anguish** (for stunbreaking)
+2.  **Dodge**
+3.  **Sand Cascade**
+4.  **Sandstorm Shroud**
+5.  **Sand Flare**
+
+---
+
+#### 🧠 Detailed Explanations
+
+##### ⚔️ Weapon Skills
+* Start the fight in Greatsword. You are not a damage dealer in this build, so **do NOT use staff skills offensively**.
+* **Nightfall (GS4)** and **Grasping Darkness (GS5)** are the only important skills in the Greatsword set. **Death Spiral (GS3)** can be used occasionally for life force and some vulnerability.
+
+##### ❤️ Heal & Barrier
+* **Barrier is capped at 25% of your total health.** This makes your shade usage more tactical. Don't use all your barrier skills (including shades) in rapid succession, as you'll hit the cap and waste the rest. This is especially important at the start of a fight—watch your own health bar.
+* **Barrier lasts 5 seconds** after application before decaying.
+* All of your **Mark** skills on staff heal and provide additional effects via **Transfusion**. Hit enemies with them when possible, but prioritize allies.
+
+##### ✨ Cleanses & Boon Strips
+* **Boonstrips are critical** for this composition. Use your healing skill on cooldown once you are in melee. Hold your wells and/or elite skills if the commander is calling for them.
+* Your Punishment skills all remove boons, but with the exception of **Ghastly Breach**, they should be prioritized on allies. Try to aim them to hit both allies and enemies as much as possible.
+* **Nefarious Favor (F2)** and **Sandstorm Shroud (F5)** provide cleanses. Use F2 off cooldown.
+* All ally barrier applications, including **Sand Flare**, will remove conditions from them.
+
+---
+
+#### 🎮 How to Play the Build
+
+##### Pre-Engagement (at range)
+1.  Start in Greatsword.
+2.  Use **Manifest Sand Shade (F1)** and **Sand Cascade (F3)** on your group before engaging.
+3.  Use **Grasping Darkness (GS5)** for pulls when called.
+
+##### Engagement (in melee)
+1.  Use **Trail of Anguish** just before you hit melee, preferably in narrow corridors, bridges, or alleys.
+2.  Once the fight starts, swap to staff.
+3.  Use **Nightfall (GS4)** when you are in melee.
+4.  Use **Sandstorm Shroud (F5)** once you are in melee. It will cleanse up to 15 conditions in addition to the barrier it provides.
+5.  Use **Ghastly Breach** when the enemy group is pushing or your group is in melee range.
+6.  Spam **Mark of Blood (ST2)** since it has a very short cooldown.
+7.  Use **Chillblains (ST3)**, **Putrid Mark (ST4)**, and **Reaper's Mark (ST5)** accordingly.
+8.  **Reaper's Mark (ST5)** provides 3 stacks of stability to your party, which you can use to fill gaps.
+9.  **Serpent Siphon** is a powerful skill with a long cooldown. Use it in melee for maximum effect.
+10. Use **Sand Flare** and **Sand Cascade** as often as possible during pushes and extended fights.
+11. Use **Well of Corruption** for the commander's call. Place it so one edge is on the enemy group and the other is in the direction they are moving.
+
+##### Gap Actions (when caught out)
+1.  If your cast is likely to be interrupted, do not use **Sand Flare**.
+2.  Use **Trail of Anguish** to stunbreak if needed. It is your only stunbreak.
+3.  Dodge as your primary active defense.

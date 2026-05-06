@@ -1,0 +1,12 @@
+Harbinger Boon Support
+- <:necro_harbinger:1162443914050027643> Harbinger Boon Support
+  
+- [The Build](<https://gw2skills.net/editor/?PSgAEZlFwwYrMEWLO8T9RVA-DWJYjR1/ZkusKmlguuBEiw83i/XaAA-w>)
+
+**Your Role:** Boons, Strips, and Boon corruption
+
+- *Harbinger Boon Support* is a utility support that sets up its group with boon corruption
+   - well of corruption: use on wells call
+   - on engage: pop elite if available to give all boons to your party -> spam staff skills -> harbinger shroud 4 -> 5 -> 2 -> exit harbinger shroud -> Elixer of ignorance -> signet of locust -> summon blood fiend -> consume blood fiend -> use remaining staff skills.
+   - swap to gs when staff skills are on cd. Hit GS Skills 5 and 4 or when commander call for pulls   
+Note: for these this build signet of locust will remove 2 boons aoe, the heal skill summons blood fiend will remove 2 boons and consuming the blood fiend will remove another 2 boons so essentially people should always be consuming the blood fiend immediately after summoning it

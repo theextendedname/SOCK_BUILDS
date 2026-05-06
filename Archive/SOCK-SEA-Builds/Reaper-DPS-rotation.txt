@@ -1,0 +1,3 @@
+GS(5) -> GS(3) -> WellOfCorruption(util) -> WellOfSuffering(util) -> NothingCanSaveYou(util) -> ChilledToTheBone(elite) -> GS(4) -> WeaponSwap -> Spear(5) -> Spear(3) -> ReaperShroud(F1) -> RS(4) -> RS(1,1,1)  -> RS(4)
+
+https://www.youtube.com/watch?v=TSmKiMQa5bI

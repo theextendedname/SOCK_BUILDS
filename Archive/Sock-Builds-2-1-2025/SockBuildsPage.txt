@@ -1,0 +1,29 @@
+## With an ever changing meta, make sure you check this after big updates to the game.
+
+## <a:stabby_bear:1217805088362594435> MAIN STABS
+
+ - <:guardian_firebrand:1162443861944193054> [FIREBRAND](<http://gw2skills.net/editor/?PWwAYd7lRExwCbcZtu+mZme8X7vNA-DWJYjR9/ZkpKIdpgHfNEiAsHeL/fpBA-w>)
+
+## <:dobbyhappy:1141072699276398652> BOON SUPPORT
+
+ - <:revenant_renegade:1162443973114208296> [SUPPORT RENEGADE](<http://en.gw2skills.net/editor/?PmxAUlzlh0RHhsocypoJVTNJNoe6JoB2XfBOhCKIhpyl17G-D2IY1ou/QKWG0tCIdhgH/NUiwsHeL0/VBA-w>)
+ - <:warrior_spellbreaker:1162460415914156116> [SUPPORT SPELLBREAKER](<http://gw2skills.net/editor/?PKwEgEmpshC2XeTKp513O700/y+dB-DWJYjRX/hEkioapQOjAf9MIEiWIAsDeLtvZBA-w>)
+ - <:necro_scourge:1162443917648728124> [SUPPORT SCOURGE](<http://gw2skills.net/editor/?PSwAEdjlN0wkCaIhsnymZmmqXbveA-DWJYjRd/hEkkoTVQMDBfdCIEBY/8WafzCA-w>)
+ - <:mesmer_chronomancer:1162443888515100712> [SUPPORT CHRONO](<http://gw2skills.net/editor/?PiwAw2RlZkxsyaidssy2ZjesTutOA-DWJYjR3fhEUYkZBkeGo7vgQIg9QHPFOLtvZBA-w>)
+
+## <:dobbylovessocks:1141396755561324635> HEALERS
+
+ - <:ranger_druid:1162443942705516564> [DRUID](<http://gw2skills.net/editor/?POzEYKNssiMGThbpkhEyKj0yVyrlmCr23+rA-DWJYjRdfhkUokaCUdV471hTEg9zbp9NLA-w>)
+ - <:engineer_scrapper:1162443834140143626> [HEAL SCRAPPER](<http://gw2skills.net/editor/?PekAUVlNw8YOsH2Je2SntMA-DWJYjRVfhEUUkaCUdJ471hQEg9wbp9NLA-w>)
+ - <:revenant_vindicator:1162443974439616602> [HEAL VINDI](<http://gw2skills.net/editor/?PmgAYZll0RmZOqc6szNVTpluqeCN0F2XqpuhCqsynv0ZUH-DWJYjRFfhkUEkZKUdB47vgQEg9wDA-w>) 
+ - <:ele_tempest:1162460407743664169> [TEMPEST](<http://gw2skills.net/editor/?PG1AgihlRExciZN1slsWZlO2TrtfA-DWJYjRXfhkUkkaBUdS471hUEgdwbp9NLA-w>)
+
+## <:rockdog:1197983904259395704> DAMAGE
+
+ - <:warrior_berserker:1162460412835545119> [BERSERKER](<http://gw2skills.net/editor/?PKgAEJlRwoYTsGGJO+W6tLA-DWRYBRVWMsTpJRRjSgOVAtMEs1hhAEwe41ofnSAA-w>) 
+ - <:engineer_holosmith:1162443831837462539> [HOLOSMITH](<http://gw2skills.net/editor/?PegAIJlJUwmSbRFtrsGaqO2LvvfA-DWRYBRVWMsCppIJz0oiCw2bBHIg9zbR/zIA-w>) 
+ - <:revenant_vindicator:1162443974439616602> [HAMMER VINDI](<http://gw2skills.net/editor/?PmjAEJld0RMxsncyLv5UTd1tmeiLu91XkRugCiIiJ7lVMD-DWZYBR1sFUoY48KleSkeDpgjwKKCbfOcgA2DvF9ftAA-w>)
+ - <:guardian_dragonhunter_:1162443860425838714> [DRAGON HUNTER](<http://gw2skills.net/editor/?PW0AIt/lVUxwCbNRNnm2YjO0L+tXA-DWRYiR9H5cQbFTThUmVQnJQtBRFBqt/ACQA/to/ZEA-w>) 
+ - <:revenant_herald:1162443972157915186> [HAMMER HERALD](<http://gw2skills.net/editor/?PmgAEJlp0RHpMrcyJrdVTNdNse6JsJ2XfJuiCKoiJ/lWzG-DWRYBR1TM4SppoozEo3AsiSz2zCHIg/W0/MCA-w>)
+
+ Updated 6/2/2024

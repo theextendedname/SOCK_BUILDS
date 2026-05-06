@@ -1,0 +1,40 @@
+ - 1 commander, 6 chronos, 6 Support Vindi, 6 holosmith, 5 SpellBreaker,  6 support Scourge
+ If you find yourself the sorting hat for Parties. Here is a cheat sheet.
+We need a :
+support Vindi in every group, boon strip Pulls in every group, Healer in every group, secondary support in almost every group, DPS in every group.
+
+8 groups: 40 in comp
+Commander (1)
+Scrapper Heal (6) = Heal
+Druid (2) = Heal
+Vindicator Support (8) = Main stab
+Chronomancer (7) = secondary support
+Spellbreaker (8) = boon strip Pulls
+Scourge Power (3)= DPS boon strip
+(Holo or Scrapper) (5) = DPS
+
+
+ - 1 commander, 6 chronos, 6 Support Vindi, 6 holosmith, 5 SpellBreaker,  6 support Scourge
+Example parties 30  SOCK Dobby night
+**Group 1**: The lobby
+**Group 2**: <:catmander_purple:1162441936049799168> ,  <:HealVindi:1217514505261813820>, <:necro_scourge:1162443917648728124>, <:engineer_holosmith:1162441977074307182>, <:mesmer_chronomancer:1162443888515100712> 
+**Group 3 **:<:warrior_spellbreaker:1162460415914156116>,  <:HealVindi:1217514505261813820>, <:necro_scourge:1162443917648728124>, <:engineer_holosmith:1162441977074307182>, <:mesmer_chronomancer:1162443888515100712> 
+**Group 4**: <:warrior_spellbreaker:1162460415914156116> , <:HealVindi:1217514505261813820>, <:necro_scourge:1162443917648728124>, <:engineer_holosmith:1162441977074307182>, <:mesmer_chronomancer:1162443888515100712> 
+**Group 5**: <:warrior_spellbreaker:1162460415914156116>,  <:HealVindi:1217514505261813820>, <:necro_scourge:1162443917648728124>, <:engineer_holosmith:1162441977074307182>, <:mesmer_chronomancer:1162443888515100712> 
+**Group 6**: <:warrior_spellbreaker:1162460415914156116> , <:HealVindi:1217514505261813820>, <:necro_scourge:1162443917648728124>, <:engineer_holosmith:1162441977074307182>, <:mesmer_chronomancer:1162443888515100712> 
+**Group 7**: <:warrior_spellbreaker:1162460415914156116> , <:HealVindi:1217514505261813820>, <:necro_scourge:1162443917648728124>, <:engineer_holosmith:1162441977074307182>, <:mesmer_chronomancer:1162443888515100712> 
+
+
+
+
+ - 1 commander, 8 chronos, 8 Support Vindi, 8 holosmith, 7 SpellBreaker,  8 support Scourge
+Example parties 40  SOCK Dobby night
+**Group 1**: The lobby
+**Group 2**: <:catmander_purple:1162441936049799168> ,  <:HealVindi:1217514505261813820>, <:necro_scourge:1162443917648728124>, <:engineer_holosmith:1162441977074307182>, <:mesmer_chronomancer:1162443888515100712> 
+**Group 3 **:<:warrior_spellbreaker:1162460415914156116>,  <:HealVindi:1217514505261813820>, <:necro_scourge:1162443917648728124>, <:engineer_holosmith:1162441977074307182>, <:mesmer_chronomancer:1162443888515100712> 
+**Group 4**: <:warrior_spellbreaker:1162460415914156116> , <:HealVindi:1217514505261813820>, <:necro_scourge:1162443917648728124>, <:engineer_holosmith:1162441977074307182>, <:mesmer_chronomancer:1162443888515100712> 
+**Group 5**: <:warrior_spellbreaker:1162460415914156116>,  <:HealVindi:1217514505261813820>, <:necro_scourge:1162443917648728124>, <:engineer_holosmith:1162441977074307182>, <:mesmer_chronomancer:1162443888515100712> 
+**Group 6**: <:warrior_spellbreaker:1162460415914156116> , <:HealVindi:1217514505261813820>, <:necro_scourge:1162443917648728124>, <:engineer_holosmith:1162441977074307182>, <:mesmer_chronomancer:1162443888515100712> 
+**Group 7**: <:warrior_spellbreaker:1162460415914156116> , <:HealVindi:1217514505261813820>, <:necro_scourge:1162443917648728124>, <:engineer_holosmith:1162441977074307182>, <:mesmer_chronomancer:1162443888515100712> 
+**Group 8**: <:warrior_spellbreaker:1162460415914156116> , <:HealVindi:1217514505261813820>, <:necro_scourge:1162443917648728124>, <:engineer_holosmith:1162441977074307182>, <:mesmer_chronomancer:1162443888515100712> 
+**Group 9**: <:warrior_spellbreaker:1162460415914156116> , <:HealVindi:1217514505261813820>, <:necro_scourge:1162443917648728124>, <:engineer_holosmith:1162441977074307182>, <:mesmer_chronomancer:1162443888515100712> 

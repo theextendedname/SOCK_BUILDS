@@ -1,0 +1,13 @@
+Reaper Boon Strip
+<:necro_reaper:1162443916352700556> Reaper Boon Strip
+- Credit:  @disform
+- [The Build](<http://gw2skills.net/editor/?PSwAEtzlJwWYNMEWJOuL7NTA-D2QYroGqhvQyME6MB6oC88nQACXP8Wo/TDA-w>)
+- [Video Game Play](<https://youtu.be/WrwZqw_DtCE>)
+- More Info
+ - This is a variation of shout reaper builds, focused on bleed and chill. The main purpose of this build is boonrips first and then in far second, dps.
+ - All utilities should be used off CD. Scepter and sword set are our long range weapons, both max out at 900 range, do not wander off tag for extra dps. GS for pulls, boonrips and down cleave. Avoid GS1 and GS3 is situational. 
+ - Do not camp GS.
+ - Unlike most Reaper builds, we don't want to stay in shroud  as much as possible. Boonrips is the objective, not max damage. Once in shroud, immediately use shroud 3, followed by shroud 4 if already on melee. Shroud 2 is a nice boonrips skill, must be used with care, since it's a repositioning skill. Detonate shroud 3 before leaving shroud form.
+ - Swap weapons as soon as your skills are on CD, don't camp either. Complete Scepter auto attack chain to fill out if you have no choice. Scepter 3 has priority in the long range set. GS4 and GS5 for greatsword.
+ - For sword skills, similar to raid rotation, SW4 --> SW5 --->filler skill-->SW4-->SW5. This chain is not mandatory, boonrip and shroud are more important. 
+ - Note: "Nothing can save you" is a very powerful tool, use it as soon as you can, combined with elite, scepter 3 or GS5. Wiki says it has 1/2 seconds cast time, but it feels closer to 3/4, be aware not cancelling it.

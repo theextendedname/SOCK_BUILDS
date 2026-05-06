@@ -1,0 +1,52 @@
+Spellbreaker DPS Boon Strip
+
+<:warrior_spellbreaker:1162460415914156116> Spellbreaker DPS Boon Strip
+- Credit: @extended 
+- [The Build](<https://en.gw2skills.net/editor/?PKgEQLU2QBTKpN10oiand64bp/qA-D2QYhoqzeHUyh0kkoThQOrAbdWIABsHeN63pEA-w>)
+
+ * Your main role on this build is Damage and Boon strip
+ * Use your Spear to spike enemies at range
+ * Strip boons when the group mele spikes the enemy
+ * Use your melee weapons to finish enemies
+ * Do not camp a weapons. Weapon swapping reduces your `Burst` cooldowns, gives you swiftness and boosts your damage by 10%
+ * `Full Counter` (F2) is OP.  Endurance Gain, Adrenaline Restore, Grants Swiftness, Does Damage, Reduces your incoming Damage by 100%, Grants Stability, Grants evasion, Dazes enemies, Strips Boons. Please learn to us this Burst Skill it is amazing. 
+* *Pro Tip* `For Full Counter to activate you must get hit and be within 300 range of the attacker. It is a MELEE burst skill!!`
+
+
+**Boon Strip Skill List**
+ * Break Enchantments (utility)
+ * Winds of Disenchantment (elite)
+
+
+**Defensive Skill List**
+ * `Defiant Stance` (heal) = Convert incoming damage into healing
+ * `Whirlwind Attack` (GS 3) = Evade + Movement (Warrior's Sprint)
+ * `Rush` (GS 5) = Movement (Warrior's Sprint)
+ * `Spear Swipe` (Spear 5) = Evade Evade
+
+
+**Range Burst**
+ * `Signet of Might` (utility)
+ * `Disrupting Throw` (Spear 3)
+ * `Spearmarshal's Support` (Spear 4)
+ * `Harrier's Toss` (Spear F1)
+ * `Maiming Spear` (Spear 2)
+``The goal is to land as much damage in as short a time as possible, overlapping damage such as 
+Spearmarshal's Support ⇒ Harrier's Toss to increase burst
+If Spearmarshal's Support is on cooldown use Maiming Spear before Harrier's Toss instead``
+
+**Melee Burst**
+ * `Signet of Fury` (utility)
+    * If melee is hot use `Defiant Stance` (heal)
+ * `Break Enchantments` (utility)
+ * `Arcing Slice` (GS F1)
+ * `Full Counter` (GS F2)
+ * `Arcing Slice` (GS F1)
+
+
+  ***Boon Strip***
+ *  Land `Winds of Disenchantment` (elite) on the enemy group while your group is in range to follow up with a spike. You can do this either as your group pushes into the enemy group or as the enemy group pushes into your group. In either case it ISN'T usually a good idea to go far from your own group during the cast.
+ *  You should be casting `Break Enchantments` (utility) as often as possible, ideally right before either you or your group spikes the enemy group
+ * `Break Enchantments`(utility) is a great way to strip boons and proc Loss Aversion to give you enough Adrenaline for Arcing Slice or Harrier's Toss 
+ * Spellbreaker as many passives and skill synergies that generate boon strip and boost damage. 
+      * `Dispelling Force` (passive) when you daze an enemy with `Disrupting Throw` (Spear 3) you also strip a boon. That boon strip gives you adrenaline from the `Loss Aversion` trait. You also get 2 stacks of `Attacker's Insight` (trait) and strip up to 5 near by foes of one boon. Which gives even more `Attacker's Insight` (trait). There are more synergies at play here but you should get the idea.

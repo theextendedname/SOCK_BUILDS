@@ -1,0 +1,36 @@
+Luminary Boon Support 
+<:Luminary:1432827510726459564> Luminary Boon Support
+ - [Build](https://gw2skills.net/editor/?PWwAYl7l5yiZcMMGJmKX7zNA-DWJYjRN/ZkuSImZguOREiRTegKwsHCcL+fpBA-w)
+ - [Video](https://www.youtube.com/watch?v=tnwxyRZNQP8)
+
+Spiced Pepper Creme Brulee
+Magnanimous Maintenance Oil
+
+
+**Rotation:**
+ - On ~900 range, cast SYG -> F1
+ - when moving towards/away from enemy blob cast Feel My Wrath! (elite skill)
+ - On initial melee clash -> cast F3 -> F2 
+ - Rotation during melee clash: 
+   1. Enter Forge -> Forge Rotation -> exit Forge
+   3. Staff 3 and 2 (if under heavy condi pressure)
+   4. Swap mace/shield
+   5. mace 3 -> wait for proc -> mace 2 -> shield 4
+ - at this point your stabs should be used as it comes off CD (use your own judgement, dont use 2 stab skills back to back unless under heavy strips) with priority being given to F3 being used first. Remember to also use f1 and f2 off CD or as cover boons
+
+**Forge Rotation:**
+ 1. Enter Forge
+ 2. Gleaming Blade(Skill 4) -> only if you are able to not be off tag, you can move slightly further behind tag and use it such that you would be on tag when used
+ 3. Luminous Staff (Skill 3) -> Restorative Glow (Skil 3)
+ 4. Dazzling Hammer(Skill 2) - this skill is a CC skill as well, try to use it in melee
+ 5. Radiant Bulwark(Skill 5) -> hold for 2s and move slightly in front of the commander since its a block skill allowing you to soak dmg for the squad -> Brilliant Slam (Skill 5)
+
+**Notes:**
+ - Prioritize Radiant Forge Rotation during clashes as forge 3 allows you to take dmg for the squad and forge 5 is blocks allowing you to soak dmg. Radiant Bulwark would be in CD sometimes so you can skip that when in forge.
+ - ensure that you use all your F skills if its up before casting the radiant forge skills for more cd reduction on your F skills.
+ - Staff 5 (Lines of warding) should be held for commander calls, however if the commander doesn't call for them just drop them on enemy pushed or when we are pushing on the enemy
+ - your heal and f2 are able to deal massive condi cleanse so use them off cd if possible
+ - shield 5 is an aoe knockback so use it when CCs are called or whenever we are in a melee clash
+ - stay in mace/shield for optimal prot uptime and swap to staff when syg is ready ~3 cast of mace 3 and casting staff 3,2,5 would be better, rmb to swap to staff if commander calls for lines as well.
+ - your dodges will give you alac with relic of rivers now so dodge more when you can. Staff 4 gives you and your squad endurance back as well on initial cast synergizing with the dodge but will root you. if needed to move you can cast staff 4 and then cancel the skill to move but there is still a delay when cancelling it.
+ - most of your skills other than stab skills on your bar should always be in cd, including your elite skill in a fight.

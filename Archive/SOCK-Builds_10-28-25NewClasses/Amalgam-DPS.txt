@@ -1,0 +1,76 @@
+Amalgam DPS
+<:Amalgam:1432799643426619493> Amalgam DPS
+
+ - [Hammer Build](https://gw2skills.net/editor/?PegAIJlJz8Y2sO2NO2LfzMFo96THA-D2QYhoqDcH0Xh0USUXIURFY7ZhCEwe4to/MAA-w)
+ - Weapon Options Spear, Rifle
+ - 18 Mighty Infusions
+ - Peppercorn-Crusted Sous-Vide Steak
+ - Superior Sharpening Stone
+ - [Game Play Video](https://youtu.be/ipybJyHJtxE)
+ - 60% crit chance unbuffed  +25% Fury&Hematic Focus  +10% when inside 450 distance *95%*  +10% `if in evolve` or (+5%,+10%,+15) Heavy Metal Trait `if enemy health is low` 
+
+*Burst Damage Skill List*
+ - `Offensive Protocol: Obliterate` (F2)
+ - `Offensive Protocol: Demolish` (F3)
+ - `Napalm`
+ - `Thunderclap`/`Devistator`/`Jump Shot`
+ - Mortar kit (if slotted to fight cloud)
+
+*Damage Modifier Skill List* 
+ - `Plasmatic State`
+ - `Evolve` (F5)
+
+*Ticking Damage Skill List*
+ - `Acid Bomb`(EG4)
+
+*StunBreak*
+ - `Defensive Protocol: Thorns` (F4)
+ 
+Example Burst Hammer Rotation
+ - Start on Hammer 
+ - `Thunderclap`(Hammer5)
+ - `Plasmatic State`(util)
+ - `FluxState`(elite)
+ - `Thorns(F4)` + `Obliterate`(F2) + `Demolish`(F3)
+ - `Evolve`(F5)
+ - `Obliterate`(F2) + `Demolish`(F3) + `Thorns`(F4)
+ - Swap to Elixir Gun 
+ - `Acid Bomb`(EG4) + Weapon Swap to Flamethrower (animation canceling the Leap Back)
+ - Swap to Flamethrower  -> `Flame Blast`(FT2) -> `Napalm`(FT5)  
+ - Flamethrower/auto(1) -> `Flame Blast`(FT2) until Protocols are off cool down. Then Swap to Hammer and repeat(evolve wont be up yet so you only get to hit F4+F2+F3 once on the second pass)
+
+Example Burst Spear Rotation
+ - Start on Flamethrower
+ - `Plasmatic State`(util)
+ - `FluxState`(elite)
+ - `Thorns`(F4) + `Obliterate`(F2) + `Demolish`(F3)
+ - `Evolve`(F5)
+ - `Obliterate`(F2) + `Demolish`(F3) + `Thorns`(F4)
+ - Swap to Elixir Gun 
+ - `Acid Bomb`(EG4) + Weapon Swap to Spear (animation  canceling the Leap Back)
+ - Swap to Spear
+ - `Roiling Skys`(Spear4) 
+ - `Devastator`(Spear5)
+ - Swap to Flamethrower  -> `Flame Blast`(FT2) -> `Napalm`(FT5)  
+ - Flamethrower/auto(1) -> `Flame Blast`(FT2) until Protocols are off cool down. Then repeat(evolve wont be up yet so you only get to hit F4+F2+3 once on the second pass)
+
+Example Burst Rifle Rotation
+ - Start on Rifle 
+ - `Plasmatic State`(util) 
+ - `FluxState`(elite)
+ - `Jump Shot`(Rifle5) 
+ - Swap to Elixir Gun 
+ - `Acid Bomb`(EG4) + Weapon Swap to Spear (animation canceling the Leap Back)
+ - Swap to Rifle
+ - `Blunderbuss`(Rifle2) 
+ - `Thorns`(F4) + `Obliterate`(F2) + `Demolish`(F3)
+ - `Evolve`(F5)
+ - `Obliterate`(F2) + `Demolish`(F3) + `Thorns`(F4)
+ - Swap to Flamethrower  -> `Flame Blast`(FT2) -> `Napalm`(FT5)   
+ - Flamethrower/auto(1) -> `Flame Blast`(FT2) until Protocols are off cool down. Then repeat(evolve wont be up yet so you only get to hit F4+F2+3 once on the second pass)
+
+*Build Options*
+ - Weapon Options Hammer, Spear, Rifle
+ - If we are fighting Cloud then Swap your (elite skill to  `Mortar Kit`), (Elixir Gun to `Gaseous State`)
+ - Remember to Swap your skills and elite back to the default build when we fight organized groups.  
+ - Hammer build is easier to stay on tag with and stay alive.

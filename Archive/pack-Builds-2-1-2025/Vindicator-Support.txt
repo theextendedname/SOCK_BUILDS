@@ -1,0 +1,31 @@
+Vindicator Support
+<:revenant_vindicator:1162443974439616602>Vindicator Support
+- Credit: @Autumn
+- [The Build](<http://gw2skills.net/editor/?PmwAs6ZldQIsHSi5QQsGKi9RgsASgnr0ZcH-DWJYjR3fpEUCkWg2dEkeZp7LiQEm/W8/XDA-w>)
+- More info
+Role:
+- provide stability through Inspiring Reinforcements (Roads)
+- provide damage reduction through Rite of the Great Dwarf (Rite)
+- boon strip
+- incidental healing + cleansing
+
+Fights (start at 50 energy in Dwarf stance):
+- dodge regularly to keep up 10% outgoing healing buff (lasts 6s)
+- use Rite as group approaches enemies
+- use Energy Meld to gain energy for Roads
+- legend swap to Mallyx, strip boons
+- support party until you can legend swap back to Dwarf
+
+Energy Management:
+- try to be below 10 energy before you legend swap for extra 25 energy from Charged Mists (use upkeep skills if necessary)
+- you can legend swap during a cast without interruption (try it with Rite)
+- Energy Meld gives 25 energy, use on cooldown and have a plan to use the bonus energy
+
+General Tips:
+- prioritize utility skills over weaponskills if energy usage is tight
+- always legend swap on cooldown, try to be below 10 energy
+- Banish Enchantment is a beam to your target, but target does not need to be in range
+- Pain Absorption pulls conditions from your party to you, be careful under siege/oil
+- dodge more than you think. however much you just imagined, double that number
+
+Please reach out if you have any questions or want training. This build is easy to play at an okay level but requires a lot of effort to optimize.

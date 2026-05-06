@@ -1,0 +1,11 @@
+Berserker DPS
+<:warrior_berserker:1162460412835545119> Berserker DPS
+- Credit: @autumn
+- [The Build](<http://en.gw2skills.net/editor/?PKwAEhflRwoYTsGGJO+WatLA-DWRYBR9TM4ippAtuQoxCoyIozEwkzCFIg9wbR/zIA-w>)
+- [Video @autumn](<https://www.youtube.com/watch?v=UYc0ndvAE60>)
+- More info
+  - Primary goal: get 4-6 primal burst skills per activation of Berserk
+  - Secondary goal: Use elite banner to revive allies and stomp enemies
+  - Alternate: if you need more stability, swap Sundering Leap to Balanced Stance. Full marauder gear provides more survivability but less damage, pick per your preference.
+  - Always stay on tag, wait for melee range to enter berserk. If berserk is not available, save skills until it is. Anticipate when downs will happen, use banner earlier than you think.
+  - How to get 6 bursts per berserk: [Video](<https://www.youtube.com/watch?v=UYc0ndvAE60>)

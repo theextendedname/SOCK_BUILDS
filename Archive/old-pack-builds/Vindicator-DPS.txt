@@ -1,0 +1,10 @@
+Vindicator DPS
+<:revenant_vindicator:1162443974439616602>Vindicator DPS
+- Credit: @Ward
+- [The Build](<http://gw2skills.net/editor/?PmgEQLU2RMZm5cyrzOXTdlW6eiL0Q3Xkpm6CioyKn8XqxMA-DWRYBRFIG+SppwouCIzEozIw2zCBQg9wB/J9AW0/MCA-w>)
+- [Video @Ward](<https://youtu.be/ElrKYMQHdWQ>)
+- More info
+ - If you are comfortable surviving with this build, you can replace some of the marauder's gear with berserker's/assassin's pieces for a damage increase at the cost of lower health. Make sure if you do this that you keep your crit chance around 60%
+ - Always use spear in alliance stance and greatsword in dwarf stance. When switching between them, always swap legends before swapping weapons so that you proc all of your swap sigils. Dodge whenever you have full endurance to gain extra damage from Leviathan Strength and Forerunner of Death.
+ - Start fights with alliance stance/spear, and stay in this stance whenever you are doing ranged combat. Use Scavenger Burst first for fury/quickness and cast Scavenger Burst and Spear 5 on cooldown. Use Spear 2 and Spear 4 when you do not have full charges of Spear 5 to reduce its cooldown. Use Energy Meld if you run out of energy to keep using these skills. 
+ - Swap to greatsword/dwarf stance when you enter melee range. Activate Vengeful Hammers and use Greatsword 2, 3, and 5 (you can skip Greatsword 3 if the forced movement is a problem). Continue auto-attacking and using any greatsword skills that come off of cooldown. Swap back to alliance/spear as soon as possible, and continue swapping between the two stances on cooldown while in melee combat.

@@ -1,0 +1,42 @@
+SOCK Testing Builds 11-01-25
+  build editor is not updaaaatedddd yet but the traits are in the correct position
+  Please look at the notes under each build as they may have changed
+  
+  
+[Amalgam DPS](https://gw2skills.net/editor/?PegAIJlJz8Y2sO2NO2LvTPFo96THA-DWRYBRVbO4CppkIzQoiKw2zCFQg0Hk9wB+W0fGAA-w)
+**change**  drop spear for hammer and run the "Flux State" elite. Switch back to mortar kit if we are in cloud heavy fights.
+13 precise infusions + 5 power infusions
+46% crit chance unbuffed -> 76% buffed ->  +15% when inside 450 distance 91% -> hit 100% crit chance in evolved form 
+Peppercorn-Crusted Sous-Vide Steak
+Superior Sharpening Stone
+
+[Troubadour Main Stab Support](https://gw2skills.net/editor/?PiwAw6RlZwsYwMRGNe0TqTdA-DWJYjRHfZkZKUdFo7rhQIg9gA+p7Hs0+lGA-w)
+**change** Troubadour traits "Mayhem" to "Hold the note"
+12 concentration infusions + 6 healing infusions
+with regen active 100% boon duration
+Bowl of Fruit Salad with Mint Garnish
+Magnanimous Maintenance Oil
+
+[Luminary Main Stab Support](https://gw2skills.net/editor/?PWwAYl7l5yiZXMMGJe8X6zLA-DWJYjRNfZUdGkeJo7LhQEm9wbx/LNA-w)
+**change** drop spear for staff and run the Relic of the Pack
+18 concentration infusions
+Bowl of Fruit Salad with Mint Garnish
+Magnanimous Maintenance Oil
+
+[Paragon Boon Support](https://gw2skills.net/editor/?PKxEYiNssA2HDjJzIxk3ye6B-DWJYjRNfhEUYkZCkaFo7zgQEg9wbp/LNA-w)
+Tactics -> Martial Cadence more stab and condi cleanse on weapon swap
+18 Healing infusions
+Bowl of Spiced Fruit Salad
+Magnanimous Maintenance Oil
+
+[Evoker Healer](https://gw2skills.net/editor/?PGgAYZlBnwkbaYZN6yWd1e2SbTbluBAA-DWJYjRVfhEUCkZEUdJ471hQEg9wbp9NLA-w)
+18 Healing infusions
+Bowl of Fruit Salad with Mint Garnish
+Magnanimous Maintenance Oil
+
+Conduit DPS
+https://gw2skills.net/editor/?PmgEQLUGTMxy8yrWWXd5y4irXGZkBzIioVm8XqzbA-DWRYBRFXvYQClSThRdFQmJQnRgtnFCQA7h3i+nRAA-w
+full zerkers with 1 marauder accessory to hit 60% crit
+relic of thief
+[&DQkPGgM+TzfcEdwRKxIrEgYSBhLUEdQRyhHKEQgCCAIrEgYS1BErEgYS1BECCQEyAAA=]
+[Rotation Video](https://www.youtube.com/watch?v=U4Nm4jpWM8U)

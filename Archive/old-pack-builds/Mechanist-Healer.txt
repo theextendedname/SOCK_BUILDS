@@ -1,0 +1,11 @@
+Mechanist Healer
+<:engineer_mechanist:1162441978122883173> Mechanist Healer
+- Credit:  @Bryan
+- [The Build](<http://gw2skills.net/editor/?PegAUJlN0wcZe5tWWMe0SnxVA-DWRYjKBhKqOXkQKFVKJFIpGCVXFpnA6ed4EBYP8W6/SDA-w>)
+- More Info
+ - This build is very close to a PvE Heal Alacrity Mech some of you may have played. It's not much of a change from Support Scrapper, and we still have most of the same tools to heal and cleanse. The mech adds some complexity, but it's a powerful tool for buffing the party.
+ - Support mechs are giving up some healing and cleansing in exchange for boon duration and lots and lots of alacrity for your party via barrier application. Know what skills give barrier so you can aim for 100% alacrity uptime.
+ - Note that the mech won't survive long in combat. Set him to avoid combat. F1 can be used at range to give Regen before the clash. I've been engaging with Shift Signet, to place the mech precisely, then F2 and F3 on the group. As soon as F3 channels, I stow the mech and start rotating through skills similarly to Scrapper Heals. Keep him stowed until the CDs are ready, then deploy and repeat. If the mech dies, use the elite to re-deploy him only when the skill CDs are ready. Do not use the elite with mech deployed.
+ - There's a few pieces of Giver armor to max out boon duration. This isn't absolutely necessary, but something to work toward. Stay in full minstrels until you can acquire those pieces. Also notice our utility oil has changed.
+
+ 

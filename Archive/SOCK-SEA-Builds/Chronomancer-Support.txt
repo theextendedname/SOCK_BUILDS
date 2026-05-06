@@ -1,0 +1,42 @@
+Chronomancer Support
+ <:mesmer_chronomancer:1162443888515100712>Chronomancer Support
+
+- [The Build](<http://en.gw2skills.net/editor/?PiwAQx3lZwsYZMFWJesTqtUA-DWJYjRNfZkZFUdKo7vgQEm9wbx/fNA-w>)
+
+- More info
+ - Primary goal: Provide boons and healing to party.
+ - Secondary goal: Revive downs with Illusion of Life.
+
+ - Boons
+  - Stability --> Distortion (F4) and Mantra of Concentration
+  - Alacrity --> on any shatter
+  - Quickness --> Time Warp (elite)
+  - Protection --> on any shatter
+
+ - Healing --> on any shatter, using heal mantra
+
+ - Continuum Split
+  - Getting good value is important to maximize boon output. With 3 clones, you have time to use all shatters, reset with Signet of Illusions, 
+  then use all shatters and Time Warp.
+
+
+ <:mesmer_chronomancer:1162443888515100712>Chronomancer Support Portal Bomb
+- Portal Bomb Build
+- [The Build](<http://en.gw2skills.net/editor/?PigAQZlZwuYasQGKeUTqtOA-DWJYjRFfZUdKkeFo7vgQEm9wbx/fNA-w>)
+- [Portal Bomb Training Video](<https://www.youtube.com/watch?v=DpRUkA3rNxE>)
+  - This is the build for portal bomb.  
+  - you only need to have an extra Build slot.  
+  - Should be similar our support chrono role to make it more useful after you do the portal bomb.
+
+- Portal Bomb 101 
+  - Place portal entrance
+  - Start casting Elite
+  - While casting Elite hit F5
+  - Once you have used up F5 use mimic
+  - Blink towards enemy
+  - Watch for stealth ending and recast elite
+  - Use blink again
+  - Get in position and call out for portal drop 
+  - Note the direction you are facing when you drop the exit portal is the direction anyone that uses the portal will face. (try not to make us face a wall)
+  
+  

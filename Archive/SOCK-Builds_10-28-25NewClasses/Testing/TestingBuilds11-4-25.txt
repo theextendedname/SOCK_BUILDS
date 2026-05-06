@@ -1,0 +1,90 @@
+SOCK Testing Builds 11-04-25
+  build editor is not updaaaatedddd yet but the traits are in the correct position
+  Please look at the notes under each build as they may have changed
+
+30 man comp we are working toward
+4 Boon Support Paragon 
+2 Boon Support Spellbreakers 
+6 Main Stabs (troub, lumi, fb, chrono?)
+6 Heals (druid, scrapper, evoker)
+4 AOE DPS Ritualist (range spike, wells) 
+2 AOE DPS Scourges (strips, wells)
+6 BIC Damage DPS (Scrapper, Halosmith, Core Warrior, Untamed, Conduit, Renegade)
+
+<:Conduit:1432827516170666155> 
+<:Troubadour:1432827508021002412> 
+<:Evoker:1432827513884770324> 
+<:Luminary:1432827510726459564> 
+<:Ritualist:1432799639979036833> 
+<:Paragon:1435122104243847249>
+New 30 Player SOCK Comp
+* 1 Commander
+* 6 Main Stabs (troub, lumi, fb, chrono?)
+* 6 Healer (Druid, Scrapper, Evoker)
+* 4 Boon Support Paragon
+* 2 Boon Support Spellbreakers
+* 3 AOE DPS Ritualist (range spike, wells) 
+* 2 AOE DPS Scourges (strips, wells)
+* 6 BIC Damage DPS (Scrapper, Core Warrior, Soulbeast, Conduit, Renegade, DH)
+
+
+
+Example parties 30  SOCK Comp
+**Group 1 **: The lobby
+**Group 2 **: <:catmander_purple:1162441936049799168>, <:role_heal:1066927219450073108>, <:Paragon:1435122104243847249>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 3 **: <:necro_scourge:1162443917648728124>, <:role_heal:1066927219450073108>, <:warrior_spellbreaker:1162460415914156116>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 4 **: <:Ritualist:1432799639979036833>, <:role_heal:1066927219450073108>, <:warrior_spellbreaker:1162460415914156116>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 5 **: <:necro_scourge:1162443917648728124>, <:role_heal:1066927219450073108>, <:Paragon:1435122104243847249>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 6 **: <:Ritualist:1432799639979036833>, <:role_heal:1066927219450073108>, <:Paragon:1435122104243847249>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 7 **: <:Ritualist:1432799639979036833>, <:role_heal:1066927219450073108>, <:Paragon:1435122104243847249>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+
+<:Ritualist:1432799639979036833> 
+[Ritualist DPS](https://en.gw2skills.net/editor/?PSwAc2Fl5yiZHME2MOyXnzdA-DWZYBhtFsY0BFSThUdFQFZgtnFCg4YMHmmqMDAA-w)
+8 power infusions + 10 Condition infusions
+Peppercorn-Crusted Sous-Vide Steak
+Superior Sharpening Stone
+
+[Scourge DPS](https://gw2skills.net/editor/?PSwAc2FlNweYHMEmJOqLaveA-DWRYBRnIG+SppEquCozQoiIw2zCBQcM2DTTVmBAA-w)
+8 power infusions + 10 Condition infusions
+Peppercorn-Crusted Sous-Vide Steak
+Superior Sharpening Stone
+
+<:Conduit:1432827516170666155>  
+[Conduit DPS](https://gw2skills.net/editor/?PmgEQLUGTMxy8yrWWXd5y4irXGZkBzIioVm8XazbA-DWRYBRFHvYQDlSTJRdFQnRQFhgtnFCQA7h3i+nRAA-w) 
+**Change** add 2 piece of marauder and swap energy sigil for force
+full zerkers with 2 marauder accessory to hit 60% crit
+relic of thief
+18 power infusions
+[Rotation Video](https://www.youtube.com/watch?v=U4Nm4jpWM8U)
+Peppercorn-Crusted Sous-Vide Steak
+Superior Sharpening Stone
+
+<:Troubadour:1432827508021002412>   
+[Troubadour Main Stab Support](https://gw2skills.net/editor/?PiwAw6RlZwsYwMRGNe0TqTdA-DWJYjRHfZkZKUdFo7rhQIg9gA+p7Hs0+lGA-w)
+**change** Troubadour traits "Mayhem" to "Hold the note"
+12 concentration infusions + 6 healing infusions
+with regen active 100% boon duration
+Bowl of Fruit Salad with Mint Garnish
+Magnanimous Maintenance Oil
+
+<:Luminary:1432827510726459564> 
+[Luminary Main Stab Support](https://gw2skills.net/editor/?PWwAYl7l5yiZXMMGJe8X6zLA-DWJYjRNfZUdGkeJo7LhQEm9wbx/LNA-w)
+**change** drop spear for staff and run the Relic of the Pack
+18 concentration infusions
+Bowl of Fruit Salad with Mint Garnish
+Magnanimous Maintenance Oil
+
+<:Paragon:1435122104243847249>
+[Paragon Boon Support](https://gw2skills.net/editor/?PKxEYiNssA2HDjJzIxk3ye6B-DWJYjRNfhEUYkZCkaFo7zgQEg9wbp/LNA-w)
+Tactics -> Martial Cadence more stab and condi cleanse on weapon swap
+18 Healing infusions
+Bowl of Spiced Fruit Salad
+Magnanimous Maintenance Oil
+
+<:Evoker:1432827513884770324>
+[Evoker Healer](https://gw2skills.net/editor/?PGgAYZlBnwkbaYZN6yWd1e+SbTbluBAA-DWJYjRVfhEUCkZEUdJ471hQEg9wbp9NLA-w)
+**change** the 'rock solid' passive switch to 'earthen blessing'
+18 Healing infusions
+Bowl of Fruit Salad with Mint Garnish
+Magnanimous Maintenance Oil
+

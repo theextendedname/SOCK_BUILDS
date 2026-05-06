@@ -1,0 +1,39 @@
+
+
+Nexle DD build
+https://en.gw2skills.net/editor/?PGABgihjlBnwkbaYZN6yWd1OWTpTbluBAA-DWJYjRdfhEUEUdBkeI47JgQEgeLtvZBA-w
+
+Evoker Healer
+<:Evoker:1432827513884770324> Evoker Healer
+[TheBuild](https://gw2skills.net/editor/?PGgAYZlBnwkbaYZN6yWd1e+SbTbluBAA-DWJYjRV/hEkEoalQMjAfddIEBYP8WafzCA-w)
+18 Healing infusions
+Bowl of Fruit Salad with Mint Garnish
+Magnanimous Maintenance Oil
+
+
+Utilities
+- Swap Glyph of Renewal if rez utility isn't needed
+ - Fox's Fury
+   - AoE Might Might + Fury Fury
+ - Toad's Fortitude
+   - AoE Stability Stability
+ - Arcane Echo
+   - Condition Clear via resetting Healing Rain
+ - Arcane Wave
+   - Blast Finisher
+
+
+- *Water Evoker* has very high healing and cleanse but low boon output
+   - Use Glyph of Renewal to revive downed allies
+   - Cast Splash and Buoyant Deluge immediately any time they are available
+   - Specialized Elements will reduce your weapon skill cooldowns whenever you use a Familiar skill
+
+- Use the following skill priority to maximize casts
+   - 1. Ice Spike
+   - 2. Geyser
+   - 3. Healing Rain
+   - 4. Frozen Ground
+   
+- Use Rejuvenate any time you don't have two weapon skills with less than 2s cd after casting Splash
+- Use Otter's Compassion or Signet of Water any time you need extra condition clear
+- Use Elemental Procession when you can hit both enemies and allies or the CC would be valuable

@@ -1,0 +1,15 @@
+<:Paragon:1435122104243847249> Paragon Boon Support
+[Build](https://gw2skills.net/editor/?PKxEYiNssA2HDjJzIxk3ye6B-DWJYjRNfhEUYkZCkaFo7zgQEg9wbp/LNA-w)
+18 Healing infusions
+Bowl of Spiced Fruit Salad
+
+- **Support Paragon** is a healing/cleanse support focused on boon application
+ - Prioritize keeping Chant of Action active and reactivating it as often as possible
+ - Use Chant of Recuperation and Chant of Freedom to reduce the cooldown of all Chants and apply Quickness Quickness via Feverish Pulse
+ - Use your Burst skills and Weapon Swap Weapon Swap off cooldown to maintain Motivation and proc Marching Orders + Soldier's Comfort + Martial Cadence
+ - Use "Never Surrender!" and Banner of Tactics frequently to give your party Resistance Resistance
+ - Use "To The Limit" to regain all adrenaline and give allies Endurance
+ - Use "Battle Standard" to stomp a clump of enemies or revive downed allies
+ - Heal and Condition Clear your party with Staff and Warhorn skills
+ - always us Warhorn skills Charge + Call of Valor in order(4+5). 
+ - CC when your group spikes with Flurry and Snap Pull

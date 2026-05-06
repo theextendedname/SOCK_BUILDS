@@ -1,0 +1,23 @@
+
+# <@&1140850329655709736> Many Many Changes Pay attention to the sigils [SOCK Build Page](<https://discord.com/channels/1115014890822836317/1221836727237480448>)
+ - <:mesmer_chronomancer:1162443888515100712> SUPPORT CHRONO
+ - <:necro_scourge:1162443917648728124> SUPPORT SCOURGE
+ - <:ranger_druid:1162443942705516564> DRUID
+ - <:ele_tempest:1162460407743664169> TEMPEST
+
+# <@&1140850329655709736> Major Change to EST Comp [𝗗𝗔-𝗘𝗦𝗧 Comp Page](<https://discord.com/channels/1115014890822836317/1221836727237480448>)
+ - 😷<:condi:541178700142477322><:condition_burn:1070972482737152060><:condition_poison:1070970526639595582>💉
+ - DA-EST or sometimes called NA Comp is changing with the meta to more condition heavy damage
+ - This does not effect 𝗗𝗔-𝗦𝗘𝗔 Comp
+ 
+
+# <@&1140850329655709736> Fix for Support Alacbender [𝗗𝗔-𝗘𝗦𝗧 Comp Page](<https://discord.com/channels/1115014890822836317/1248123836788903937>)
+ -  it's now an actual support build
+ - Thanks for noticing @_suricatta 
+
+
+
+# <@&1140850329655709736> Fix for Scourge builds [𝗗𝗔-𝗘𝗦𝗧 Comp Page](<https://discord.com/channels/1115014890822836317/1221836727237480448>)
+ -  Minstral Scourge added
+ - Condi Scourge sigil changes  
+

@@ -1,0 +1,40 @@
+(The scene is a desecrated cathedral, choked with emerald fog. A hulking figure in tattered, black plate armor stands over a pile of sun-bleached bones. A massive, jagged scythe leans against a nearby pillar. The **High Archon of the Grave** turns to you, eyes glowing with a cold, necrotic fire.)
+
+---
+
+### **THE LAWS OF THE REAPER**
+
+"Step closer, little spark. Do not tremble. If I wanted your soul, I would have harvested it while you slept. No... I see a hunger in you. You wish to walk the path of the Reaper? To become the cold shadow that breaks the back of armies? Then listen, and pray your mind is as sharp as your blade."
+
+#### **LAW OF THE PATIENCE OF THE GRAVE**
+"The fools of the world—the Warriors, the Guardians—they rush in, screaming and bleeding. You? You are the inevitable end. You must have **patience**. You carry the *Wells of Corruption and Suffering*. Do not cast them at shadows or skittish scouts. Wait. Wait until the 'Zerg'—that mindless, thrumming hive of the living—commits its full weight. Wait until they stop their frantic dancing and stand still. *That* is when you drop your Wells. When they cannot run, they shall rot."
+
+#### **LAW OF THE VEIL OF SHROUD**
+"Your true power lies within the **Reaper’s Shroud**, but it is a fragile divinity. The more pain you allow these mortals to inflict upon you, the faster your Shroud shatters. **Stay upon the Tag.** Let the others absorb the brunt of the storm; stay in their wake to ensure your Shroud lasts.
+
+And remember, little one, when you step into the Shroud, you do not just enter a state of death—you become its master.
+* **The Strip:** As you enter Shroud near the enemy, their 'Boons'—their pathetic charms and prayers—will be ripped away by your mere presence.
+* **The Boon of Death:** Within the Shroud, your strikes grow heavier (+10% damage), your cruelty more precise (+15% crit damage), and your malice more focused (+300 ferocity). Even the ground itself will stop trying to hold your feet."
+
+#### **LAW OF THE DANCE OF THE SCYTHE**
+"To be a Reaper is to understand the rhythm of the harvest. Observe the rotation of the soul:
+
+1.  **Preparation:** Before you transcend, cast your *Well of Corruption* and *Well of Suffering*. Lay the feast before the slaughter.
+2.  **The Ascension:** Enter the Shroud close to their ranks. Immediately invoke **Infusing Terror (3)**. It shall harden your skin and pulse with stability—and it will not interrupt your work.
+3.  **The Harvest:** Unleash the **Soul Spiral (4)**. Let your spectral blade whirl through their ranks.
+4.  **The Grind:** Do not simply stand idle! Use the **Life Rend, Life Slash, and Life Reap (1, 1, 1)** chain. That third strike—the *Life Reap*—eats away at the cooldowns of your other Shroud arts.
+    * *A secret, apprentice:* If you see the 'Downed' gasping for air on the dirt, strike them! Their fading lives are the best fuel to bring your *Soul Spiral* back to readiness."
+
+#### **LAW OF THE HUNGER FOR LIFE FORCE**
+"When the Shroud thins and you return to the world of flesh, you are at your most vulnerable. You must begin gorging yourself on Life Force immediately.
+* Cry out: **'Nothing Can Save You!'** It strips their defenses and makes your next ten strikes unblockable. 
+* Follow it with **'Chilled to the Bone!'** to freeze their hearts, and **'Your Soul Is Mine!'** to drink deep of their essence.
+* Use your steel! Use the **Spear (5) Extirpate** to rip their boons away, or the **Axe (3) Unholy Feast**.
+* **Spear (2) Perforate** should never be silent. Use it whenever the urge takes you."
+
+#### **LAW OF THE FINAL TRUTH**
+"Do not get comfortable with one weapon. The Spear is for the bloody work of melee, but when you must keep your distance, return to the **Axe and Sword**. Use the Sword to chill their blood and the Axe to tear their enchantments from afar.
+
+The living will try to 'steamroll' us, as they say. They will charge with pride. That is when you show them the power of your hatred. Cast your wells, scream your shouts, and let the ground they walk upon become their tomb.
+
+Now... take up your blade. The Mists are calling, and there are souls that have overstayed their welcome in the light. Go. **Show them what lies at the end of all things.**"

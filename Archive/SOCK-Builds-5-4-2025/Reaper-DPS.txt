@@ -1,0 +1,50 @@
+
+[mar/zerk eagle](https://gw2skills.net/editor/?PSgEEiWmADhdwWYl4Ifd2sB-DWRYBBLGVsSppEJzAszQoiqyknDBQg9wB8J9DW0fGAA-w)
+[mar/ass scholar](https://gw2skills.net/editor/?PSgEEiWmADhdwWYl4Ifd2sB-DWRYbhArTMqovELlmSkMDwODhKqKbfOEAB2D3/lEAaR/ZAA-w)
+[mar/zerk eagle optimized]https://gw2skills.net/editor/?PSgEEiWmADhdwWYl4Ifd2sB-DWRYBB1LGVcClSTJSmBYnhQFVlJPHCgA7h7fSCgto/MAA-w
+
+
+Reaper DPS
+- <:necro_reaper:1162443916352700556> Reaper DPS
+- Credit: @Bloop
+
+- [The Build](https://gw2skills.net/editor/?PSgEEiWmADhdwWYl4Ifd2sB-DWRYbhArTMqovELlmSkMDwODhKqKbfOEAB2D3/lEAaR/ZAA-w)
+- [**Alt Build**: Link](https://gw2skills.net/editor/?PSgEEiWmADhdwWYl4Ifd2sB-DWRYBB1LGVcClSTJSmBYnhQFVlJPHCgA7h7fSCgto/MAA-w)
+- [Video](https://www.youtube.com/watch?v=8B0m_QRd1Zo&t=673s&ab_channel=metalloneGW2)
+- **Important Note**: it is almost always better to save your wells for when the zerg fully commits and the enemy zerg stops maneuvering as much. Be patient in order to get maximum value from your wells.
+- **Important Note**: DPS is tied to your Shroud uptime and the less dmg you take, the longer your shroud uptime. Stay on tag to reduce dmg taken.
+
+- Shroud Mechanics
+  - **Important**:  Auto attack chain reduces CD of shroud skills.
+        - 3rd hit from auto attack chain in shroud reduces cooldown from all your shroud skills. When there are people to hit near you after casting shroud 4 (soul spiral),  spam 1 in shroud until  shroud 4 goes off cooldown 
+           - **Tip**: Hitting downs are a good way to recharge shroud 4.
+  - Boon strip on entering shroud 
+       - Try to enter shroud when you are close enough to the enemy zerg to maximize boon strips
+  - Additional dmg modifiers while in shroud
+        - +10% dmg
+    - +15% crit dmg
+    - +300 ferocity
+  - Removes movement impairing skills on entering shroud
+
+- Rotations
+  - Wells
+     - Cast well of corruption then well of suffering before entering shroud and doing the shroud rotation
+  - Shroud Rotation
+      - Enter shroud when you are close to the enemy zerg -> shroud 3 -> shroud 4 -> shroud 1  till shroud 4 goes off CD-> shroud 4 -> exit shroud
+           - Shroud 3 reduces dmg taken and provides pulsing self stabs and will not cancel shroud 4
+  - When not in shroud:
+    - Aim to build life force ASAP using:
+       - Nothing Can Save You! (Boon strips and makes your attacks unblockable) -> Your Soul Is Mine! -> Chilled to the Bone!
+       - GS3
+       - GS5
+       - Spear5
+       - Spear3
+     - Always aim to enter shroud as many times as possible during fights
+     - Use Spear 2 off CD
+
+- Additional Notes:
+  - Try to use Nothing Can Save You! before Your Soul Is Mine! or Chilled To The Bone! to maximize the unblockable attacks from Nothing Can Save You!.
+        - Nothing Can Save You! gives you 10 unblockable attacks ensuring that you would land your hits from: 
+           - Your Soul Is Mine! for additional life force generation
+      - Chilled to the Bone! for bic CC
+   - Reaper has huge area of denial potential, casting nightfall + wells when being pushed into will prevent us from being steamrolled.

@@ -1,0 +1,116 @@
+🔪│𝗪𝘃𝗪-𝗕𝘂𝗶𝗹𝗱𝘀
+
+
+## Group Builds For All Runs
+***Builds can and will change often***
+
+## <a:stabby_bear:1217805088362594435> SUPPORT
+
+Firebrand Mystic Rebuke
+<:guardian_firebrand:1162443861944193054>Firebrand Mystic Rebuke
+- Credit: @Alyrico
+- [The Build](<http://en.gw2skills.net/editor/?PWABs+d7lRw6YYMRmJOaXbPNA-D2IY1on/MyUKkuKwjvGCQ46h3C9XaAA-w>)
+- [Video](<https://www.youtube.com/watch?v=7tB-tAsuiX4>)
+- More Info
+   - Leading with Sanctuary into fights with the necro wells. This combination allows for strips + cc to hit their stack on a push before they engage into melee and can help separate people from their stack for easy picks. Focus on leading the enemy movement with your sanctuary to get the most value out of it.
+   - Always be casting something. Do not stand there with all of your weapon skills off cooldown waiting for the perfect melee engagement. Your symbols in axe and scepter and torch 4 and 5 should all be used as much as possible off cooldown.
+   - You have limited pages in this build. Your focus is on page #4 and #5 in Tome 3. If you have extra pages you can use page #5 in tome 2 to help our healers a bit, but it is less important than the first two.
+   - The hardest part is using your heal mantra for as much aegis uptime as possible in situations where it will proc mystic rebuike. Remember mystic rebuke is very short range, if you arent directly in melee range with the enemy it will not proc. I frequently overcast my heal mantra in these fights and put it on cooldown, locking me out of the mantra for 30s. This takes practice and consistent play to maximize efficiency.
+   - Stand your ground should be used as the initial stab for your group leading into a fight. Make sure to cast it early enough that our group isnt already getting CC'd before they get the stability as it won't stun break them. After that use it off cooldown during the fight as supplemental stab to the Renegades.
+
+
+Renegade Boon Support 
+<:revenant_renegade:1162443973114208296>Renegade Boon Support 
+- Credit: @Alyrico
+- [The Build](<http://gw2skills.net/editor/?PmwAs6ZldQJMHii1QTsHqi9RhsAagHr057G-DWJYjR3fZkZKkeFo7vgQEm9wbx/LNA-w>)
+- [Video](<https://youtu.be/R6T3haim6X4>)
+- More info
+   - The main focus of this build is providing your subgroup with Alacrity and Stability first with a generous sprinkling of Resistance and Resolution.  
+   - Your weapons will be: Scepter+Shield, Staff
+   - Sigils- Superior Sigil of Concentration (+10% Boon Uptime) + Energy (50% Endurance regain on weapon swap).
+   - Relic: Relic of the Flock - Heals + generates barrier.
+   - Superior Rune of Water has been chosen for the +25% Boon Duration.
+   - !~If you cannot afford Water runes, Superior Rune of Leadership is an acceptable stand-in. You can purchase these runes for 75 Proofs of Heroics/Desert Heroics each at any Heroics Notary within WvW/Armistice Bastion. 
+   - If you either do not have a full heavy legendary set or cannot obtain an ascended set/weapons with Minstrel stats, it is advised to obtain stat selectable exotic gear/weapons from WvW/Armistice and use Superior Runes of Leadership to keep your costs down.
+   - Food: Spiced Pepper Creme Brulee
+   - Utility: Magnanimous Maintenance Oil/Corsair Maintenance Oil
+   - !~Corsair Maintenance Oil provides the same benefit as the Magnanimous option, but is far cheaper to obtain at 1s per Oil vs 22s68c per Oil off of the BLTC.
+   - Important Note: This build does require the Secrets of the Obscure (SotO) expansion. If you do not own SotO, it is advised to continue using shortbow and staff. 
+
+
+Spellbreaker Boon Strip
+<:warrior_spellbreaker:1162460415914156116> Spellbreaker Boon Strip
+- Credit: @Alyrico
+- [The Build](<http://en.gw2skills.net/editor/?PKgAYJlNw+YeMJ2Jm8W3vLA-D2IY1o6/UyUi2riqbRQODBNeFIBB83C9baAA-w>)
+- [Video](<https://youtu.be/ZnALQlXrxlk>)
+- [Video - Warrior Bubble Bombing](<https://youtu.be/deaFPIXczqY>)
+
+
+
+## <:dobbylovessocks:1141396755561324635> HEALERS
+Scrapper Heals
+<:engineer_scrapper:1162443834140143626>Scrapper Heals
+- Credit: @Alyrico
+- [The Build](<http://gw2skills.net/editor/?PegAUJlN0wcyZe5tneWane0SntMA-DWJYjKBhK+CJpAJ1Uo6qw3rDnIA7h3S/bWAA-w>)
+- [Video](<https://www.youtube.com/watch?v=pLnictOT5qU>)
+- [Video](<https://youtu.be/KALvQAazYG0>)
+- More info
+  - This build is using relic of karakosa. Please be aware of all your blast finishers. Shortbow 2 + 5. Elixir gun 4. Medkit 5. Some of the scrapper traits are not updated in the build editor, but if you copy the build into game it will be correct. We have 3 sources of barrier in the build too. Shortbow 2, bulwark gyro, and 2 charges of function gyro.
+  - If you wish to run a stacking sigil, use sigil of life as raw healing power scales with barrier and outgoing healing effectiveness does not
+
+
+
+## <:rockdog:1197983904259395704> DAMAGE
+Core Warrior DPS
+<:warrior:1162460411124273223> Core Warrior DPS
+- Credit: @Alyrico
+- [The Build](<http://gw2skills.net/editor/?PKwEQj9psBGFbiZxIxxXRbpD-DWRYBRNMH+TpJhRnigalAVoAk5ZhAEwe4to/ZEA-w>)
+- [Video](<https://www.youtube.com/watch?v=xRTdY_zk2BU&t=6s>)
+- More info
+ - The video is using great sword not sword/axe but game play explanations are valid and correct
+
+
+Vindicator DPS
+<:revenant_vindicator:1162443974439616602>Vindicator DPS
+- Credit: @Alyrico
+- [The Build](<http://gw2skills.net/editor/?PmgEQLU2RMZm5cyrzOXTdlW6eiL0Q3Xkpm6CioyKn8XqxMA-DWRYBRFIG+SppwouCIzEozIw2zCBQg9wB/J9AW0/MCA-w>)
+- More info
+ - If you are comfortable surviving with this build, you can replace some of the marauder's gear with berserker's/assassin's pieces for a damage increase at the cost of lower health. Make sure if you do this that you keep your crit chance around 60%
+ - Always use spear in alliance stance and greatsword in dwarf stance. When switching between them, always swap legends before swapping weapons so that you proc all of your swap sigils. Dodge whenever you have full endurance to gain extra damage from Leviathan Strength and Forerunner of Death.
+ - Start fights with alliance stance/spear, and stay in this stance whenever you are doing ranged combat. Use Scavenger Burst first for fury/quickness and cast Scavenger Burst and Spear 5 on cooldown. Use Spear 2 and Spear 4 when you do not have full charges of Spear 5 to reduce its cooldown. Use Energy Meld if you run out of energy to keep using these skills. 
+ - Swap to greatsword/dwarf stance when you enter melee range. Activate Vengeful Hammers and use Greatsword 2, 3, and 5 (you can skip Greatsword 3 if the forced movement is a problem). Continue auto-attacking and using any greatsword skills that come off of cooldown. Swap back to alliance/spear as soon as possible, and continue swapping between the two stances on cooldown while in melee combat.
+
+
+Holosmith DPS
+<:engineer_holosmith:1162443831837462539>Holosmith DPS
+- Credit: @Alyrico
+- [The Build](<http://gw2skills.net/editor/?PegAQRlJw8YRsOGKO2LvvXA-DWRYih7bOqQgFSTFRmpQFRgtnFCQA7h3i+nRAA-w>)
+- [Video](<https://www.youtube.com/watch?v=t6ina4taroY>)
+- More info
+ - Use Light Density Amplifier instead of Solar Focusing Lens if you need more survivability. Replace Flamethrower with Elixir S if you still need more survivability or if you find yourself dying off tag from cc.
+ - Use the rifle with bloodlust sigil in fights until you get 25 stacks of bloodlust. Once you have your stacks, use the rifle with the force sigil. 
+ - Your first goal in fights should be to have over 50 heat when the fight starts. Prime Light Beam (PLB) requires you to be above 50 heat to leave its damaging aoe, so you should generally try to be above 50 heat when this skill is not on cooldown so that you are always ready to use it. Photon Forge 4 and 5 are good options to quickly raise your heat, although make sure not to use Forge 5 if you need to stay on the move as it will lock you in place. Make sure to never overheat when playing this build.
+ - You want to start fights in Photon Forge, and you should aim to land Forge 3 and PLB before leaving. You typically want to start fights by using Forge 2 as you get near the enemies for superspeed and then using Forge 3 in melee range. Fill time with Forge auto attacks until the enemy group slows down or stops moving and then use PLB on their stack. Starting fights with PLB first can be good if the enemy group has little room to move out of the aoe or if the enemy pushes you through a choke. If the enemy group doesn't give you an opening or it's too dangerous to lock yourself in place with PLB, move on to the next part of the rotation and use PLB whenever you see an opening as long as you have more than 50 heat left.
+ - After using Forge 3 and PLB you want to use your Rifle and Elixir Gun. The important skills to use here are Rifle 2, Rifle 5, and Elixir Gun 4. Rifle is your best follow-up option if you need a gap closer or the enemy is on the move. Leap onto enemies with Rifle 5 and then immediately hit them again with Rifle 2. When enemies are stationary, Elixir Gun is your best follow-up option. Casting Elixir Gun 4 will cause your character to fly backwards, so hit your weapon swap key immediately after casting the skill to cancel the movement. Once you've used all three of these skills, return to Photon Forge and use Forge 3 + auto attacks. Do this until you are close to overheating and then cycle back through your Rifle and Elixir Gun abilities. Your goal during the fight will be to constantly swap between these three sets of weapon abilities as they become available.
+ - There are two other damage abilities that need to be worked into your rotation: Laser Disk and Blade Burst. Blade Burst is an instant cast skill that hits nearby enemies, so try to combo it with a heavy-hitting skill like Forge 3 or Rifle 5. This ability is a projectile, so try not to use it if you see any projectile hate nearby. Laser Disk does constant damage in an area around you, so use this skill at a moment in a fight when you'll be staying right on top of the enemies. Try to use Laser Disk when you have over 50 heat so that it lasts for a longer duration.
+ - The Flamethrower is used in this build to fill in any gaps in your damage output. Use the Flamethrower auto-attack when you have too much heat to use Photon Forge and all your other damage skills are on cooldown, or if you can hit enemies with the Flamethrower auto-attack but are not in range to use your other skills. Always prioritze your other damaging skills over Flamethrower.
+
+
+
+
+Scourge Condi Boon Strip
+<:necro_scourge:1162443917648728124>Scourge Condi Boon Strip
+- Credit: @Alyrico
+- [The Build](<http://gw2skills.net/editor/?PSwAEt/lNweYSMEmJW0T9PVA-D2QYrw+RN+MyUJ0hMQhHECQ46hXDIOrAA-w>)
+- [Video](<https://youtu.be/b1VOhApubOU?si=MyGNwGTylkmN-bBd>)
+- More info
+ - This is a condi build designed to put maximum condition pressure alongside Mystic Rebuke Firebrands. As necromancer, we still focus on boon strips in our gameplay. As a tertiary goal, we are taking Transfusion and other traits aimed to revive our downs faster.
+ - We start the fights in our scepter/torch set, all the skills are useful, pay particular attention to Scepter 3 as a powerful boon corruption. As we are about to engage in melee, Trail of Anguish and Ghastly breach should be your priority. Use Well of Corruption on command. Corrosive poison Cloud negates projectiles and inflict conditions, it can be used at range like other wells or in melee. Use Sand Flare on cooldown when in melee. GS set, top priorities are, GS4 just before or in melee and Gravedigger when you see some downs, don't wait for the commander call, swap immediately to GS.
+ - Shades. These are not your top priority, just use F2, F3 and F5 off cooldown. Always keep at least one shade up. 
+ - Do NOT use F4 unless someone from your party is down. We will be running several scourges, so it's important we don't waste F4 for the same person. 
+
+
+
+
+
+

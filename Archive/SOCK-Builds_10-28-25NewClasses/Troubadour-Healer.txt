@@ -1,0 +1,48 @@
+<:Troubadour:1432827508021002412> Troubadour Boon Support 
+- [The Build](https://gw2skills.net/editor/?PiwAw6RlZwsYwMRGNe0TqTdA-DWJYjRHfZkZKUdFo7rhQIg9gA+p7Hs0+lGA-w)
+12 concentration infusions + 6 healing infusions
+with regen active 100% boon duration
+Bowl of Fruit Salad with Mint Garnish
+Magnanimous Maintenance Oil
+
+
+- Stability Skills 
+   - Crescendo + Bountiful Disillusionment
+   - Mantra of Concentration
+   - Tale of the Honorable Rogue
+
+- *Troubadour Boon Support* its group by maintaining critical boons, particularly Stability and also by soaking damage for your group
+   - Provide Stability on your group for each push by watching party view when players have no stabs and spreading out your cooldowns 
+   - Keep important boons up with Weapon Skills and Shatters + Bountiful Disillusionment
+   - Heal allies with Lively Lute and Harmonious Harp
+   - Use your weapon skills to keep up boons on allies and generate Notes for your Shatters
+   - Always use your Shatter skills with at least 1 Note for Altered Chord
+   - Make sure to always have a Note when using any Shatter to proc Altered Chord
+   - You gain Notes through clone skills Journey and Blade Leap, Phantasm skills Phantasmal Sharpshooter and Echo of Memory/Deja Vu, and Mantra of Recovery via Ego Restoration
+
+-**Damage Soaking**
+     - You have multiple damage soaking abilities:
+         - F4 - self Invuln
+     - Tale of August Queen - party invuln
+     - Sword 2 - self invuln
+     - Shield 4 *2 - self block (Shield 4 has a flip skill which allows you to block more)
+     - When soaking dmg, stand on tag or at most one step ahead of tag to soak the incoming dmg
+
+- **Stability**
+   - Apply Stability before allies get caught by enemy CC
+      - Enemy CC is most likely to land when they spike your group, your group is moving through theirs, or your group is moving away from theirs
+      - It is better to use your Stability too early than too late
+   - Avoid overlapping multiple Stability sources on your party, both your own and other players
+   - Prioritize recharging Mantra of Concentration over everything other than survival if it is uncharged and off cooldown
+   - Crescendo is your highest priority Stability skill due to Altered Chord lowering its cooldown
+      - Make sure to always have at least 1 Note before casting your Shatter skills to meet the conditions for Altered Chord
+   - Make sure Deafening Drum is playing when you cast Tale of the Honorable Rogue for the extra Note
+      - Each Note extends the base 5s duration by an additional 5s, so you can glance at your notes and remaining CD on Tale of the Honorable Rogue to know when its safe to cast
+   - When using Stability skills cover the application by applying other boons immediately after the cast
+      - This is done because boon strips (which are the most common type of boon removal) always work on a first in, last out priority
+      - This means boon strips will always remove the most recently applied boons first
+
+- ** Rotation **
+    -  Charge Mantra of Concentration when you are about 900 range from the enemy
+    -  On Engage: cast F1 for more heals -> F4 for invuln to soak dmg when entering melee -> Crescendo for stability and quickness -> F3 for CC ->  continue with normal rotation, rifle skills etc
+    -  When trying to sustain/squad is standing on clash: Swap to sword/shield -> shield 5 (for CC) -> shield 4 (blocks) -> shield 2 (invuln) -> shield 4 (flip skill for more blocks)

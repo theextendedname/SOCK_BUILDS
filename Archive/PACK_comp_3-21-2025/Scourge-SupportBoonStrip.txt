@@ -1,0 +1,15 @@
+Scourge Support Boon Strip
+<:necro_scourge:1162443917648728124>Scourge Power Boon Strip
+- Credit: @disform 
+- [The Build](<http://en.gw2skills.net/editor/?PSwEEaNssB2DDh9xMxieq81D-DWJYjRN/hkpEobhQOrAf9bIEBYP8W6fzCA-w>)
+- More info
+  - Runes of the monk and infusions are negotiable. Relic of the Demon Queen is mandatory.
+  - Positioning is the most important skill in WvW squads. Isolated Scourges are dead Scourges, prioritize movement and position above any skill. Barrier, cleanses, healing are all in small radius around the player or shades. Use dodge, warhorn 5 for swiftness or Trail of anguish for stability and swiftness if you have to but don't stray off tag.
+
+**Barrier**: Barrier limit was capped at 25% of the total health, down from 50%. Shade usage is a bit more tactical. Do not use all your barrier skills (including shades) in rapid succession,  you will hit the cap and the rest is wasted. This is particularly important at the beginning of the fight, watch your own health bar. 
+
+**Boonstrips**: Like every necromancer build, boonstrips are critical for the comp. Use Scepter 3 on CD. Healing skill on CD once we are in melee. Hold well and/or elite if the commander is calling for them. Use Trail of Anguish once we are about to hit melee, preferably in narrow corridors, bridges, alleys. Warhorn 4 induces Fear, which steal boons due to Sigil of Absorption. 
+ 
+**Cleanses**:  F2 and F5 skill provide some cleanses. Use F2 off cooldown. F5 is a powerful skill, it will cleanse up to 15 conditions, on top of the barrier it provides. All ally barrier application removes conditions from them, that includes Sand Flare. 
+
+**Weapon skills**: GS4 and GS5 are the only important skills in this set. GS3 can be used occasionally for life force and some vulnerability. Scepter 3 is the most important skill for boonstrips. Warhorn 4 inflicts Fear and it's unblockable. Scepter 2 and warhorn 5 are lower priority, only use if you have nothing else.

@@ -1,0 +1,21 @@
+Core Warrior DPS
+<:warrior:1162460411124273223> Core Warrior DPS
+- Credit: @alyrico
+- [The Build](<http://gw2skills.net/editor/?PKwEQj9psBGFbiZxIxxXRbpD-DWRYBRNMH+TpJhRnigalAVoAk5ZhAEwe4to/ZEA-w>)
+- [Video @sheffplaysgames](<https://www.youtube.com/watch?v=xRTdY_zk2BU&t=6s>)
+- More info
+ - The video is using great sword not sword/axe but game play explanations are valid and correct
+ - This Warrior build does damage and not much else. To maximize your damage, you need to be in combat. You are not an ambush class. You must build up adrenaline and have it ready to unleash your rage at the enemy. Signet of Fury gives you a boost to max adrenaline. But just like the Hulk, you will lose your power quickly if you are not in combat.
+ - The burst combo is not very involved. Only 5 buttons. You should pick a target before you launch into damage and be mindful of their position in the Zerg. When you slam your spear #4 “Spearmarshal’s Support” the damage also impacts everyone standing next to your target.
+ - “Signet of Might” (active for 6 seconds) and “Signet of Fury” (active for 4 seconds). These signets boost your adrenaline, Precision, and Ferocity and make your next 10 attacks unblockable. But are short-lived and need to be pressed just before attacking.
+ - Your burst skill F1  “Harrier’s Toss” skill juices your overall damage even more via the “Berserker’s Power” and “Burst Precision” traits. 
+ - Call down doom at your target’s location with spear #4 “Spearmarshal’s Support”. It has some of the best target tracking in the game. It is truly wonderful to watch a willbender die as they try to breach the sound barrier running away. 
+ - Don’t hesitate to swap to Sword/Axe to finish downs or cleave low-health players. But remember, the spear cooldowns are short, and you will be able to swap back soon to throw more spears.
+ - Recommended rotation for Warrior is:
+   1. Get into combat - Inside of 900 range and ready to engage
+   2. When the tag calls for the ranged spike, hit “Signet of Might” (active for 6 seconds) and “Signet of Fury” (active for 4 seconds)
+   3. Burst skill F1  “Harrier’s Toss”
+   4. Must have a target - Spear #4 “Spearmarshal’s Support”
+   5. Spear #2 “Maiming Spear”
+   6. When we get into melee, weapon Swap to Sword/Axe. Use F1 “Flury”, axe #4 "Dual Strike" and axe #5 "Whirling Axe" to cleave downs.
+   7. Weapon Swap back to spear.  

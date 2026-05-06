@@ -1,0 +1,10 @@
+Druid Support
+<:ranger_druid:1162443942705516564> Druid Support
+- Credit: @Bryan
+- [The Build](<http://gw2skills.net/editor/?POwAYlnlVwQYLsRGJWuSbt0ScdPA-DWJYjR9fhEUIkZiWdV57BhQEg/W6fzCA-w>)
+- More Info
+ - Your role is that of a secondary support/rezzer. Your first priority is rezzing downs, as your party should have a dedicated healer.
+ - The utility Search and Rescue should pull one downed player to your pet and begin rezzing. The Nature Magic trait Allies Aid will also cast S&R when you begin rezzing. It might be best to proc that first, then cast the utility skill on another down so they don't overlap. Note that the utility S&R can be pre-cast (see image below).
+ - The elite Spirit of Nature has a long windup before it actually rezzes, so we'll need to experiment when to cast it. Notice that the first cast is a huge condi cleanse, but the second rezzing effect is delayed 3 seconds.
+ - When I was experimenting with the build, I engaged with the maces to CC and build Nature's Strength before going into Celestial Avatar and/or rezzing. - 
+ - If there are no nearby fallen allies around you, for the next 15 seconds, if you go in range of a fallen ally the pet will move to them and teleport them back to your location. Effect can happen one time. Swapping pet will cancel this effect.

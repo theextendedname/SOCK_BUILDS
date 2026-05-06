@@ -1,0 +1,45 @@
+Firebrand Boon Support
+
+<:guardian_firebrand:1162443861944193054>Firebrand Boon Support
+- Credit: <@97162271272235008> 
+ - [The Build](<https://gw2skills.net/editor/?PWwEQLtrMCGHTkhxMxU+a/pB-DWJYjRd/hkmgoaZQ6KBP+aIEhZP8W8/SDA-w)
+ - Builds focus is Stabs, Resistance, Might
+ - **Stab (Top Priority)**
+    - *Skills*
+        - Stand Your Ground (SYG)
+    - Entering Tome of Courage (F3 book)
+        - Epilogue: Unbroken Lines (skill 5 in F3 book)
+    - Mantra of Liberation (elite)
+    - Hallowed Ground
+    - Stab skills should be followed up with cover boons from heal skill/advance
+    - Stability rotation starts with SYG, then F3 once stab is gone, then other options until SYG is available
+    - Prioritize using Hallowed ground with lag or when the commander is going to stay in one place
+ - **Resistance (2nd priority)**
+ - *Skills*
+    - Spear 5
+  - Stalwart Stand (F3 skill 4)
+ - *Stoic Demeanor (FB trait)*
+    - Stoic Demeanor requires that we CC an enemy and has a 1 second internal cooldown
+        - Skills that CC
+            - Spear 5
+      - Shield 5
+ - **Might (3rd priority)**
+    -  *Might Rotation*
+        - F1 (Tome 1) -> Ashes of Just (F1 Skill 5) -> Scorched Aftermath (F1 Skill 4) -> Igniting Burst (F1 Skill 2) -> Spear 3
+      - Use this when the commander calls for might stacks and during the fight when F1 is available
+Some more notes:
+ - you want to ideally swap to spear once F1 is ready to do your might stack after using spear 5 -> 4 -> 3 or 3 -> 4 so you keep the might high in your subgroup
+ - Additional information on tomes
+  - **Justice (F1)**
+    - skill 3 is a pull, activating Stoic Demeanor
+    - skill 5 grants extra damage and might
+ - **Resolve (F2)**
+    - skill 2 removes conditions
+    - skill 5 converts conditions to boons and increases healing done to our party
+ - **Courage (F3)**
+    - skill 3 is a projectile reflect dome
+    - skill 4 gives pulsing resistance
+    - skill 5 gives protection and stability
+ - Stab Rotations
+    - SYG -> Advance! -> heals
+  - F3 -> Epilogue: Unbroken Lines (Skill 5) ->  Stalwart Stand (Skill 4) -> Advance! -> heals(if available)

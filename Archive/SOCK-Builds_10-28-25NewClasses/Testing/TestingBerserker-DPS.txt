@@ -1,0 +1,50 @@
+Berserker DPS
+<:warrior_berserker:1162460412835545119> Berserker DPS
+- Credit: @Extented
+- [The Build marader](<https://gw2skills.net/editor/?PKwAgeJlRExoiaTNtmSGZlO+WatKA-DWRYBRXWMsTpJRRjSgOVAtMEs1ZhAEwe41ofnSAA-w>)
+- [The Build Demolisher](<https://gw2skills.net/editor/?PKwAgeJlRExoiaTNtmSGZlO+WatKA-DWRYBRXmOsTpJRRjSgOVAtMEs1ZhAEwe41ofnSAA-w)
+- [The Build Demolisher GS](<https://gw2skills.net/editor/?PKgAEJlRExoiaTNtmSGZlO+W6tKA-DWRYBRVmOsSppoouQoxEozCw2zCBIg9wrR/OlAA-w)
+
+  - Primary goal: get 4-6 primal burst skills per activation of Berserk
+  - Secondary goal: Use elite banner to revive allies and stomp enemies
+  - Alternate: if you need more stability, swap Sundering Leap to Balanced Stance. 
+  - Always stay on tag, and wait for melee range to enter berserk. If berserk is not available, save skills until it is. 
+  - Try not to cast banner in the middle of your Burst combo. It's a slow cast and cuts your DPS off. Bursting 2 times on downs does the job.
+  - If banner is called stomp downs then you should cast banner. Use your best judgment. 
+  - How to get 6 bursts per berserk: [Video](<https://www.youtube.com/watch?v=UYc0ndvAE60>)
+
+* Make sure every time you weapon swap your skill usage is Primal Burst ⇒ Weapon Swap ⇒ Primal Burst
+   * By using your Primal Burst as soon as you enter a weapon set it will be available right before your Weapon Swap is ready
+   * This also stacks your highest damage skills to burst enemies down, instead of spreading them out
+* Use Sundering Leap immediately after a Primal Burst skill to refill Adrenaline and deal solid damage
+* When using Sundering Leap or Rupturing Smash make sure to aim to the side or behind the enemy group, not the middle or in front of them
+   * Also be ready to Dodge immediately after the casting leap skills if needed
+* Maximizing the amount of primal bursts you cast by using your very fast weapon swap cooldown is very important
+* If you land your primal bursts and Sundering Leap cleanly through the entire berserk duration you should be able to cast Blood Reckoning twice before Berserk ends via duration extension from Smash Brawler
+
+---------
+Hammer/Dagger&Axe  
+*Burst combo Hammer start*
+- Get into combat (Hammer 3, hit a 1 on an npc, or whatever you need to do)
+- Signet of Fury > Signet of Might > (Berserk)F2 > (Hammer)Fl > Blood Reckoning >  (Hammer)F1 > Swap
+(Dagger)F1 > (Axe)4 > (Axe)5 > (Dagger)F1 > Sundering Leap > Swap > (Hammer)F1 > 1 > 1 > 1  > Swap 
+(Dagger)F1
+
+*Burst combo Dagger start*
+- Get into combat (Hammer 3, hit a 1 on an npc, or whatever you need to do)
+- Signet of Fury > Signet of Might > (Berserk)F2 > (Dagger)Fl > Blood Reckoning >  (Dagger)F1 > Swap
+(Hammer)Fl > Sundering Leap > 1 > 1> (Hammer)Fl > Swap 
+(Dagger)F1 > (Axe)4 > (Axe)5  > (Dagger)F1 
+
+---------
+GS/Hammer
+*Burst combo GS start*
+- Get into combat (Greatsword 4, hit a 1 on an npc, or whatever you need to do)
+- Signet of Fury > Signet of Might > (Berserk)F2 > (Greatsword)Fl > Blood Reckoning >  (Greatsword)F1 > Swap
+  (Hammer)Fl > Sundering Leap >  (Hammer)F1 > Swap  > (Greatsword)F1 > 1 > 1 > 1  >  Swap > (Hammer)F1 
+
+
+Burst combo Hammer start*
+- Get into combat (Hammer 3, hit a 1 on an npc, or whatever you need to do)
+- Signet of Fury > Signet of Might > (Berserk)F2 > (Hammer)Fl > Blood Reckoning >  (Hammer)F1 > Swap
+(Greatsword)F1 > Sundering Leap > (Greatsword)F1 > Swap > (Hammer)Fl > Hammer(3) > 1 > 1 > Swap > (Greatsword)F1 

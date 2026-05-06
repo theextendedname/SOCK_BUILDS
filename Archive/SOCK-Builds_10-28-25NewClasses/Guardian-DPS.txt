@@ -1,0 +1,49 @@
+Guardian DPS
+- <:guardian:1162443859507302582> Guardian DPS
+- [The Builud](https://gw2skills.net/editor/?PWgEQLUWADhtxmYk4Qv4vqA-DWZYBRwKQMqIvEnDFGXh0UUUXBURKY7ZhAEwO4to/MAA-w)
+
+## **Class Role: Damage & Down Creation**
+
+---
+
+### **Core Mechanics & Buff Management**
+
+* **Virtues (F-Skills):** Use **F1** on cooldown. If F1 is unavailable, use **F2**. Note that F1 refreshes every time an enemy dies.
+* *Buff:* Activating an F-skill provides a **10% damage increase for 6 seconds.**
+
+
+* **Weapon Auto-Attacks:** Spear 1 is your primary sustained damage; keep it on auto-cast or spam it constantly.
+* **Illumination:** Ensure **Spear 3** and **Spear 4** are "Illuminated" before casting to maximize impact.
+* *How to Illuminate:* Land a hit with **Spear 2** or stand in your **Spear 5** field.
+
+
+
+### **Utility & Flexibility**
+
+* **Wall of Reflection:** This is a flex slot. If the squad requires more stability, swap it for **"Stand Your Ground!"** (SYG).
+* **Wall of Reflection:** This is a flex slot. If the squad requires more DAMAGE, swap it for **"Purging Flames"**.
+* **Note:** Your **F3** is now a stunbreak, reducing the absolute necessity of SYG for personal survival.
+
+---
+
+### **Spike Rotation / Opener**
+
+*Use this sequence on the "Wells" call or during a melee bomb:*
+
+1. **Sword of Justice** (Cast just before the clash)
+2. **Elite Skill** (Feel My Wrath)
+3. **F1** (Virtue of Justice)
+4. **Sword of Justice**
+5. **Spear 5**
+6. **Spear 4**
+7. **Spear 3**
+8. **Spear 1** (Spam)
+
+### **Advanced Optimization**
+
+If the enemy is pinned or staying directly on top of the group, perform a weapon swap for extra burst:
+
+* Swap to **Greatsword**
+* **GS 4** -> **GS 2** (twice)
+* Swap back to **Spear** and resume **Spear 1** spam or the priority rotation.
+

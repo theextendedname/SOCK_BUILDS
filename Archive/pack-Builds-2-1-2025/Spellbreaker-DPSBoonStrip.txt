@@ -1,0 +1,242 @@
+Spellbreaker DPS Boon Strip
+<:warrior_spellbreaker:1162460415914156116> Spellbreaker DPS Boon Strip
+- Credit: @extended 
+- [The Build](<https://gw2skills.net/editor/?PKwAIxflNwkYfMR2JO+WavKA-DWRYBR9TM4TpJRRdChulA5sAMxZhAIweg0bR/XLA-w>)
+- [The banner Build](<https://gw2skills.net/editor/?PKwAIxflNwkYTMRGJO+WavKA-DWRYBR9TM4TpJRRdChulA5sAMxZhAIweg0bR/XLA-w>)
+
+  - Your main role on this build is Damage and Boon strip
+  - You will use Winds of Disenchantment (Elite) when called for by the commander to strip boons on a push and block ranged attacks.
+  - If your tag calls for Wells or Big damage cast Winds of Disenchantment (da bubble)  
+  - You have boon strips on your Full Counter(F2), Break Enchantments(Util Skill), and when you interrupt a foe with your hammer(Absorption Sigil).
+  - Full Counter(F2) is AWSOME. It boon strips, dazes, interrupts, recharges endurance, recharges adrenaline, blocks all incoming damage, gives you stability , and is unblockable.
+  - Savage Leap sword(2) is a great movement ability. Use it to keep up with tag or catch a speedy yack. 
+  - Focus on using hammer burst Earthshaker(F1),  recharging your adrenaline Full Counter(F2), removing boons with Dreak Enchantments(Util Skill), and cleave the downs with Axe(4,5)
+ 
+- *Basic Zerg Combo* 
+  - Hammer 3 > F1 > F2 > F1 > break enchantments(Util Skill) > F1 > Hammer 2 > Hammer 3 > Swap > Axe 4 > Axe 5
+
+- *Da Bubble casting 101*
+  - Winds of Disenchantment (Elite) is a 1.5 second cast. This gives ample opportunity to get stunned, interrupted and murdered.
+  - You should attempt to cast the bubble at the point of contact with the enemy. 
+  - Combo the Banner of Tactics > Defiant Stance > Winds of Disenchantment (Elite)> then do your Basic Zerg Combo
+ 
+ 
+*PLEASE NOTE: this build has changed as of 20 Feb 2025. *
+- *Build and Combo Change*
+  - We are looking to increase the number of pulls in group and are switching to Staff on Spellbreaker
+  - [Staff Build](<http://gw2skills.net/editor/?PKgAIZlNwkYfMR2JO8W6vKA-DWRYBR1TM4TpJRRnKgulA5MEMxZhAIweg0bR/XLA-w>)
+
+
+Spellbreaker DPS Boon Strip
+<:warrior_spellbreaker:1162460415914156116> Spellbreaker DPS Boon Strip
+- Credit: @extended 
+- [The Build](<http://en.gw2skills.net/editor/?PKgAIZlNwkYfMR2JO8W6vKA-DWRYBR1TM4TpJRRnKgulA5MEMxZhAIweg0bR/XLA-w>)
+- More Info
+  - Your main role on this build is Pull, Boon strip, and DPS
+  - You will use Winds of Disenchantment (Elite) when called for by the commander to strip boons on a push and block ranged attacks.
+  - If your tag calls for Wells or Big damage. That is the call to  cast Winds of Disenchantment (da bubble)  
+  - You have boon strips on your Full Counter(F2), Break Enchantments(Util Skill), Staff(4) and when you interrupt a foe with your hammer(Absorption Sigil).
+  - Full Counter(F2) is AWSOME. It boon strips, dazes, interrupts, recharges endurance, recharges adrenaline, blocks all incoming damage, gives you stability, and is unblockable.
+  - Staff Snap Pull(4) is a great Pull ability. Use it to pull your enemy to their doom. 
+  - Focus on your combos and don't yeet yourself off tag
+  - Combos described below Self Buff, Staff Pull, Zerg Combo, and Da Bubble.
+  - Staff Valiant Leap(2) and Line Breaker(3) are great movement skills and a strong combo that buffs damage/survivability. 
+ 
+- **Self Buff - Quickly Cast at your Feet so you don't yeet**
+  - Staff(2) > Staff(3)
+
+- **Staff Pull**
+  - **Self Buff** > Staff(4) >> Swap > Hammer(3) > Hammer(2) > Break Enchantments(Util Skill)
+  - The weapon swap from Staff to Hammer should be done very quickly. We want the Hammers Hydromancy Sigil to land immediately after Staff(4) pull. 
+
+- **Zerg Combo**
+  - **Self Buff** > Staff(4) >> Swap > Hammer(3) > F1 > F2 > F1 > break enchantments(Util Skill) > Hammer(3) > Swap > F1 > **Staff Pull **
+
+- **Da Bubble**
+  - Winds of Disenchantment (Elite) is a 1.5 second cast. This gives ample opportunity to get stunned, interrupted and murdered.
+  - You should attempt to cast the bubble at the point of contact with the enemy.
+  - We want to lock the enemy down in the Da Bubble. *Da Bubble* > **Zerg Combo**  But we start the **Zerg Combo** at step 5 Hammer(3)
+   - Combo
+     - Banner of Tactics > Defiant Stance > Winds of Disenchantment (Elite)> Hammer(3) > F1 > F2 > F1 > break enchantments(Util Skill) > Hammer(3) > Swap > F1 > **Staff Pull Combo**
+	 
+	 
+A: We want to hit 100% crit. Our base crit in the Staff build is 73%. The "Attackers Insight" passive will gives us 30 precision per stack. Max 5 stacks. That will put us just over 80% crit. With the 20% we get from Fury that's 100%. So we don't need the +10 precision from the weapon infusions so That's why they are +10 power. But if you are using exotic gear you may need to use precision infusions or run an extra piece of marauders armor
+	 
+Q: Why are weapon infusions power, and other infusions precision?
+A: Yes, for this build. We aim for 100% crit.
+ Base crit: 73%
+ "Attacker's Insight" passive + Fury buff provide enough precision to reach 100%.
+ Therefore, weapon infusions are used for power.
+ Note: If using exotic gear, you may need extra precision.
+ 
+----------------
+Spellbreaker Support Boon Strip
+<:warrior_spellbreaker:1162460415914156116> Spellbreaker Support Boon Strip
+- Credit: @extended 
+- [The Build](<http://gw2skills.net/editor/?PKwEYiNssA2HTihxOx02y8dB-DWJYjRN/ZkuKInpgu+KECBsHY6t8/lGA-w>)
+- More Info
+  - Your roles on this build is Pull, Boon strip, and Heal
+  - You will use Winds of Disenchantment (Elite) when called for by the commander to strip boons on a push and block ranged attacks.
+  - If your tag calls for Wells or Big damage. That is the call to cast Winds of Disenchantment (da bubble)  
+  - You have boon strips on your Full Counter(F2), Break Enchantments(Util Skill),and Staff(4).
+  - Full Counter(F2) is AWSOME. It boon strips, dazes, interrupts, recharges endurance, recharges adrenaline, blocks all incoming damage, gives you stability, and is unblockable.
+  - Staff Snap Pull(4) is a great Pull ability. Use it to pull your enemy to their doom.
+  - Staff Valiant Leap(2), Line Breaker(3),and Sword Savage Leap(2) are great movement skills.
+  - "To the Limit"(Heal Skill) it grants 100 endurance, Heals and cleneses. It is part you your combo but please also cast it right after we dodge to avoid an enemy push or after our push through an enemy. See **Team Dodge Combo**
+  - Shake it Off(Util Skill) is an Aoe breakfree and clense. **YOU NEED TO BREAK YOUR TEAM MATES FREE** when we push through an enemy zerg. See **Team Dodge Combo**  
+  - Focus on your combos and don't yeet yourself off tag
+  - Combos described below Team Buff Combo, Staff Zerg Combo, Team Dodge Combo, and Da Bubble Combo.
+
+  
+  
+- **Team Buff Combo**
+  - Warhorn(4) > Warhorn(5) > Staff(2) 
+     - always cast Warhorn(4) before Warhorn(5). Warhorn(4) clears crippled, Immob, and Chilled. You don't want to waste the 3 clenses of Warhorn(5) on crippled, Immob, or Chilled
+     - Quickly Cast at your Feet so you don't yeet
+     - Cast this combo when tag calls for Might Stacking
+	 - Cast this combo every 20 seconds
+	 - This combo is 80% the point of Spellbreaker being it squad.
+
+- **Staff Zerg Combo**
+  - **Team Buff Combo** > Staff(3) > Staff(4) > Staff(F1) > Full Counter(F2) > Staff(F1) > Break Enchantments(Util Skill) > To the Limit(Heal Skill) > Shake it Off(Util Skill)  >  **Team Buff Combo** 
+    - Warhorn skills have a 20 sec cooldown you need to wepon swap and cast Warhorn(4) > Warhorn(5) on cooldown even if you have to cut the over all combo short.
+	- Don't skip Staff(3) as it gives 8 Seconds of Protection and needs to be cast just before engagment 
+
+- **Team Dodge Combo** 
+  - **Team Buff Combo** > Dodge > Shake it Off(Util Skill) > Dodge > To the Limit(Heal Skill) 
+  - cast quickly to use the evade frames of Dodge to cast Shake it Off(Util Skill) making sure the team doesn't get glued to the floor.
+  - To the Limit(Heal Skill) to recover all the Dodges back for you and the team.
+  
+- **Da Bubble Combo*
+  - **Team Buff Combo** > Banner of Tactics > Winds of Disenchantment (Elite) > **Staff Zerg Combo**
+    - Winds of Disenchantment (Elite) is a 1.5 second cast. This gives ample opportunity to get stunned, interrupted and murdered.
+    - You should cast the bubble on the tag. We aren't runnig Defiant Stance so stay on tag.
+    - We want to lock the enemy down in the Da Bubble. Our relic does this for us. GG.
+
+
+
+
+--------------new format-------------------------------
+
+Spellbreaker Support Boon Strip
+<:warrior_spellbreaker:1162460415914156116> Spellbreaker Support Boon Strip
+- Credit: @extended 
+- [The Build](<http://gw2skills.net/editor/?PKwEYiNssA2HTihxOx03y8ZB-DWJYjRN/ZkuKInpgu+FECBsHY6t8/lGA-w>)
+- [Video](<https://youtu.be/taY6LMxdFA0?t=610>) Pls don't be dumb. This is **NOT** the same build but is a good overview of the play style.
+- More Info
+**Your Role:** Boon Support, Pull, Boon Strip, and Heal
+
+**Key Abilities and Their Uses:**
+
+* **Winds of Disenchantment (Elite - AKA: "Da Bubble"):**
+  * Use when the commander calls for "Wells" or "Big Damage."
+  * Strips enemy boons and blocks ranged attacks during pushes.
+* **Full Counter (F2):**
+  * A powerful ability with multiple uses:
+    * Boon strip
+    * Daze
+    * Interrupt
+    * Endurance and adrenaline recharge
+    * Blocks all damage
+    * Grants stability
+    * Unblockable
+* **Staff Snap Pull (Staff 4):**
+    * Use to pull enemies into your zerg.
+* **Movement Skills:**
+    * Staff Valiant Leap (Staff 2), Line Breaker (Staff 3), and Sword Savage Leap (Sword 2) for quick movement.
+* **To the Limit (Heal Skill):**
+  * Grants endurance, heals, and cleanses.
+  * Use as part of combos and after dodges to avoid enemy pushes. See "Team Dodge Combo."
+* **Shake it Off (Utility Skill):**
+  * AOE break free and cleanse.
+  * Essential for breaking teammates free during pushes. See "Team Dodge Combo."
+* **Boon Strips:**
+  * Full Counter(F2)
+  * Break Enchantments(Utility Skill)
+  * Staff(4)
+
+**General Tips:**
+
+* Focus on executing combos correctly.
+* Stay on the tag (don't stray from the group).
+* Always cast Warhorn(4) before Warhorn(5).
+* Warhorn skills have a 20 second cooldown, keep them on cooldown.
+
+
+**Combos:**
+
+* **Team Buff Combo (Might Stacking):**
+    * Warhorn (4) > Warhorn (5) > Staff (2)
+    * Cast every 20 seconds or when called for.
+    * This is a very important combo, keep it on cooldown.
+	
+* **Staff Zerg Combo (Melee combat):**
+    * Team Buff Combo > Staff (3) > Staff (4) > Staff (F1) > Full Counter (F2) > Staff (F1) > Break Enchantments(Utility) > To the Limit(Heal) > Team Buff Combo
+    * Remember to weapon swap for warhorn skills on cooldown. Even if you have to cut the full combo short.
+	* Don't skip Staff(3) as it gives 8 Seconds of Protection and needs to be cast just before engagement
+	
+* **Team Dodge Combo (Survival):**
+    * Team Buff Combo > Dodge > Shake it Off > Dodge > To the Limit
+    * Use dodge evade frames to cast Shake it Off and prevent being CC'd.
+    * Use To the Limit to recover dodges.
+	
+* **Da Bubble Combo (Big Push):**
+    * Team Buff Combo > Banner of Tactics(Utility) > Winds of Disenchantment(Elite) > Staff Zerg Combo
+    * Winds of Disenchantment has a 1.5-second cast time, so be aware of interrupts.
+
+
+-----------new format-----------------------
+
+
+
+Spellbreaker DPS Boon Strip
+<:warrior_spellbreaker:1162460415914156116> Spellbreaker DPS Boon Strip
+- Credit: @extended 
+- [The Build](<http://en.gw2skills.net/editor/?PKgAIZlNwkYfMR2JO8W6vKA-DWRYBR1TM4TpJRRnKgulA5MEMxZhAIweg0bR/XLA-w>)
+- More Info
+**Your Role:** Pull, Boon Strip, and Damage Dealer
+**Key Abilities and Their Uses:**
+
+* **Winds of Disenchantment (Elite - AKA: "Da Bubble"):**
+  * Use when the commander calls for "Wells" or "Big Damage."
+  * Strips enemy boons and blocks ranged attacks during pushes.
+  * Cast at the point of enemy contact.
+* **Full Counter (F2):**
+  * A versatile ability:
+    * Boon strip
+    * Daze
+    * Interrupt
+    * Endurance and adrenaline recharge
+    * Blocks all damage
+    * Grants stability
+    * Unblockable
+* **Staff Snap Pull (Staff 4):**
+  * Use to pull enemies into your zerg.
+* **Boon Strips:**
+  * Full Counter (F2)
+  * Break Enchantments (Utility Skill)
+  * Staff (4)
+  * Hammer interrupt with Absorption Sigil.
+* **Movement Skills:**
+  * Staff Valiant Leap (Staff 2) and Line Breaker (Staff 3) for quick movement and damage/survivability buffs.
+
+**General Tips:**
+
+* Focus on executing combos correctly.
+* Stay on the tag (don't stray from the group).
+* Quick weapon swaps are key to this build.
+
+**Combos:**
+
+* **Self Buff Combo:**
+  * Staff (2) > Staff (3)
+  * Cast quickly at your feet.
+* **Staff Pull Combo:**
+  * Self Buff Combo > Staff (4) > Weapon Swap (Hammer) > Hammer (3) > Hammer (2) > Break Enchantments
+  * Weapon swap should be very fast to apply Hydromancy Sigil after Staff (4).
+* **Zerg Combo (Melee combat):**
+  * Self Buff Combo > Staff (4) > Weapon Swap (Hammer) > Hammer (3) > Hammer (F1) > Full Counter (F2) > Hammer (F1) > Break Enchantments > Hammer(3) > Weapon swap (Staff) > Staff(F1) > Staff Pull Combo.
+* **Da Bubble Combo (Engage):**
+  * Banner of Tactics > Defiant Stance > Winds of Disenchantment > Hammer (3) > Hammer (F1) > Full Counter (F2) > Hammer (F1) > Break Enchantments > Hammer (3) > Weapon Swap (Staff) > Staff (F1) > Staff Pull Combo
+  * Start the Zerg Combo at Hammer (3) after casting Winds of Disenchantment.
+  * Winds of Disenchantment has a 1.5 second cast time, so be aware of interrupts.

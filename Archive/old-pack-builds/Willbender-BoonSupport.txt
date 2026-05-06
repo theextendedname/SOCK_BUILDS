@@ -1,0 +1,11 @@
+Willbender Boon Support
+<:guardian_willbender:1162443863059857428>Willbender Boon Support
+- Credit: @Autumn
+- [The Build](<http://gw2skills.net/editor/?PWwEQL9rMUGGTkxxIxj/aNeB-DWJYjRNfZkZKkeFo7rhQEm9wbx/LNA-w>)
+- [Video @Autumn](<https://www.youtube.com/watch?v=xsRDwTnHXV4>)
+- More Info
+ - Our two main roles are providing stability and alacrity. Our gear is nearly the same as the FB build, but using Mace/Shield instead.
+ - Stability comes from "SYG!" and Hallowed Ground. As usual, use "SYG!" as we get into pull range of the enemies and use Sanctuary as called. Try to aim the HG where our squad will engage in melee range.
+ - We provide alacrity by using F2 and hitting enemies as many times as we can. F2 is a forced dodge, try staying a bit behind tag and using it to catch up as we enter melee range.
+ - F3 also provides boons to ourselves, as well as counting for hits for our F2 buff. Try to use it directly on tag in melee range followed by Shield 4 and Mace 3 to help reduce the cooldown of F3.
+ - This build will feel much faster paced than support FB, try to focus on stability and alacrity if you're struggling and feel free to reach out if you need assistance.

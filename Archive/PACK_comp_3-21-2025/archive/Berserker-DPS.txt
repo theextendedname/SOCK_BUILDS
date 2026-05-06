@@ -1,0 +1,26 @@
+Berserker DPS
+<:warrior_berserker:1162460412835545119> Berserker DPS
+- Credit: @Extented
+- [The Build](<https://en.gw2skills.net/editor/?PKgAEJlRwoYTsPGJO+W6tLA-DWRYBRVWMsTpJRRjSgOVAtMEs1hhAEwe41ofnSAA-w>)
+- [Video @autumn](<https://www.youtube.com/watch?v=UYc0ndvAE60>)
+- More info
+  - Primary goal: get 4-6 primal burst skills per activation of Berserk
+  - Secondary goal: Use elite banner to revive allies and stomp enemies
+  - Alternate: if you need more stability, swap Sundering Leap to Balanced Stance. 
+  - Always stay on tag, and wait for melee range to enter berserk. If berserk is not available, save skills until it is. 
+  - Try not to cast banner in the middle of your Burst combo. It's a slow cast and cuts your DPS off. Bursting 2 times on downs does the job.
+  - If banner is called to res multiple friendly downs then you should cast banner. Use your best judgment. 
+  - How to get 6 bursts per berserk: [Video](<https://www.youtube.com/watch?v=UYc0ndvAE60>)
+  - This build uses Rune of the Eagle **NOT** Scholar Runes. If you use Scholar Runes your Crit chance will not hit 100% often enough and your DPS will suffer.
+  
+*Burst combo GS start*
+- Get into combat (Greatsword 4, hit a 1 on an npc, or whatever you need to do)
+- Signet of Fury > Signet of Might > (Berserk)F2 > (Greatsword)Fl > Blood Reckoning >  (Greatsword)F1 > Swap
+(Dagger)F1 > (Axe)4 > (Axe)5 > (Dagger)F1 > Sundering Leap > Swap > (Greatsword)F1 > 1 > 1 > 1  > Swap 
+(Dagger)F1
+
+*Burst combo Dagger start*
+- Get into combat (Greatsword 4, hit a 1 on an npc, or whatever you need to do)
+- Signet of Fury > Signet of Might > (Berserk)F2 > (Dagger)Fl > Blood Reckoning >  (Dagger)F1 > Swap
+(Greatsword)F1 > Sundering Leap > 1 > 1> (Greatsword)F1 > Swap 
+(Dagger)F1 > (Axe)4 > (Axe)5  > (Dagger)F1 

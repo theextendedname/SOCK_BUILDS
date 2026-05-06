@@ -1,0 +1,21 @@
+Renegade Boon Support 
+<:revenant_renegade:1162443973114208296>Renegade Boon Support 
+- Credit: @alyrico
+- [The Build](<http://gw2skills.net/editor/?PmwAs6ZldQJMHii1QTsHqi9RhsAagHr057G-DWJYjR3fZkZKkeFo7vgQEm9wbx/LNA-w>)
+- [Video @alyrico](<https://youtu.be/R6T3haim6X4>)
+- [Video @sheffplaysgames](<https://youtu.be/xGxdma1kcqE?si=3mCPWu431rd6vqFD>)
+- More info
+   - The main focus of this build is providing your subgroup with Alacrity and Stability first with a generous sprinkling of Resistance and Resolution.  
+   - Your weapons will be: Scepter+Shield, Staff
+   - Sigils- Superior Sigil of Concentration (+10% Boon Uptime) + Energy (50% Endurance regain on weapon swap).
+   - Relic: Relic of the Flock - Heals + generates barrier.
+   - Superior Rune of Water has been chosen for the +25% Boon Duration.
+   - !~If you cannot afford Water runes, Superior Rune of Leadership is an acceptable stand-in. You can purchase these runes for 75 Proofs of Heroics/Desert Heroics each at any Heroics Notary within WvW/Armistice Bastion. 
+   - If you either do not have a full heavy legendary set or cannot obtain an ascended set/weapons with Minstrel stats, it is advised to obtain stat selectable exotic gear/weapons from WvW/Armistice and use Superior Runes of Leadership to keep your costs down.
+   - Food: Spiced Pepper Creme Brulee
+   - Utility: Magnanimous Maintenance Oil/Corsair Maintenance Oil
+   - !~Corsair Maintenance Oil provides the same benefit as the Magnanimous option, but is far cheaper to obtain at 1s per Oil vs 22s68c per Oil off of the BLTC.
+   - Important Note: This build does require the Secrets of the Obscure (SotO) expansion. If you do not own SotO, it is advised to continue using shortbow and staff. 
+   - Yes please use relic of the flock. The reason why the relic changed to flock is for the barrier generation on our squad subgroup(s). So it's going to be beneficial regardless of what weapon set we will be using. It only works when using your stance's heal skill, but using staff 2 when engaged in melee on an enemy will also be beneficial even if it's not that much of a heal
+
+ - rev-support-skill-chart.png

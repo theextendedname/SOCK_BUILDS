@@ -1,0 +1,115 @@
+Small Scale Groups are 5 - 10 players
+
+Group Template
+Healer, Cele-FireBrand, Cele-DPS, Healer||Cele-Support, Cele-Hybrid||Cele-Support
+
+
+Examples of Group Combonations(this is not a zerg list)
+Tempest,FireBrand,Harbenger,Vindicator,SpellBreaker
+Tempest,FireBrand,Harbenger,Renigade,Scourge
+Druid,FireBrand,Harbenger,Chronomancer,Scourge
+Tempest,FireBrand,Harbenger,Chronomancer,SpellBreaker
+Tempest,FireBrand,Harbenger,FireBrand,SpellBreaker
+Tempest,FireBrand,Holosmith,Renigade,SpellBreaker
+Tempest,FireBrand,Holosmith,FireBrand,SpellBreaker
+Druid,FireBrand,Holosmith,Scrapper,SpellBreaker
+
+*FireBrand Burn
+-build  http://en.gw2skills.net/editor/?PWwAEd%2FlRw6YcMMmJW0WbvVA-D2IY1omvUyJCiMEKOB6oAc43ANUZNCA-w
+-video https://www.youtube.com/watch?v=XMCjn38Ft8M
+- Notes
+
+Vindicator Heals
+- Build http://gw2skills.net/editor/?PmwAYt7ll0RmZOqc6szNVTpluqeCN0F2XqpuhCqsynv0ZUH-DWRYVRcMGF8FSSRRmpQ1Fgv/CCRA2DPAA-w
+- Video https://www.youtube.com/watch?v=uIWkPGH3Cjg
+- Notes
+
+*Tempest Heals
+- Build http://en.gw2skills.net/editor/?PGABoipjlNExQaZO5smaWZlO2TvtfA-DWRYehUNG9V1HSQClqVFxMBs5FhQEg9zbh+NLA-w
+- Video https://www.youtube.com/watch?v=E3RxNxWrybE
+- Notes
+
+Druid Heals
+- Build http://gw2skills.net/editor/?POzEYKNssiMGThbpkhEyKj0yVyrlmCr23+rA-DWJYjRdfhkUokaCUdV471hTEg9zbp9NLA-w
+- Video 
+- Notes
+
+Scrapper Heals
+- Build http://gw2skills.net/editor/?PekAUVlNw8YOsH2Je2SntMA-DWJYjRVfhEUUkaCUdJ471hQEg9wbp9NLA-w
+- Video 
+- Notes
+
+
+SpellBreaker Cele-Hybrid
+- Build http://gw2skills.net/editor/?PKwEwEmosgCmYJTKp913O70U3y+tB-D2IY1oj/UqUE0pQoYFQOTAl+VIEiZPcAPl+BL0/rBA-w
+- Video https://www.youtube.com/watch?v=2GRXxkgwKgg
+- Notes  cc spam, boon strip and boon support
+
+Renigade Cele-Hybrid
+- Build http://gw2skills.net/editor/?PmxAUlzlh0RHhsocypoJVTNJNoe6JoB2XfBOhCKIhpyl17G-D2IY1ou/QKWG0tCIdhgH/NUiwsHeL0/VBA-w
+- Video
+- Notes
+
+Scourge Cele-Hybrid
+- Build http://gw2skills.net/editor/?PSwAEt3lNweYfMEmJWsT9vWA-D2IY1om/Q6UCkrSoZRgSfPEgw1DvF6/0AA-w
+- Video
+- Notes
+
+Chronomancer Minstral-Support
+- Build http://gw2skills.net/editor/?PiwAw2RlZkxsyaidssy2ZjesTutOA-DWJYjR3fhEUYkZBkeGo7vgQIg9QHPFOLtvZBA-w
+- Video
+- Notes
+
+*Harbenger Cele-DPS
+- Build http://en.gw2skills.net/editor/?PSABo2tjlhyWZesPWLW0TvxTA-D2IY1on%2FQyUE0rUomFgi+NQDVOjAA-w
+http://gw2skills.net/editor/?PSABo2tjlZwWZIMVWLW0SlRVA-D2IY1on/QyUE0rUomFgi+NQDVOjAA-w
+- Video https://www.youtube.com/watch?v=ORvTjtwq_MA
+-Notes to land your elite elixir on the enemy (sometimes it's hard), Idk about max damage but a combo I like to do is, elite elixir, shroud 3, shroud 5, into shroud 2 then spam auto
+
+Holosmith Power-DPS (sword+pistol)
+- Build http://gw2skills.net/editor/?PeABwqxrlJUwuSbRFNvsGaqO2LvvXA-DWRYiRf3hRQ4lSThSmBRvJQFVgtnFOQA7n3i+nRAA-w
+- Video
+- Notes Photon Forge Rotation: Photon Forge 3 > 4 > (5 if low on heat) > Laser Disk > Prime Light Beam > Dodge > 3  
+Leave Forge before Overheating and use Sword 2/3
+Fun facts: 1.) Elixer gun > 5 can be blast finished with pistol 5
+		   2.) Elixer gun > 4 leap back can be cancled with weapon swap
+		   3.) Photon Forge > 2  drops a Holographic launch pad for 4 sec. Anyone that touches it get superspeed
+
+
+
+*Willbender Cele-DPS
+- Build http://gw2skills.net/editor/?PWABwyl/lhyUZgMM2IW0XZxOA-D2IY1onvQiMEaNB6tCc4HAL0PtBA-w
+- Video
+- Notes
+
+
+*Hearld Cele-Hybrid
+- Build  http://gw2skills.net/editor/?PmABkex7lpQIMLCidRRMMSiJSgsCSgj6zarE-DWRYVRPmMsCJyEIzQo3Kw7PBsQ/nGA-w
+- Video
+- Notes
+
+
+
+
+Zerg comp
+https://www.youtube.com/watch?v=WqaFrvf-xBk
+Healer,Cele-FireBrand,Power-DPS,Cele-Hybrid,Cele-Support||Cele-Hybrid
+
+
+
+
+Holosmith Power DPS (sword+pistol)
+- Build http://gw2skills.net/editor/?PeABwqxrlJUwuSbRFNvsGaqO2LvvXA-DWRYiRf3xcQ4lSThSdJQmBRFVgtnFOQA7n3i+nRAA-w
+- Video
+- Notes
+
+
+Holosmith Power DPS (Hammer)
+- Build http://gw2skills.net/editor/?PegAIJlJUw6SbRFtrsGaqO2LvvXA-DWRYiRV3xcQ4FSTRSmpRFFgt3COQA7n3i+nRAA-w
+- Video
+- Notes
+
+
+Berserker Power DPS
+- Build http://gw2skills.net/editor/?PKwAgeFlRwoYTsGGJO2W6tKA-DWRYBRw6QM64wLkmSgODhKqAbPMEgA+rR/OlAA-w
+- Notes

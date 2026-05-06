@@ -1,0 +1,42 @@
+Scrapper Heals
+
+<:engineer_scrapper:1162443834140143626>Scrapper Heals
+
+- [The Build](https://gw2skills.net/editor/?PegAUVlNweYeMHWKeyS3tMA-DWJYjRVfhEUEkZqUdR471hQEgeL9vZBA-w)
+- [Video @sheffplaysgames](<https://www.youtube.com/watch?v=pLnictOT5qU>)
+
+- More info
+NOTE: There's some minor build differences in the video
+
+__Purpose:__
+- Heal, cleanse, superspeed
+
+__Quickguide:__
+- Always be rotating through kits, weapon, and gyros. Do not camp medkit.
+- Rotation timing is based around Elixir Gun 3 Fumigate's 16sec CD (see Graven's Rotation guide)
+- SB arrows have a "Chain Reaction" mechanic, which adds value when another arrow is placed in the previous arrow's AOE. Order matters.
+- Superspeed should be maintained as much as possible.
+- Try to provide heal/barrier and cleansing together. (see Bryan's fight commentary video)
+
+__Combos:__
+- Shortbow 4-2-5 for empowering
+- Shortbow 3-2-4-5 in combat
+- Medkit 5-3-4-2
+- Elixir Gun 3 (full channel) 5-4 (weapon swap immediately)
+
+__Superspeed:__
+- All gyros
+- F1 Bandage Self
+
+__Stab:__
+- Defense Field toolbelt skill
+
+__Stunbreak:__
+- Healing Mist toolbelt skill
+
+__Tips:__
+- Switch Shortbows once Sigil of Life is fully stacked
+- Drop Function Gyro and Defense Field on stragglers
+- Harass siege humpers with Mortar Kit
+- Elixir Gun 3 *does not* cleanse you
+- Place a personal target on a party member to help targeting EG3 and SB skills

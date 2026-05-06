@@ -1,0 +1,33 @@
+	**1. Access the Key Bindings Menu:**
+
+*   **In-game:** Press the `Esc` key to open the main menu.
+*   **Navigate:** Go to `Options > Control Options`.
+
+**2. Find "Set Personal Target" and "Take Personal Target":**
+
+*   **Locate:** Scroll down the list of key bindings until you find both "Set Personal Target" and "Take Personal Target."
+*   **Default:**
+    *   `Set Personal Target`: Unassigned
+    *   `Take Personal Target`: Unassigned
+
+**3. Assign Keys:**
+
+*   **Set Personal Target:**
+    *   **Click:** Click in the empty box next to "Set Personal Target."
+    *   **Select:** Press the key you want to assign (e.g., `Shift+F`, `F12`, `Mouse Button 4`).
+*   **Take Personal Target:**
+    *   **Click:** Click in the empty box next to "Take Personal Target."
+    *   **Select:** Press the key you want to assign (e.g., `Shift+G`, `F5`, `Mouse Button 5`).
+
+**4. Test Your Keybinds:**
+
+*   **Set Target:** Select an enemy or target in-game.
+*   **Press:** Press the "Set Personal Target" key.
+*   **Observe:** A personal target marker should appear above your target.
+*   **Take Target:** Press the "Take Personal Target" key.
+*   **Observe:** Your target should immediately switch to the previously marked enemy.
+
+**5. Tips:**
+
+*   **Choose Keys:** Select keys that are easily accessible and don't conflict with other important keybinds.
+*   **Experiment:** Try different key combinations to find what works best for your playstyle.

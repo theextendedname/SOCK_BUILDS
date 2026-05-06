@@ -1,0 +1,14 @@
+<:necro_scourge:1162443917648728124> Scourge AOE DPS
+  
+[Build](https://gw2skills.net/editor/?PSwAc2FlNweYHMEmJOqLaveA-DWRYBRnIG+SppEquCozQoiIw2zCBQcM2DTTVmBAA-w)
+8 power infusions + 10 Condition infusions
+Peppercorn-Crusted Sous-Vide Steak
+Superior Sharpening Stone
+
+- *Power Scorge* is a utility DPS that sets up its group with boon corruption
+   - Your highest priority is using your Well of Corruption and Well of Suffering together with other necros in squad on the commanders call to create an opportunity for your group to generate kills
+   - Use Nightfall and Ghastly Breach like wells - at the same time as other necros on the commanders call
+   - If your commander doesn't call these skills, use them to punish the enemy group pushing into yours
+   - Use Manifest Sand Shade -> Desert Shroud to add extra damage on top of your other spikes
+   - Save Grasping Darkness to Pull Pull enemies into your groups spikes or catch enemies when they try to kite your group
+   - Focus on using Axe/Warhorn until you need Nightfall or Grasping Darkness on Greatsword

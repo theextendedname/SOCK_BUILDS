@@ -1,0 +1,77 @@
+**30 Player Composition SOCK mod**
+* 1 Commander
+* 6 Main Stab ([Chrono](https://en.gw2skills.net/editor/?PiwAQx3lZwsYZMFWJesTqtUA-DWJYjRNfZkZFUdKo7vgQEm9wbx/fNA-w), [Firebrand](https://en.gw2skills.net/editor/?PWwEQLtrMCGHTkhxMxU+a/pB-DWJYjRd/hkmkoaRQ6KBP+aIEhZP8W8/SDA-w))
+* 6 Healer ([Druid](https://en.gw2skills.net/editor/?POwEkEmpsCGCbhxwIxyVyrlWy9uC-DWJYjR3fZ0bqWdV571hQEg/W6fzCA-w), [Scrapper](https://en.gw2skills.net/editor/?PeQAUlNweYeMHWKe0SntMA-DWJYjRRfZkaiUdR471hQEgNzbp/NLA-w), [Vindi](https://en.gw2skills.net/editor/?PmwAYl7llQHMKqhVRPsJyhFSfsBKgnv0ZcH-DWJYjR9fhkUimZIUdV57FhQEgt/bp/NLA-w))
+* 6 Support Spellbreaker ([Build](https://gw2skills.net/editor/?PKwEYiNssA2HTihxOx03y8ZB-DWJYjRN/ZkuKInpgu+FECBsHY6t8/lGA-w))
+* 4 Support Scourge ([Build](https://en.gw2skills.net/editor/?PSwEEaNssB2DDh9xMxieq81D-DWJYjRN/hkpEobhQOrAf9bIEBYP8W6fzCA-w))
+* 2 Boon Strip DPS ([Reaper](https://en.gw2skills.net/editor/?PSgEEiWmADhdwWYl4Ifd2sB-DWRYbhArTMqovELlmSkMDwODhKqKbfOEAB2D3/lEAaR/ZAA-w), [DPS Spellbreaker](https://gw2skills.net/editor/?PKwAIxflNwkYfMRGJO8WavKA-DWRYBR9TM4SppoouQo2Co7EwkzCBQg9Ap3i+vWAA-w))
+* 5 DPS ([Renegade](https://en.gw2skills.net/editor/?PmgEQLU2BtwcoNWDpxeoM2HNyCIDm8XqPXA-DWRYihSeOqObHSTSgMFBVoEk5ZhAEw4/to/CGA-w), [Holosmith](https://en.gw2skills.net/editor/?PegEQjWmALi5x6Yo4Yv8+eB-DWRYih7bOqSgFSTFRmpQFRgtnFCQA7h3i+nRAA-w), [DragonHunter](https://en.gw2skills.net/editor/?PWgEQLUmQCrJs5EywCclR6Qv43eB-DWRYihzdOqSRlSTJadFQnhQFRltnFCQA7h3i+zAAA-w),  [Soulbeast](https://en.gw2skills.net/editor/?POwAIlnlRwOYbsHmJW0X2P1ammAB-DWRYBBLG1vSppiquEtzIoiQw2zCBIg/W0/MCA-w)) 
+
+This post it to keep the @sockgovernment in the loop with comp changes happening soon. We are trying to squeeze PACK comp into something SOCK can play/get players to use. As you know we are not able to fill 20 slot signup on most runs. It's my hope that adding classes to the comp will bring more students to the yard and fill a 30 slot signup. While still using PACK compatable builds.
+
+**50 Player PACK Comp**
+10 Chrono
+10 Support Vindi
+7 Support Spellbreaker
+3 DPS Spellbreaker
+7 Support Scourge
+2 Core Necro
+5 DPS Renegade
+5 DPS Holosmith
+
+
+
+**30 Player NA SOCK modified Comp**
+* 1 :catmander_purple:Commander
+* 6 Main Stab (Chrono, Firebrand)
+* 6 Healer (Druid, Scrapper, Vindi)
+* 6 Support Spellbreaker 
+* 4 Support Scourge 
+* 2 Boon Strip DPS (Reaper, DPS Spellbreaker)
+* 5 DPS (Renegade, Holosmith, DragonHunter, Soulbeast) 
+
+
+New 30 Player NA SOCK Comp
+* 1 Commander
+* 6 Main Stab (Chrono, Firebrand)
+* 6 Healer (Druid, Scrapper, Vindi)
+* 6 Support Spellbreaker
+* 4 Scourge (Support Scourge, DPS Scourge)
+* 7 DPS (Renegade, Holosmith, DragonHunter, Soulbeast, Reaper, DPS Spellbreaker)
+
+
+
+Example parties 30  SOCK Dobby night
+**Group 1**: The lobby
+**Group 2**: <:catmander_purple:1162441936049799168>, <:role_heal:1066927219450073108>, <:warrior_spellbreaker:1162460415914156116>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 3 **:<:warrior_spellbreaker:1162460415914156116>, <:role_heal:1066927219450073108>, <:necro_scourge:1162443917648728124>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 4**: <:warrior_spellbreaker:1162460415914156116>,<:role_heal:1066927219450073108>, <:necro_scourge:1162443917648728124>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 5**: <:warrior_spellbreaker:1162460415914156116>, <:role_heal:1066927219450073108>, <:necro_scourge:1162443917648728124>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 6**: <:warrior_spellbreaker:1162460415914156116>, <:role_heal:1066927219450073108>, <:necro_scourge:1162443917648728124>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 7**: <:warrior_spellbreaker:1162460415914156116>, <:role_heal:1066927219450073108>, <:role_dps:1066928563191828560>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+
+
+
+40 Player SOCK Comp
+* Commander (1)
+* Boon Support (8) Troub, Harb, Vindi
+* Healer (8) Druid, Scrapper, Evoker, Spector
+* Boon Strip DPS (7) Reaper, Spellbreaker, Core Necro
+* Main Stabs (8) Firebrand, Lumi
+* DPS (8) Amalgam,  Core Guardian, Conduit, Dragonhunter
+
+
+
+Example parties 40  SOCK Comp
+**Group 1 **: The lobby
+**Group 2 **: <:catmander_purple:1162441936049799168>, <:role_heal:1066927219450073108>, <:troubador:1480916474246987929>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 3 **: <:warrior_spellbreaker:1162460415914156116>, <:role_heal:1066927219450073108>, <:necro_harbinger:1162443914050027643>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 4 **: <:necro_reaper:1162443916352700556>, <:role_heal:1066927219450073108>, <:necro_harbinger:1162443914050027643>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 5 **: <:necro_reaper:1162443916352700556>, <:role_heal:1066927219450073108>, <:troubador:1480916474246987929>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 6 **: <:necro_reaper:1162443916352700556>, <:role_heal:1066927219450073108>, <:troubador:1480916474246987929>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 7 **: <:warrior_spellbreaker:1162460415914156116>, <:role_heal:1066927219450073108>, <:necro_harbinger:1162443914050027643>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 8 **: <:necro_reaper:1162443916352700556>, <:role_heal:1066927219450073108>, <:troubador:1480916474246987929>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 9 **: <:warrior_spellbreaker:1162460415914156116>, <:role_heal:1066927219450073108>, <:troubador:1480916474246987929>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+
+
+

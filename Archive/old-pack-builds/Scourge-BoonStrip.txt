@@ -1,0 +1,13 @@
+Scourge Support
+<:necro_scourge:1162443917648728124>Scourge Support
+- Credit: @disform 
+- [The Build](<http://gw2skills.net/editor/?PSwEEaNssBmEDh9wMxieq91D-DWJYjR9fhEURlZq2bE47vgQEg9wbp/LNA-w>)
+- More info
+  - Build key aspects
+  - Positioning is the most important skill of all. Isolated Scourges serve no purpose. Barrier, cleanses, healing are all in small radius around the player or shades. Use dodge, warhorn 5 for swiftness or Trail of anguish for stability and swiftness if you have to but don't stray off tag.
+  - **Barrier**: This is the main purpose of this build. Scourge should lead the entire squad in group barrier provided. F-skills are fundamental, use off cooldown. Shades must be used on top of the squad. 
+  - **Boonstrips**: Like every necromancer build, boonstrips are very important for the comp. Prioritize utility and elite skills.  Use as often as possible. Hold well and/or elite if the commander is calling for them. Don't be afraid of using healing skill, its main purpose is group barrier. As support Scourge, you are very resilient.
+  - **Cleanses**:  F2 and F5 skill provide some cleanses. Use F2 off cooldown. At the beginning of the fight, use F5 *after* engaging.
+  - **Weapon skills**: GS4 and GS5 are the only important skills in this set. GS3 can be used occasionally for life force and some vulnerability. Scepter 3 is the most important skill for boonstrips. Warhorn 4 inflicts Fear and it's unblockable. Scepter 2 and warhorn 5 are lower priority, only use if you have nothing else. 
+
+ - Notes: Be mindful with barrier, there is a cap based on HP and shades are limited. So space a bit your barrier skills (F2 is cleanse, so use off CD) instead of a massive burst.

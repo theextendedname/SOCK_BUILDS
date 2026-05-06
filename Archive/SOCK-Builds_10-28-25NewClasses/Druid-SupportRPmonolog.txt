@@ -1,0 +1,56 @@
+*The leaves overhead shiver, though there is no wind. A soft, bioluminescent glow coalesces between the ancient oaks, forming the vague, shifting shape of a figure draped in moss and starlight. Its voice is like the rustle of dry grass and the chime of falling water.*
+
+"Peace, traveler. I see the heavy scent of iron and antiseptic clings to your robes. You seek to mend what is broken? To pull life back from the brink? You carry the tools of a medic, but the forest offers a deeper well. Listen to the heartbeat of the Maguuma, and I will show you how to become a "Druid"."
+
+---
+
+The Gift of the Celestial Avatar?
+The stars are not just lights in the sky; they are a reservoir of spirit. As you strike foes and knit the wounds of friends, you gather "Asstrial Force" that soft blue light behind your eyes.
+
+* **The Transformation:** When your spirit is full, shed your mortal limits. Your skills will become manifestations of the heavens. Focus these lights upon your allies.
+* **The Cost:** Staying in this state drains your spirit quickly (about 15 seconds). Use your time wisely. You may leave early, but the spirits will take a portion of your remaining energy as an offering.
+* **The Rhythms:** Entering this form purges the toxins from those nearby. Once inside, call down the **Lunar Impact (3)** first—let its light settle—then wash them in **Rejuvenating Tides (4)** and plant **Seeds of Life (2)**.
+
+---
+
+The Song of Wood and Wind?
+Your weapons are conduits, not just tools. Treat them with the respect a gardener gives the vine.
+
+* **The Quick Draw:** The forest rewards swift changes. Your first spell after switching weapons will return to you much faster. Use this to call upon the **Ancestral Grace (Staff 3)** twice in rapid succession.
+* **The Staff:** Use your grace to leap at your own feet into your healing waters. Send forth the **Vine Surge (4)** to hinder foes, and raise a **Sublime Conversion (5)** to turn their arrows into healing mist.
+* **The Mace and Horn:** Before the drums of war begin, sound the **Call of the Wild (Warhorn 5)** to embolden your pack. In the fray, let the **Flourish (Mace 2)** mend flesh, but be careful where you leap with your **Oaken Cudgel (3)**—the earth does not always catch those who jump blindly.
+
+---
+
+Whispers of the Spirits?
+You are never alone. The spirits of the wild stand with you, if you call.
+
+* **Frost and Stone:** The **Frost Spirit** cleanses the air with every slam of its frozen fists. Place it where your allies intend to walk. If the path is treacherous, call the **Stone Spirit** for the protection of the mountain.
+* **The Ultimate Sacrifice:** The **Nature Spirit** is a powerful ally. Its presence can pull your fallen comrades back from the gates of the Mists. Use it only when the shadows grow longest.
+* **The Glyphs:** These ancient signs are most potent while you wear the **Celestial Avatar**. They cleanse and heal with a power your salves cannot match.
+
+---
+
+A Warden’s Warning?
+* **The Root:** Do not use the **Natural Mending (CA 5)** lightly. It binds you to the earth. If the group moves and you are rooted, the predators will find you.
+* **The Yeet:** Be mindful when your Astral Force wanes. If you attempt to use the moon's light (CA 3) just as your spirit returns to your body, you may find your **Ancestral Grace** flinging you far from your friends.
+* **Stay Close:** Your magic is like the warmth of a campfire; those who wander too far into the dark will not feel its heat.
+
+---
+The Rite of Mending (Your Focus)?
+
+**The Prelude**
+Sound the `Call of the Wild` **Warhorn (5) **   **Switch Weapons**   and Summon the **Frost Spirit** ahead of the path.
+
+**The Waltz**
+1.  **Staff 3:** Leap at your feet.
+2.  **Staff 4:** Send vines toward the enemy.
+3.  **Staff 5 + 3:** Create the wall, then blast through it with grace.
+4.  **Staff 2:** Send a wisp to guide your focus.
+5.  **Switch to Mace:** Flourish and strike, then...
+
+**The Celestial Ascent**
+**Enter Avatar**   **CA 3** (Lunar Impact)  **CA 4** (Rejuvenating Tides)  **CA 2** (Seed of Life). 
+Repeat the Tides and the Impact until the stars fade and you return to the earth.
+
+*Go now, medic. The forest heals through you. Do you feel the pulse of the soil beneath your boots?*

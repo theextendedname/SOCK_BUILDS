@@ -1,0 +1,20 @@
+Scourge Condi Boon Strip
+<:necro_scourge:1162443917648728124>Scourge Condi Boon Strip
+- Credit: @alyrico 
+- [The Aggressive Build](<http://gw2skills.net/editor/?PSwAEt/lNweYSMEmJW0T9PVA-D2QYrw+RN+MyUJ0hMQhHECQ46hXDIOrAA-w>)
+- [The Survivors Build](<http://en.gw2skills.net/editor/?PSwAEt/lNweYSMEmJW0T9PVA-D2QYrw/ja4MyUJ0hMQhHECQ46hXDIOrAA-w>)
+- [Video Game Play](<https://youtu.be/b1VOhApubOU?si=MyGNwGTylkmN-bBd>)
+- [Video @alyrico](<https://youtu.be/7e1fpj0hrg4>)
+- More info
+ - This is a condi build designed to put maximum condition pressure alongside Mystic Rebuke Firebrands. As necromancer, we still focus on boon strips in our gameplay. As a tertiary goal, we are taking Transfusion and other traits aimed to revive our downs faster.
+ - We start the fights in our scepter/torch set, all the skills are useful, pay particular attention to Scepter 3 as a powerful boon corruption. As we are about to engage in melee, Trail of Anguish and Ghastly breach should be your priority. Use Well of Corruption on command. Use Sand Flare and Serpent Siphon on cooldown when in melee. 
+ - Serpent Siphon. This utility should be used in close quarters, it's both offensive and defensive. Any time we cast it in melee, on top of the enemy, we get maximum value. It is Lower priority than wells, Breach and Trail of Anguish. 
+ - Great Sword set, top priorities are, GS4 just before or in melee and Gravedigger when you see some downs, don't wait for the commander call, swap immediately to GS.
+ - Shades. These are not your top priority, just use F2, F3 and F5 off cooldown. Always keep at least one shade up. 
+ - Do NOT use F4 unless someone from your party is down. We will be running several scourges, so it's important we don't waste F4 for the same person.
+ - Necromancer runes can be used as a cheaper alternative to Trapper. Until you can afford either set, you can use Antitoxin, tho is weaker than either choice.
+
+
+ - - Added a second easier to play build 
+ - The aggressive version of the build. It's a combination of Carrion and Sinister gear. 
+ - Both versions are good, the posted one is on the aggressive side. But for players who want an easier to play build. Try The Survivors Build,  because you have +5k HP, which helps a lot with the tanking. It's basically trading some dmg for a lot of survivability. For 9/10 Necromancers, this version is better. https://discord.com/channels/1115014890822836317/1281670815653564528/1281670815653564528

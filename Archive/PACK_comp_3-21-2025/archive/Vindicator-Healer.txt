@@ -1,0 +1,45 @@
+Vindicator Support
+<:HealVindi:1217514505261813820> Vindicator Support
+- Credit: @Autumn
+- [The Build](<http://gw2skills.net/editor/?PmwAYl7llQHMKyhVRNsJ6hFSfsBKgnv0ZcH-DWJYjR9fhkUimZIUdV57FhQEgt/bp9NLA-w>)
+- More info
+Mar 18th CHANGES: 
+
+1. We're going to run mace instead of scepter. When "Empower" or "Might Up" is called, use Mace 2 for fire field, Mace 3 to blast might.
+
+2. Adjusted engagement sequence from feedback
+
+
+Thanks to Autumn for the majority of this guide.
+
+TLDR:
+Dwarf: roads->shield 4->swap to centaur (48 energy)
+Centaur: elite->heal->Natural Harmony->Purifying Essence->Natural Harmony x2 (120 energy)->Swap below 10% energy
+Dwarf: Rite if 75% energy, otherwise, Roads, wait for Rite
+
+Role:
+- Stability, damage mitigation, healing, cleansing
+- Provide damage reduction through Rite of the Great Dwarf (Rite)
+- Provide stability through Inspiring Reinforcements (Roads)
+- Provide boons, healing, and cleansing in Centaur
+
+Fights (start at 50 energy in Dwarf stance):
+- Dodge regularly to keep up 20% outgoing healing buff and filler heal/cleanse/prot
+- Use Rite as group approaches enemies
+- Swap to Centaur
+- Use Energy Expulsion, the centaur elite, re-deploy Tablet again immediately
+- Cleanse if needed with Purifying Essence, otherwise heal with Natural Harmony
+- Swap to Dwarf below 10% energy ->Rite, Road, dodge
+
+Energy Management:
+- Try to be below 10 energy before you legend swap for extra 25 energy from Charged Mists (use upkeep skills if necessary)
+- You can legend swap during Rite without interruption but NOT Energy Expulsion (centaur elite)
+- Energy Meld gives 25 energy, use on cooldown and have a plan to use the bonus energy
+
+General Tips:
+- Learn to love tablet management. Its utils are small, 240 radius.
+- In Centaur, the first util used after deploying the tablet is "Empowered," giving them more value.
+- Prioritize utility skills over weapon skills if energy usage is tight
+- Always legend swap on cooldown, try to be below 10 energy
+
+Please reach out if you have any questions or want training.

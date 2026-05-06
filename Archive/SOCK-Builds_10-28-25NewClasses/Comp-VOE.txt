@@ -1,0 +1,18 @@
+New 30 Player SOCK Comp
+* 1 Commander
+* 6 Main Stabs (Lumi/FB/Troub)
+* 6 Healer (Druid/Scrapper/Evoker)
+* 4 Boon Support (Paragon/Troub/Chrono)
+* 2 Boon Support (Spellbreakers)
+* 3 AOE DPS Ritualist {range spike/wells}
+* 2 AOE DPS Scourges {strips/wells}
+* 6 BIC Damage DPS (Scrapper/Amalgam/Core_Warrior/Soulbeast/Conduit/DH)
+
+Example parties 30  SOCK Comp
+**Group 1 **: The lobby
+**Group 2 **: <:catmander_purple:1162441936049799168>, <:role_heal:1066927219450073108>, <:Paragon:1435122104243847249>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 3 **: <:Ritualist:1432799639979036833>, <:role_heal:1066927219450073108>, <:warrior_spellbreaker:1162460415914156116>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 4 **: <:Ritualist:1432799639979036833>, <:role_heal:1066927219450073108>, <:warrior_spellbreaker:1162460415914156116>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 5 **: <:necro_scourge:1162443917648728124>, <:role_heal:1066927219450073108>, <:Paragon:1435122104243847249>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 6 **: <:necro_scourge:1162443917648728124>, <:role_heal:1066927219450073108>, <:Paragon:1435122104243847249>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 7 **: <:Ritualist:1432799639979036833>, <:role_heal:1066927219450073108>, <:Paragon:1435122104243847249>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>

@@ -1,0 +1,40 @@
+Firebrand Boon Support
+<:guardian_firebrand:1162443861944193054>Firebrand Boon Support
+- Credit: @Autumn
+- [The Build](<http://en.gw2skills.net/editor/?PWwEc8FtMCGGTk9wMxk6a/tB-DWJYjRHfZkZKkeFo7rhQEm9wbx/LNA-w>)
+- More Info
+Quick Version
+- keep stab uptime while engaging enemies
+- use CC abilities to give resistance
+- use Sanctuary when called by commander
+- use tome abilities to avoid overcaping pages
+- use mantras when at 2 stacks, do not use final stack
+
+Long Version
+This is a support build that focuses on providing offensive and defense boons to our party. We are the main source of stability and resistance in the comp, and our primary responsibility is to rotate our stability options to keep our team safe. Our stability abilities are:
+
+- "Stand Your Ground!"
+- Entering Tome of Courage (F3 book)
+- Epilogue: Unbroken Lines (skill 5 in F3 book)
+- Mantra of Liberation (elite)
+
+Our stability rotation starts with SYG, then Courage once that stack has fallen off, then alternating the other two options until SYG is off cooldown.
+
+We also provide resistance to our party through Stoic Demeanor (FB trait), skill 4 in F3 book, and spear 5. Stoic Demeanor requires that we CC an enemy and has a 1 second internal cooldown. Spear 5 provides pulsing resistance and is best used when in melee engagements.
+
+Now that we don't need to keep our F1 off cooldown and have 8 total pages, we have a lot more flexibility in how we use our tomes and respond to fights. Some good options include:
+
+Justice (F1)
+- skill 3 is a pull, activating Stoic Demeanor
+- skill 5 grants extra damage and might
+Resolve (F2)
+- skill 2 removes conditions
+- skill 5 converts conditions to boons and increases healing done to our party
+Courage (F3)
+- skill 3 is a projectile reflect dome
+- skill 4 gives pulsing resistance
+- skill 5 gives protection and stability
+
+- Knowing which skills to use and when to use them is an important skill to develop, but making sure we don't overcap on pages is more important when starting out.
+- The build calls for Water runes but they decently pricey at the moment. Leadership runes are a good substitute (same boon duration) until you can afford Water. If you have any trouble putting the build together, please reach out and I'll do my best to get you sorted
+- we will be using this build alongside Boon Support Willbender

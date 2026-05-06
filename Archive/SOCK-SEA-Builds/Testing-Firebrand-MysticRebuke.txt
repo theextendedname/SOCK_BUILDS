@@ -1,0 +1,32 @@
+Firebrand Mystic Rebuke
+<:guardian_firebrand:1162443861944193054>Firebrand Mystic Rebuke
+- Credit: @alyrico 
+- [The Build](<http://en.gw2skills.net/editor/?PWABs+d7lRw6YYMRmJOaXbPNA-D2IY1on/MyUKkuKwjvGCQ46h3C9XaAA-w>)
+- [Video](<https://www.youtube.com/watch?v=7tB-tAsuiX4>)
+- More Info
+   - Leading with Sanctuary into fights with the necro wells. This combination allows for strips + cc to hit their stack on a push before they engage into melee and can help separate people from their stack for easy picks. Focus on leading the enemy movement with your sanctuary to get the most value out of it.
+   - Always be casting something. Do not stand there with all of your weapon skills off cooldown waiting for the perfect melee engagement. Your symbols in axe and scepter and torch 4 and 5 should all be used as much as possible off cooldown.
+   - You have limited pages in this build. Your focus is on page #4 and #5 in Tome 3. If you have extra pages you can use page #5 in tome 2 to help our healers a bit, but it is less important than the first two.
+   - The hardest part is using your heal mantra for as much aegis uptime as possible in situations where it will proc mystic rebuike. Remember mystic rebuke is very short range, if you arent directly in melee range with the enemy it will not proc. I frequently overcast my heal mantra in these fights and put it on cooldown, locking me out of the mantra for 30s. This takes practice and consistent play to maximize efficiency.
+   - Stand your ground should be used as the initial stab for your group leading into a fight. Make sure to cast it early enough that our group isnt already getting CC'd before they get the stability as it won't stun break them. After that use it off cooldown during the fight as supplemental stab to the Renegades.
+   - Please make sure they are all up to date. With scepter it is important to use scepter #3 on an enemy target as much as possible as it generates resistance for all allies on use. Scepter #2 is combined with either sanctuary or purging flames for added pressure, but use it off cooldown if sanctuary and purging flames are on cooldown.
+   
+------SEA Time------   
+   Power Support FB  GS + Mace/Shield
+   [Build](<https://gw2skills.net/editor/?PWwAEl7lRw4YXMMmJOSX7PNA-DWJYnR9/h0oEoCRQ6KBP+aIEhZP8aGxlGA-w>)
+   - 100% Boon Duration
+   - Great Sword boosts power of Mystic Rebuke
+   - Vision sigil makes the GS 4 + 2 hit hard
+   
+    Power Support FB  Spear + Mace/Shield
+   [Build](<https://gw2skills.net/editor/?PWwEQLtrMCGH7ihxMxR6a/pB-DWJYnR9/h0oEoCRQ6KBP+aIEhZP8aGxlGA-w>)
+   - 100% Boon Duration
+   - spear gives boons and heals
+   - Vision sigil makes the Spear 5 + 4 + 3 hit hard
+ 
+Firebrand DPS - Burnbrand  
+[Video]<(https://youtu.be/HKAAWd8rQNg?t=411)>   
+- Relic of Thorns but the build editor site is not updated. If you dont plan on being a big part of your stab source in your setup, you can trade out ritualist trinkets for more trailblazer if you want more toughness.
+ - https://gw2skills.net/editor/?PWABcyp/lRw6YcMMmJW0WbvVA-DWRYkRPTO4CJnCIyUoyIwhFgw1DvF6/0AA-w
+- You can also use Herald relic if you plan to keep Ritualist trinkets so that you have more boon duration just to add some higher stab uptime.
+ - https://gw2skills.net/editor/?PWABcyp/lRw6YcMMmJW0WbvVA-DWRYkRPTO4CJnCIyUoyIwhnBBIc9wbh+PNA-w

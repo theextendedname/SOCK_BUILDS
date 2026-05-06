@@ -1,0 +1,85 @@
+Spellbreaker DPS Boon Strip
+<:warrior_spellbreaker:1162460415914156116> Spellbreaker DPS Boon Strip
+
+- [The Build](<http://gw2skills.net/editor/?PKgAIZlNwkYfMR2JO8W6vKA-DWRYBR1TM4TpJRRnKgulA5MEMxZhAIweg0bR/XLA-w>)
+- More Info
+  - Your main role on this build is Damage and Boon strip
+  - You will use Winds of Disenchantment (Elite) when called for by the commander to strip boons on a push and block ranged attacks.
+  - If your tag calls for Wells or Big damage cast Winds of Disenchantment (da bubble)  
+  - You have boon strips on your Full Counter(F2), Break Enchantments(Util Skill), and when you interrupt a foe with your hammer(Absorption Sigil).
+  - Full Counter(F2) is AWSOME. It boon strips, dazes, interrupts, recharges endurance, recharges adrenaline, blocks all incoming damage, gives you stability , and is unblockable.
+  - Savage Leap sword(2) is a great movement ability. Use it to keep up with tag or catch a speedy yack. 
+  - Focus on using hammer burst Earthshaker(F1),  recharging your adrenaline Full Counter(F2), removing boons with Dreak Enchantments(Util Skill), and cleave the downs with Axe(4,5)
+ 
+- *Basic Zerg Combo* 
+  - Hammer 3 > F1 > F2 > F1 > break enchantments(Util Skill) > F1 > Hammer 2 > Hammer 3 > Swap > Axe 4 > Axe 5
+
+- *Da Bubble casting 101*
+  - Winds of Disenchantment (Elite) is a 1.5 second cast. This gives ample opportunity to get stunned, interrupted and murdered.
+  - You should attempt to cast the bubble at the point of contact with the enemy. 
+  - Combo the Banner of Tactics > Defiant Stance > Winds of Disenchantment (Elite)> then do your Basic Zerg Combo
+ 
+ 
+*PLEASE NOTE: this build has changed as of 20 Feb 2025. *
+- *Build and Combo Change*
+  - We are looking to increase the number of pulls in group and are switching to Staff on Spellbreaker
+  - [Staff Build](<http://gw2skills.net/editor/?PKgAIZlNwkYfMR2JO8W6vKA-DWRYBR1TM4TpJRRnKgulA5MEMxZhAIweg0bR/XLA-w>)
+
+
+
+
+-----------new format-----------------------
+
+
+
+Spellbreaker DPS Boon Strip
+<:warrior_spellbreaker:1162460415914156116> Spellbreaker DPS Boon Strip
+- Credit: @extended 
+- [The Build](<http://en.gw2skills.net/editor/?PKgAIZlNwkYfMR2JO8W6vKA-DWRYBR1TM4TpJRRnKgulA5MEMxZhAIweg0bR/XLA-w>)
+- More Info
+**Your Role:** Pull, Boon Strip, and Damage Dealer
+**Key Abilities and Their Uses:**
+
+* **Winds of Disenchantment (Elite - AKA: "Da Bubble"):**
+  * Use when the commander calls for "Wells" or "Big Damage."
+  * Strips enemy boons and blocks ranged attacks during pushes.
+  * Cast at the point of enemy contact.
+* **Full Counter (F2):**
+  * A versatile ability:
+    * Boon strip
+    * Daze
+    * Interrupt
+    * Endurance and adrenaline recharge
+    * Blocks all damage
+    * Grants stability
+    * Unblockable
+* **Staff Snap Pull (Staff 4):**
+  * Use to pull enemies into your zerg.
+* **Boon Strips:**
+  * Full Counter (F2)
+  * Break Enchantments (Utility Skill)
+  * Staff (4)
+  * Hammer interrupt with Absorption Sigil.
+* **Movement Skills:**
+  * Staff Valiant Leap (Staff 2) and Line Breaker (Staff 3) for quick movement and damage/survivability buffs.
+
+**General Tips:**
+
+* Focus on executing combos correctly.
+* Stay on the tag (don't stray from the group).
+* Quick weapon swaps are key to this build.
+
+**Combos:**
+
+* **Self Buff Combo:**
+  * Staff (2) > Staff (3)
+  * Cast quickly at your feet.
+* **Staff Pull Combo:**
+  * Self Buff Combo > Staff (4) > Weapon Swap (Hammer) > Hammer (3) > Hammer (2) > Break Enchantments
+  * Weapon swap should be very fast to apply Hydromancy Sigil after Staff (4).
+* **Zerg Combo (Melee combat):**
+  * Self Buff Combo > Staff (4) > Weapon Swap (Hammer) > Hammer (3) > Hammer (F1) > Full Counter (F2) > Hammer (F1) > Break Enchantments > Hammer(3) > Weapon swap (Staff) > Staff(F1) > Staff Pull Combo.
+* **Da Bubble Combo (Engage):**
+  * Banner of Tactics > Defiant Stance > Winds of Disenchantment > Hammer (3) > Hammer (F1) > Full Counter (F2) > Hammer (F1) > Break Enchantments > Hammer (3) > Weapon Swap (Staff) > Staff (F1) > Staff Pull Combo
+  * Start the Zerg Combo at Hammer (3) after casting Winds of Disenchantment.
+  * Winds of Disenchantment has a 1.5 second cast time, so be aware of interrupts.

@@ -1,0 +1,28 @@
+Scourge Condi and Power Boon Strip
+<:necro_scourge:1162443917648728124>Scourge Power Boon Strip
+- Credit: @disform 
+- [The Build Condi](<http://gw2skills.net/editor/?PSwAs2FlNweYHMEmJOqL6vTA-DWRYBRHIG+CJzCo2QoiMw2zCBQcM2DTTVmBAA-w>)
+- [The Build Power](<https://en.gw2skills.net/editor/?PSwAs2FlNweYHMEmJOqL6vTA-DWRYBRHIG+CJzCo2QoiMw2zCBQcM2DTTVmBAA-w>)
+- More info
+  -**Gameplay**: 
+	- The build is designed to boonstrip at range.
+	- F2 and F5 skills boonstrip using the shades, so placing them correctly is critical to the build. Use them on cooldown. 
+	- Your damage comes mainly from Gravedigger(GS2) and Well of Suffering. 
+	- Camp Scepter/Focus set. Spam Scepter 3 and Focus 5.  Use other skills to fill the gaps. Once in melee, start using GS. Priority is GS4 followed by GS2 for cleaving enemies. 
+	- Utility skills are extremely important. Hit both wells on cooldown. Use "Trail of Anguish" just before engaging on melee. Use "Ghastly Breach" when called for or we are already in melee range.ng skill offensively, on melee range. 
+	- Be mindful with shades, do not spam all your shades at the beginning of the fight, they take a bit to recharge. *Always have at least 1 shade up*. 
+	- This build, despite not having barrier on shades, it's not fragile. The trait "Feed from corruption" grants you barrier when you corrupt or remove a boon.
+	
+	**VS Cloud.** Recommendations above are aimed towards traditional squad vs squad. If we are fighting clouds we need to adjust.
+- Shades are even more important. You can almost upkeep 2 shades at all time. The ability to hit multiple places at once and control chokepoints from distance is extremely strong. Fights in SMC and keeps are excellent for Scourge. 
+- Wells. Wells by themselves are very strong, but combined with shades can generate downs. The combo is, place wells where your shades are located, hit F2/3/4 (instant cast) then hit Focus 5. Most players without invulnerability go down.
+- Use Trail of Anguish often when we are moving. It helps you, your teammates and strips boons. Any groups trying to pick the tail will step on it.
+
+
+Gameplay video VS Cloud: https://youtu.be/47D34DnnW2s It's a bit chaotic and certainly not optimal, but that's how you play against Cloud/spread out enemies. <@&1248335962241634429> 
+
+Key points:
+- Watch the use of wells and shades. It doesn't have to be perfect. It's more important to get them out than wait for the perfect moment. Take note on the adjustment against Blue, which is actually a comped group, skill placement is more deliberate.
+- Control choke points, tight corridors with key skills like Nightfall, shades and wells. You may not kill them, but the idea is *control*, don't let them free cast on us.
+- Look in more than one direction. Against clouds, you want to hit in every direction. 
+- Breach is a powerful skill, but its radius is quite small. Here i usually tried to hit the clumps running through the tight corridors. you want to be in front near tag to maximize dmg.

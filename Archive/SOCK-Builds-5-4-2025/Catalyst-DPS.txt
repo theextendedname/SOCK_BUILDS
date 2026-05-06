@@ -1,0 +1,51 @@
+Catalyst DPS
+<:ele_catalyst:1162460406686683196> Catalyst DPS
+- [The Build](https://gw2skills.net/editor/?PGwAgihlNw2YesV2LO+KbRTA-DWJYiRXfh0UU0WBURiY7hiAEwO4to/ZEA-w)
+- [Min Max Build](https://gw2skills.net/editor/?PGwAgihlN0w6abe5t1W3boO+KbRTA-DWRYbhUaYO6q64LkmiiISgKKEbPUEgQ2BvF9PjAA-w)
+**Important Note:** This is **not** a laid-back playstyle. It requires very **high APM (actions per minute)**, high skill gap and does not do well in reset lag.
+
+## Build options
+* Swap Armor of Earth for Mist Form if you are finding yourself getting in trouble while out of position. Other wise use Armor of Earth and stay on tag
+
+
+## Catalyst DPS Build: Aura Stacking & Burst Rotation
+
+This Catalyst DPS build focuses on generating **auras** to empower your damage. Each aura you gain builds stacks of **Empowering Auras** and **Elemental Empowerment**. Your **blast finishers** are the key to generating these auras.
+
+When you reach maximum stacks, your entire build receives a significant boost: **10% increased damage**, **10% increased condition damage**, and **20% to all attributes**. These powerful buffs come from just two class passives! The core of this build's rotation revolves around gaining and maintaining these stacks. When executed correctly, you can unleash a potent burst every 20 seconds.
+
+---
+
+### Pre-Buff Rotation
+
+Your pre-buff rotation will cycle through three attunements, allowing you to gain four auras and reach maximum stacks. If there are no existing combo fields to blast, remember that your **Jade Sphere** is a combo field. Other potential combo fields may come from might stacking, "roads," or other sources.
+
+**Attunement Buff Order:**
+
+* `Earth Attunement (F4)`
+* `Water Attunement (F2)`
+* `Air Attunement (F3)`
+* `Burst Combo`
+* Repeat
+
+**Skill Sequences:**
+
+* `Earth Attunement (F4)` > `Churning Earth (5)` > `{about face key bind}` > `Earthen Rush (3)` > `Ring of Earth (2)`
+*
+* `Water Attunement (F2)` > `Frost Aura (4)` > `Frozen Burst (3)`
+* 
+* `Air Attunement (F3)` > `Arcane Brilliance (Heal)` > `Deploy Jade Sphere (F5)` > `Shocking Aura (3)` > {See_Burst_Combo}
+*
+* The Pre-Buff Rotation ##isn't just for buffs##. Each Attunement does good damage, CC, and gives buffs. If you can land the rotation on the enemy do so. 
+*
+* While in combat you may need to restart your buff rotation while waiting for the right time or skip to `Air Attunement (F3)` quickly to begin you burst combo. In general you should try to cycle through Pre-Buff Rotation to keep your **Empowering Auras** and **Elemental Empowerment** stacks up while in combat.
+---
+
+### The Burst Combo
+
+**Burst Combo (continued from `Air Attunement (F3)` buff chain):**
+* `Relentless Fire (Utility)` > `Convergence (2)` > `Fire Attunement (F1)` >  `Burning Speed (3)` >  `Ring of Fire (4)` >  `Fire Grab (5)` > `Deploy Jade Sphere (F5)` >  `Elemental Celerity (Elite)` >  `Burning Speed (3)` > `Ring of Fire (4)` > `Fire Grab (5)`
+*
+* You should be in `Air Attunement (F3)`. The moment you cast `Shocking Aura (3)`, your burst window opens. You'll have approximately **5 to 7 seconds** where your stacks are maximized, giving you enough time to land your burst.
+*
+* You must flow through the burst combo quickly so that `Convergence (2)` lands just as you strike the enemy with `Burning Speed (3)`. This will require practice and nimble fingers.

@@ -1,0 +1,96 @@
+Chronomancer Support
+<:mesmer_chronomancer:1162443888515100712>Chronomancer Support
+- Credit: @bloop
+
+- [The Build](<http://gw2skills.net/editor/?PiwAQx3lZwsYZMFWJesTqtUA-DWJYjRNfZkZFUdKo7vgQEm9wbx/fNA-w>)
+
+- More info
+This guide focuses on the Support Chronomancer for World vs. World, a build centered on boon application, revival, utility, and crowd control. The goal is to maximize support for your group and commander.
+
+### **Core Skills**
+
+* **Utility:**  
+  * Veil  
+  * Signet of Illusion  
+  * Well of Precognition  
+* **Elite:**  
+  * Time Warp (Use if your party lacks a dedicated Quickness provider.)  
+  * Gravity Well (Often a better choice if Quickness is already covered.)
+
+### **Survival**
+
+This build has high passive defense but low mobility. Your primary strategy for survival is to stay close to your group and commander.
+
+* **Active Defense Priority:**  
+  1. Dodge  
+  2. Blurred Frenzy  
+  3. Distortion  
+* **Repositioning:**  
+  * Use Illusionary Leap followed by Swap to reposition isolated enemies.  
+  * The clone from Illusionary Leap will die quickly if it lands in high-damage areas, so be ready to Dodge immediately after using Swap.
+
+### **Key Mechanics & Explanations**
+
+#### **Support & Boon Application**
+
+* **Phantasms:** Cast your phantasms as often as possible to proc Stretched Time for boons.  
+* **Shatters:** All of your shatters grant boons.  
+  * Use your shatters as often as possible, with the exception of Continuum Split.  
+  * Since Continuum Split resets all cooldowns, you should aim to use all your shatters while inside it for maximum effect.  
+* **Rifle Skills:** Cast your rifle skills as often as possible while engaging the enemy group.  
+* **Illusion of Life:**  
+  * Focus on reviving allies who are far away.  
+  * Do not waste this skill on players who can be revived by hand.
+
+#### **Stability Management**
+
+* **Mantra of Concentration:** Keep this charged before a fight. Your highest priority, after survival, is to recharge this mantra if it's off cooldown and uncharged.  
+* **Application:**  
+  * Apply Stability with Mantra of Concentration or Well of Precognition before your allies get hit by enemy crowd control. It's better to be too early than too late.  
+  * Enemy CC is most likely when they spike your group or when groups are moving through each other.  
+* **Boon Strip Counterplay:** After applying Stability, use a shatter skill immediately.  
+  * This pushes Stability lower in the boon strip order, making it less likely to be removed by skills like Null Field, which remove the most recently applied boons first.  
+  * Avoid stacking multiple sources of Stability on your party to prevent overwriting.
+
+#### **Crowd Control (CC)**
+
+* **Usage:** Use your CC when your group calls for a spike, on top of downed enemies, or when the enemy group is retreating.  
+* **Skill Priority:**  
+  1. Temporal Curtain (for range spikes)  
+  2. Gravity Well  
+  3. Temporal Curtain (general use)  
+  4. Illusionary Leap  
+* **Gravity Well & Continuum Split:**  
+  * Use Continuum Split while casting Gravity Well to reset its cooldown.  
+  * While in the split, use as many skills as possible, especially shatters and Null Field, as their cooldowns will reset.  
+  * Cast Continuum Split from a safe position to avoid being pushed or having your split ended early.
+
+### **Cleansing Conditions**
+
+* Most of your condition cleanse comes from the traits Sympathetic Visage and Restorative Illusions.  
+* When possible, aim Null Field to hit both allies (for cleanse) and enemies (for boon removal).  
+* You can use Mantra of Recovery followed by its flip skill, Power Return, to proc Mender's Purity.
+
+### **Recommended Game Settings**
+
+* **Ground Targeting:** In General Options / Combat/Movement, enable "Allow Skill Retargetting" and set "Ground Targeting" to "Instant Cast." This makes skills like Illusion of Life much faster and more accurate.  
+* **Health Bars:** In General Options / User Interface, check "Always show squad health bars" and "Always show party health bars," and also enable "Thick party health bars" and "Thick squad health bars." This helps you keep track of your team's health.  
+* **Squad UI:** In Squad Options, check "View as a grid" to easily monitor your allies' health for better decision-making.
+
+### **Advanced Tips & Tricks**
+
+* **Wall Pulling:** To pull players off a wall, cast Temporal Curtain at the lowest point of a wall that is horizontally in line with the top edge. This hides the effect while still allowing the pull to function.  
+* **Immobilizing Targets:** After a successful pull with Temporal Curtain, use Illusionary Leap and then Swap to apply Immobilize to the pulled targets, making them easy for your group to spike.
+
+### **Portal Bombing (High-Risk)**
+
+This strategy is highly situational and not recommended for beginners. It involves using stealth and a portal to teleport your entire group onto the enemy.
+
+1. Equip Blink, Portal Entre, and Veil.  
+2. Equip a torch for The Prestige.  
+3. Cast Portal Entre at your group's feet.  
+4. Run towards the enemy.  
+5. Use The Prestige while casting Mass Invisibility.  
+6. Use Blink to close the distance.  
+7. Once in position, open Portal Exeunt.  
+8. Cast Veil in the center of the portal.

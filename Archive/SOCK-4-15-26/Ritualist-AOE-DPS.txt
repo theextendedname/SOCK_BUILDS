@@ -1,0 +1,17 @@
+Ritualist AOE DPS
+- <:Ritualist:1432799639979036833> Ritualist AOE DPS
+  
+- [The Build](<https://gw2skills.net/editor/?PSwAcyFlFwiZHME2MO8XnzfA-D2QYhwBujO0Xh0UIVXBURGY7ZhAIOG7hppKzAAA-w>)
+
+**Your Role:** Ranged AOE DPS, Pull, and Boon Strip
+- [Video of Rotation](https://www.youtube.com/watch?v=uiAr0NSYekQ)
+
+- *Power Ritualist* is a utility DPS that sets up its group with boon corruption
+   - Your highest priority is using your Well of Corruption and Well of Suffering together with other necros in squad on the commanders call to create an opportunity for your group to generate kills
+   - Use Nightfall like wells - at the same time as other necros on the commanders call
+   - If your commander doesn't call Nightfall, use it to punish the enemy group pushing into yours
+   - Use Splinter Weapon with your groups spikes to add burst
+   - Use Ritualist's Shroud -> Wanderlust to add extra damage on top of your other spikes
+   - Wait in Ritualist's Shroud for Wanderlust to finishing pulsing to recast it with Soul Twisting, filling time with your other Spirit skills and Auto attacks
+   - Save Grasping Darkness to Pull Pull enemies into your groups spikes or catch enemies when they try to kite your group
+   - Focus on using Axe/Warhorn until you need Nightfall or Grasping Darkness on Greatsword

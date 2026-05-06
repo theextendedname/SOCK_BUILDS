@@ -1,0 +1,12 @@
+Scrapper Heals
+
+<:engineer_scrapper:1162443834140143626>Scrapper Heals
+
+- [The Build](<https://gw2skills.net/editor/?PeQAUlN0we6Ze5NncWane0SntMA-DWJYjRRfZkaiUdR471hQEgNzbp/NLA-w>)
+- [Video @sheffplaysgames](<https://www.youtube.com/watch?v=pLnictOT5qU>)
+
+- More info
+  - This build is using relic of karakosa. Please be aware of all your blast finishers. Shortbow 2 + 5. Elixir gun 4. Medkit 5. We have 3 sources of barrier in the build too. Shortbow 2, bulwark gyro, and 2 charges of function gyro.
+  - If you wish to run a stacking sigil, use sigil of life as raw healing power scales with barrier and outgoing healing effectiveness does not
+  - Water runes from the Mech build are fine to keep.
+  - Energy instead of Renewal sigil for survival are okay

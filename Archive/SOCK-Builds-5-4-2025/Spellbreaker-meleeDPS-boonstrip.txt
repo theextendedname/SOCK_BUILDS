@@ -1,0 +1,18 @@
+Spellbreaker DPS Boon Strip
+
+<:warrior_spellbreaker:1162460415914156116> Spellbreaker DPS Boon Strip
+- Credit: @extended 
+- [The Build](<https://gw2skills.net/editor/?PKwAIxflNwkYTMRGJO+WavKA-DWRYBR9TM4TpJRRdChulA5sAMxZhAIweg0bR/XLA-w>)
+
+  - Your main role on this build is Damage and Boon strip
+  - Use Battle Standard (Elite) when called for by the commander to stomp downs.
+  - Use Battle Standard (Elite) when you see 3 or more downs and stomp them.
+  - Use Battle Standard (Elite) when you see 3 or more friendly downs and rez them.
+  - If your tag calls for "Banner the downs" that means you.  
+  - You have boon strips on your Full Counter(F2), Break Enchantments(Util Skill), and when you interrupt a foe with your hammer(Absorption Sigil).
+  - Full Counter(F2) is AWSOME. It boon strips, dazes, interrupts, recharges endurance, recharges adrenaline, blocks all incoming damage, gives you stability , and is unblockable.
+  - Savage Leap sword(2) is a great movement ability. Use it to keep up with tag or catch a speedy yack. 
+  - Focus on using hammer burst Earthshaker(F1),  recharging your adrenaline Full Counter(F2), removing boons with Break Enchantments(Util Skill), and cleave the downs with Axe(4,5)
+ 
+- *Zerg Combo* 
+  - Hammer 3 -> Signet of Might(Util Skill) -> F1 -> F2 -> F1 -> break enchantments(Util Skill) -> F1 -> Hammer 2 -> Hammer 3 -> Swap -> Axe 4 -> Axe 5

@@ -1,0 +1,75 @@
+Spector Healer Support
+- <:thief_specter:1162444003174789150> Spector Healer Support
+- Credit:
+- [The Build](https://gw2skills.net/editor/?POwEkEmpsCGCbhlwKxyVyrVWyeuC-DWJYjRnfhEUCmaIUdF571hQEg98bp9NLA-w)
+
+# HEALER SPECTER GUIDE
+
+The Specter is a simple and strong healer that relies mostly on **Dark Aura** and **Relic of Karakosa** by blasting Wells to heal and condi cleanse allies. It also provides an insane amount of barrier.
+
+---
+
+## KEY CONCEPTS
+
+* **Siphon (F1):** Siphon an ally (ideally a DPS or commander) before a fight to make them your **Shrouded Ally**. They are tethered to you in shroud and benefit from skills up to 1200 range.
+* **Barrier:** Covers up to 25% of max HP in WvW. This allows the squad to absorb damage before their actual HP is affected.
+* **Rot Wallow Venom:** Giving barrier grants this venom to allies. Their hits will then inflict Torment based on *your* stats.
+* **Dark Combo Fields:** Wells produce these. Blasting Wells activates **Relic of Karakosa** and grants **Dark Aura**, utilizing Shadow Arts traits.
+* **Boons:** Provides Protection, Stability, Vigor, Resistance, Might, and Fury.
+* **Stun Break:** Blinding Powder is your primary stun break. Use it wisely.
+
+---
+
+## KEYBINDING RECOMMENDATIONS
+
+* **Set/Take Personal Target:** Use this to quickly lock onto your Shrouded Ally for Siphon (F1) or Scepter skills.
+* **Toggle Ally Targeting Mode:** Enables clicking on allies only.
+* **Nearest Ally:** Quickly target the closest friendly player.
+
+---
+
+## COMBAT STRATEGY
+
+### Pre-Engage
+
+When stacked, use **Shadow Sap (Scepter 2)** to blast for Might. Target your Shrouded Ally and use **Endless Night (Scepter 3)** to apply barrier before the clash.
+
+### Engage
+
+Cycle cooldowns and adapt. Start with this rotation:
+
+1. Well of Bounty
+2. Shadow Sap x2
+3. Siphon (F1)
+4. Shadow Sap x2
+5. Well of Silence
+6. Shadow Sap
+7. Enter Shadow Shroud (F2)
+8. Skills 2 > 3 > 4 > 5 (or 5 > 2 > 3 > 4)
+9. Exit Shadow Shroud (F2)
+10. Well of Gloom
+11. Shadow Sap x2
+12. Siphon (F1)
+13. Shadow Sap x2
+
+### Well Utility
+
+* **Well of Gloom:** Healing.
+* **Well of Bounty:** Stability and various boons.
+* **Well of Silence:** Condi cleanse.
+* **Shadowfall:** CC/Pull. Use when the commander calls for a "bomb."
+
+### Shadow Refuge
+
+Provides burst healing and condi cleanse. Drop the AoE on allies and blast it using **Shadow Sap (Scepter 2)**.
+
+---
+
+### ADDITIONAL NOTES
+
+* **Initiative Management:** Spend Initiative before entering Shroud; Shroud skills generate Initiative, and you want to avoid capping.
+* **Survival:** Shroud acts as a second health bar.
+* **Weapon Swap:** Swapping in combat grants 3 Initiative.
+* **Flex Slot:** Shadow Refuge can replace Blinding Powder for more healing/cleanse if a stun break isn't required.
+* **Positioning:** Spread out Dark Combo Fields to maximize Dark Aura blasts.
+

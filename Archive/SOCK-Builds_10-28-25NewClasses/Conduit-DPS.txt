@@ -1,0 +1,20 @@
+Conduit DPS
+<:Conduit:1432827516170666155> Conduit DPS
+[Build](https://gw2skills.net/editor/?PmgEQLUGTMxy8yrWWXd5y4irXGZkBzIioVm8XazLA-DWZYBRFH5WQYiBNUKNlE1VAdGBVEC2eWIABsHeL6fGBA-w) 
+Make sure your gear hits 60% crit pre buffs
+18 power infusions
+Peppercorn-Crusted Sous-Vide Steak
+Superior Sharpening Stone
+
+- [Old Rotation Video Please bug bloop to make a new one](https://www.youtube.com/watch?v=U4Nm4jpWM8U)
+- *The rotation*
+   - Start on Spear + Razah: f3 -> elite skill -> spear 5 -> f2 -> spear 5 -> spear 4 -> spear 5 -> elite skill -> f2 -> swap legends -> swap weapon
+   - GS + Shiro -> f3 -> elite skill -> f2 -> gs2 -> gs5 -> gs3(if you are able to since it yeets you to your target) -> elite skill -> f2 -> gs2 -> swap legends -> swap weapon
+- *The rotation Opener(if going melee)*
+   - Start on Spear + Razah: Spear 5 -> elite -> f3 -> f2 -> swap weapon - > swap legend 
+   - GS + Shiro -> elite skill -> f2 -> gs2 -> gs5 -> gs3(if you are able to since it yeets you to your target) -> elite skill -> f2 -> gs2 -> swap legends -> swap weapon
+
+Notes:
+ - try to pair usage of f3 with your elite skill, i.e. if f3 is up, wait for the elite skill to be ready before using it and continuing on with the rotation
+ - dont be tooo worried about f2 being casted the second time, if you mess up your rotation and f2 isnt off CD when your legend swap is ready, just do the swap and continue on with the rotation
+ - the order of swap matters, always swap legend first then swap weapons, this will ensure sigil of hydromancy is triggered on every swap even though we only have it on GS

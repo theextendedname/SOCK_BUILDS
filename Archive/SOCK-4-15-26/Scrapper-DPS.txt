@@ -1,0 +1,61 @@
+Scrapper DPS
+<:engineer_scrapper:1162443834140143626>Scrapper DPS
+- Credit: @Milk, @Extended
+
+- [Build](<https://gw2skills.net/editor/?PegEQjWGBDi1x8Yp4Yv816B-D2QYhoiLYHkfh0UCEREURJY7ZhCEye4to/MAA-w>)
+Bulid Options:
+- Swap your weapon type between Spear and Hammer(more CC) depending on the squads need for CC
+
+## ⚙️ Power Scrapper DPS Guide
+Power Scrapper is a simple and strong damage-dealer that relies mostly on its kits to output massive damage in WvW. This build excels at mid-range sustained damage and can also deliver significant burst damage on command.
+
+### 📝 Key Concepts
+* **Kits are your core.** Your sustained damage comes from **Flamethrower** and **Elixir Gun**. You'll be constantly swapping between them to when your burst skills on cooldown.
+* **Stacks are key.** Always start on your **Superior Sigil of Cruelty** weapon set to build 25 stacks of ferocity. Once you have them, swap to your other weapon set.
+* **Mobility is defense.** Use **Superspeed** from Gyroscopic Acceleration to quickly avoid enemy attacks and AoEs. Remember that dodging not only saves your life, but also triggers the trait Explosive Entrance, giving you an upfront damage boost.
+* **Stun Breaks.** You have two stun breaks on your Toolbelt: **Healing Mist (F4)** and **Smoke Vent (F3)**. Use them wisely.
+
+---
+### ⚔️ Combat Strategy
+#### **Engage**
+Start with your **Elite Mortar Kit** to deal early damage from its 1500 range. Push all the buttons! Except for **Elixir Shell** (Skill 5)! **Poison Gas Shell** (Skill 2) is good  to prevent enemies from getting back up. Make sure to avoid aiming at projectile reflects. 
+
+#### **Main Burst Rotation**
+Your main goal is to cycle through your cooldowns, especially **Napalm** and **Shredder Gyro**, to overlap your damage-over-time effects. Your burst combo should be used in conjunction with a `Well of Corruption Spike` call.
+
+1.  **Reconstruction Field** (F1) (superspeed buffs damage 5%)
+2.  **Shredder Gyro** (Utility)
+3.  **Napalm** (Flamethrower 5)
+4.  **Flame Blast** (Flamethrower 2)
+5.  **Swap to Elixir Gun** 
+6.  **Acid Bomb** (Elixir Gun 4)
+7.  **Animation cancel** (Weapon Swap)
+8.  **Explosive Entrance** (Dodgeroll)
+9.  **Rolling Skies** (Spear 4)
+10.  **Devastator** (Spear 5)
+11.  **Spare Capacitor** (F2)
+12.  **Function Gyro** (F5) (Save this Gyro if no downs are created)
+
+#### **Sustained Damage & Cooldown Rotation**
+Once your main cooldowns are spent, you need to efficiently rotate between your kits to maintain sustained damage while you wait for your main skills to come back up.
+
+* Use **Acid Bomb** (Elixir Gun 4) whenever it's off cooldown.
+    * *Special Note:* You can animation cancel the recoil of Acid Bomb by using your weapon swap immediately after the initial hit. This takes practice to master.
+* Use the combo **Stoke the Flames** (Flamethrower 4) + **Flame Jet** (Flamethrower 1) to cover downtime between skills.
+
+#### **Single Target Burst**
+For a massive single-target burst, you can use your Spear skills.
+
+* The combo of **Lightning Rod(Spear 3)** and **Electric Artillery(Spear 3)** can set up your **Devastator** to hit for 14k - 19k damage.
+* For this to work, you must land your **Devastator** on the same target as your other two skills, which can be difficult in a large zerg.
+
+---
+### 🛠️ Key Skills & Usage
+* **Flamethrower:** Your sustained damage source. Use **Stoke the Flames** + auto-attacks for filler damage.
+* **Elixir Gun:** Primarily used for **Acid Bomb**  (Elixir Gun 4) at melee range to create damaging AoEs.
+* **Function Gyro:** A unique toolbelt skill that can stomp  downed enemies or revive downed allies
+* **Explosive Entrance:** A powerful trait triggered by dodging that deals damage and provides a damage buff. Use your dodges not just to survive, but to maximize your damage output.
+* **Gyroscopic Acceleration:** Anoter powerful trait providing SuperSpeed. Triggered by casting any Gyro or F1 skill
+* **A.E.D.** is a viable healing option when going against aggressive groups with heavy burst damage or when commander makes risky moves.
+* **Object in Motion:** We get 5% damage boost for having Stability, Swiftness, or Superspeed. This boost compounds to 15% for all 3.
+* **High Caliber:** This Trait gives us 15% crit chance on enemies within 450 distance. Our gear should give us unbuffed 55% crit chance and when buffed we should reach 85%. This trait will boost us to 100% crit in melee.

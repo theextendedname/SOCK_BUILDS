@@ -1,0 +1,44 @@
+SOCK FireBrand Support
+
+
+Build [Link](http://en.gw2skills.net/editor/?PWwAYd7lRExwCbWZNu+mZmmyX7vNA-DWJYjR9/ZkpKIdpgH/FEiAsHeLtfpBA-w>) 
+-(this build use less expensive runes and sigles while having better armor, vitality and concentration)
+http://gw2skills.net/editor/?PWwAYd7lRwwYWMOmJmyX7vNA-DWJYjR9/ZkpKIdpgH/FEiAsHeLtfpBA-w
+
+Chat Link
+[&DQExOS47PhtLFwAANgEAADIBAABLAQAAGBYAAAAAAAAAAAAAAAAAAAAAAAA=]
+
+Videos
+metallone GW2 - https://www.youtube.com/watch?v=H4U3-eVvbAs
+Cyberian [SOCK] - https://www.youtube.com/watch?v=aCdiB0Njfik&list=PLSXjIjuXULMFJUjVVGWglgbPBJLOWFJZ9&index=4
+
+
+Support Firebrand is the essential WvW support, giving out plenty of stability, aegis, healing, boons, and even a decent amount of cleansing and utility.
+
+Stability is the most important aspect of this build, and keeping a good uptime of it on your squad requires a rotation between multiple skills. Mostly you want to apply stability right before engaging with enemies, to keep your team from being controlled and to let them use their skills.
+
+    “Stand Your Ground!”
+    F3 Tome (check internal CD)
+    Skill 5 in F3 Tome
+    Mantra of Liberation
+    Hallowed Ground
+
+Hallowed Ground provides the most stability, but it only pulses it in the vicinity of the spell animation. Use this when your squad needs to hold a position, or place it ahead of where your group will be passing through, otherwise the duration will fall off as your team moves out of it.
+
+While you are moving, use “Stand Your Ground!” because it is a decently low cooldown and has a longer duration for being an instant cast skill.
+
+Mantra of Liberation is low stacks of Stability but provides a quick stun break to allies. Prefer to save and use this to fill in the gaps of stability of your more powerful sources, or for a quick stun break for allies who are already stunned. Giving stability to an ally who is already stunned does not prevent them from being stunned.
+
+Entering the F3 tome will trigger a Stun Break and Stability from the Indomitable Courage trait for your party, but it’s a bit hard to control and very long cooldown, and since you need to trigger this to use your F3 tome’s abilities, you will need to use this early on anyway.
+
+Unbroken Lines (F3 Tome 5) is a casted single stack of stability and Aegis, but can be a nice filler in between situations where you aren’t sure if you need to waste a full stability cooldown or not.
+
+Otherwise rotate through your weapon and tome skills to provide what your party needs:
+
+Healing: Dodge, F2 Tome 4, Staff 2/4
+
+Aegis: Shield 4, Mantra of Solace, F3 Tome 5
+
+Cleanse: Staff 3+2, F2 Tome 2/5, F3 Tome 4 (resistance)
+
+Credit to guildjen.com for skill guide.

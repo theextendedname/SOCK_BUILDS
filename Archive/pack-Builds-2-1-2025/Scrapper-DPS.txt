@@ -1,0 +1,20 @@
+Scrapper DPS
+<:engineer_scrapper:1162443834140143626>Scrapper DPS
+- Credit: @ward
+- [The Build](<http://en.gw2skills.net/editor/?PegAIJlRwgYdMLWKO+LfteA-DWJYiRFfh0UC0bEURJY7XgCEye4to/MAA-w>)
+Old PACK build - http://en.gw2skills.net/editor/?PegAIJlRwgYdMLWKO+LfteA-DWJYiRFfh0UC0bEURJY7XgCEye4to/MAA-w
+Spear - https://gw2skills.net/editor/?PegEQjWGBDi1x8Yp4Yv816B-DWJYiRFfh0bEEcCURJY7ZhCEye4to/MAA-w
+spear2 - https://gw2skills.net/editor/?PegEQjWGBDi1x8Yp4Yv826B-DWJYiRFfhEWEEcCURJY7ZhCEye4to/MAA-w
+spear3 - https://gw2skills.net/editor/?PegEQjWWADi1x8Yp4Yv826B-DWRYiRFXwcQ+FSdRQwJQFlgtnFKQI7h3i+zAAA-w
+Rifle - https://gw2skills.net/editor/?PegAQRlNwgYdMPWKO2LfteA-DWJYiRFfh0bEEcCURJY7ZhCEye4to/MAA-w
+snowcrows buld - https://snowcrows.com/builds/wvw/engineer/power-scrapper
+
+**Warning** There are only 2 spots in the comp for this build
+- More info
+ - If you aren't having issues with stability, Elixir U can be replaced with Elixir Gun for extra damage. 
+ - Note that the toolbelt skill for Elixir  Gun is a stunbreak so make sure to take advantage of it.
+ - Use Mortar Kit 1 to pressure enemies at a distance. Make sure not to fire into reflects so that you don't damage your teammates.
+ - When moving into melee combat, swap to Hammer and cast Hammer 5 on the enemies before switching to flamethrower.
+ - If using Elixir Gun, swap to it when at point-blank range and cast Acid Bomb. Hit your weapon swap key after the cast and while in the air to cancel your backwards momentum. Use this skill on cooldown as long as enemies are close enough, but avoid using it on narrow ledges where you could launch yourself off or when on the move as it forces you to stop.
+ - Once you are close enough to hit enemies with Flamethrower, stay in Flamethrower and cast the first skill the entire time (unless casting Acid Bomb). Try to aim your Flamethrower so that you are hitting as many enemies as possible with each pulse. Prioritize hitting enemies who are currently being damaged by your Hammer 5 and/or Acid Bomb.
+ - While using Flamethrower, cast Shredder Gyro on cooldown as long as enemies are in range of it. Whenever you run out of quickness, reapply it by using Function Gyro or Medic Gyro.

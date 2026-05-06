@@ -1,0 +1,58 @@
+Druid Healer Support
+<:ranger_druid:1162443942705516564> Druid Healer Support
+- Credit: @Bryan
+- [The Build](http://gw2skills.net/editor/?POwEkEmpsCGCbhxwIxyVyrlWy9uC-DWJYjR3fZ0bqWdV571hQEg/W6fzCA-w)
+- [Video Guide](https://youtu.be/r7cdCA68-Gs)
+- More Info
+
+Druids are superb healers and cleansers as well as a source of essential boons like Fury and Protection. They are capable of huge burst heals and cleansing, but they are medium/high difficulty to play, with several ground target skills and combos needed to truly max out their potential.
+
+**Gear flexibility**
+
+Exotic gear is fine for WvW and can be purchased with WvW currency. In addition, I and others are happy to help craft and finance gear. Whisper me if you need.
+
+1. Water Runes instead of Monk - cheaper and can be crafted
+
+2. Transference Sigil is required, but second sigil is your choice. I recommend Cleansing or Energy.
+
+3. Pink Moa if you don't have Turtle (Smokescale is also good to have for smoke field)
+
+**Targeting**
+
+1. Turn off autotargeting.
+
+2 Create keybinds to Select Personal Target and Call Personal Target. Mark an ally in your party with that.
+
+3. Use Staff 2 on that friendly target.
+
+**Celestial Avatar Mechanics**
+
+Celestial Avatar is the Druid elite mechanic. It is indicated by the light-blue sphere above your endurance and health bars. Entering CA changes your weapon skills into very strong healing and cleansing skills you should aim at allies. Exiting CA will put the skill on a 10-second cooldown, which is reduced by a trait and alacrity.
+
+Celestial Avatar runs on Astral Force, the light-blue bar above your endurance indicator. You gain astral force quickly in combat by damaging enemies and healing allies. It also will refill out of combat, albeit slowly.
+
+Only when Astral Force is full can you enter CA. Upon entering CA, the blue astral force bar begins counting down 15 seconds before exiting you from CA. You can use your skills are often as you can while CA counts down, including spamming Skill 1, a ground-target, medium heal.
+
+It's okay to leave CA early if needed, but you will lose half the remaining AF.
+
+**Weapon Skill Priorities**
+
+NOTE: The Quick Draw trait procs on the first weapon skill used after swap in combat. That's a 66% reduction in cooldown. Staff 3 can often be reused almost immediately if you also heal an ally, even your pet, with it.
+
+1. Celestial Avatar - Go into CA a few seconds into combat (entering CA is an area condi cleanse) and strive to stay in CA as long as you can. Target all skills on your party, using skill 3 first after entering CA (letting it channel completely before using other skills), then skills 4 + 2, then 1-4 as often as you can after that without interrupting cast times. Avoid Skill 5.
+
+2. Use Staff 3 first after switching, at our feet, preferably into a water or light field. Then use  4 on the enemy, 5 just ahead of our movement (reuse Staff 3 to blast it if you can), and 2 on friendly target.
+
+3. Use Warhorn 5 *before combat* to give boons, then switch to staff to enter combat. In combat, use Warhorn 5 (or Mace 3 if safe) first after switching, then Mace 2, 3 (watch that leap range), Warhorn 4 if time.
+
+**Utility Priorities**
+
+1. Use Utility Glyphs only in CA. They heal and cleanse only then. However, Glyph of Equality is a group stunbreak in either state. Use it if necessary.
+
+2. Use Heal skill outside of CA to help cleanse and heal. Blast its water field if possible.
+
+3. Frost Spirit is a strong double cleanse (each "slam" cleanses)and boon producer. Use it on engage in front of our group so we walk in it. Then on CD outside CA.
+
+4. Nature Spirit is a strong double-rez (again, from each "slam") with a long CD. Use it when we're taking downs or we're desperate to clear condis.
+
+5. In some situations, we may substitute Stone Spirit for Frost and Glyph of the Stars for Nature Spirit. Use Stone Spirit like Frost for Aegis and Protection. Use Glyph of the Stars (outside CA) on engage for pulsing Stability, cleanses, and a water field to blast. Switch only if called for.

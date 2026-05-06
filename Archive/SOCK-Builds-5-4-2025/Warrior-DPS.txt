@@ -1,0 +1,47 @@
+Warrior DPS
+
+<:warrior:1162460411124273223> Warrior DPS
+- Credit: @[SOCK] bloop
+- [The Build](https://gw2skills.net/editor/?PK0Ew8EtshGmYWbqkR13Ir0xXRbpB-DWRYBR3n5cQZlSTFSdhQnJQFRhtnFCQA7n3i+nRAA-w)
+
+Your main role on this build is Damage and down creation
+
+### **Surviving the Fight**
+
+* **`Savage Leap`(2):** This sword skill is incredibly versatile! Use it for quick **repositioning** on the battlefield or to **close gaps** with enemies. If using it defensively, be sure to **drop your current target** to ensure you move freely.
+
+---
+
+### **Active Defense Priority**
+
+Knowing when to use your defensive skills is crucial. Here's a general priority list:
+
+1.  **`Balanced Stance`:** Your go-to for **stun breaking**.
+2.  **Warrior's Sprint:** A passive break free from **immobilize**. (activated by movement skills)
+    * **`Savage Leap`(2):** Can be used defensively to create space. (activates Warrior's Sprint)
+3.   **Dodge:** Don't forget your basic dodge!
+4.  **`Defiant Stance`:** Another strong defensive option.
+5.  **`Balanced Stance`:** Use for general defensive situations when other priorities aren't present. 
+
+---
+
+### **Detailed Explanations: Maximizing Damage**
+
+#### **Spike Damage (Burst)**
+
+* **Ranged Spikes:** For maximum impact, use `Spearmarshal's Support`(4) -> `Maiming Spear`(2) -> `Harrier's Toss`(F1) so all 3 skills hit at nearly same time. The 1-second anamation time of `Spearmarshal's Support`(4) will allow you to combine damage.
+* **Range Burst Combo:**  `Signet of Might` -> `Disrupting Throw`(3) -> `Signet of Fury` -> `Spearmarshal's Support`(4) -> `Maiming Spear`(2) -> `Harrier's Toss`(F1)
+* **Adrenaline for `Harrier's Toss`:** Use `Signet of Fury` to ensure you have full Adrenaline for a stronger `Harrier's Toss`.
+* **Melee Burst:** `Dual Strike`(4) -> `Whirling Axe`(5) ->  `Final Thrust`(3)(if weapon swap is on CD else skip it) -> `weapon swap` -> `Maiming Spear`(2) -> `Harrier's Toss`(F1) -> (if spear 4 is up) `Spearmarshal's Support`(4)
+
+
+#### **Sustained Damage**
+* **`Flurry`(F1)** situational, Use when everything eles is on cooldown. It is good CC and ok damage. 
+* **`Savage Leap`(2) (Single Target):** Don't just think of `Savage Leap`(2) for movement! Use it for **single-target damage** even when you're already in melee range.
+* **`Disrupting Throw` & `Signet of Might`:** Use `Signet of Might` to make `Disrupting Throw` **unblockable**. Only cast `Disrupting Throw` when `Signet of Might` is active.
+* **Use `Mighty Throw`(1) to buld Adrenaline. `Harrier's Toss`(F1) has a short 6 second coold down. You can toss this a will. But save `Signet of Fury` for your burst combo.
+
+
+#### **Some tips:**
+**`Balanced Stance`:** Use when casting warbanner or if you are going in for an melee burst and you have no stabs in your party,
+**`Defiant Stance`:** can be used if you are going into a really hot melee zone to deal melee dps but normally it should be saved for when it gets hot... rmb that defiant stance has a cast time so dodge first then cast defiant stance before continuing your rotation.

@@ -1,0 +1,38 @@
+<:ranger_soulbeast:1162443944840413334> Soulbeast DPS
+
+- [The Build](http://en.gw2skills.net/editor/?POwAIlnlRwOYbsHmJW0X2P1ammAB-DWRYBBLG1vSppiquEtzIoiQw2zCBIg/W0/MCA-w)
+  - Make sure to swap your hammer skills by right clicking on them while out of combat. Use Weapon skills: 
+    Hammer skill 2: Unleashed Wild Swing
+    Hammer skill 3: Unleashed Overbearing Smash
+    Hammer skill 4: Savage Shock Wave
+    Hammer skill 5: Unleashed Thump
+- [Video GamePlay-1](<https://www.youtube.com/watch?v=1kqaaRgKz8w>)
+- [Video GamePlay-2](<https://www.youtube.com/watch?v=0B-NBpquyK8>)
+
+- Range spike (use this while pushing towards the enemy zerg, there is no animation lock so its safe to cast while running)
+    - Storm spirit -> pet f2 skill -> pet f1 skill
+- Opener rotation:
+    - Cast range spike -> One wolf pack(elite skill) -> Hammer 5 leaps into the sides of the zerg -> weapon swap -> mace 2 -> mace 5 -> mace 4 -> mace 3/mace 2 -> (if Nature Force activates) mace 2 and mace 5 again else wait to use mace 2/4 to activate Nature force and then use mace 2 and 5.
+- Core dps mechanics: 
+    - Mace:
+        - Your goal in mace/mace is to achieve 5 stacks of Nature Strength to reset your mace skills and get the Force of Nature buff to deal more dps. Prioritize Mace 5 and Mace 2.
+        - Mace 3 is a leap so use at your own risk.
+    - Hammer:
+        - Use Hammer 4 -> Hammer 2 -> Hammer 3 for your burst. Hammer 3 has a follow up strike after the initial cast if you hit the enemy so be careful not to cancel it.
+    - Pet:
+        -  Cast f3 whenever you are in melee range to gain quickness and dps.
+        - f2 and f1 skills should be cast together off cooldown on the enemy group.
+    - Stances:
+        - One Wolf Pack:
+            - Gives an additional strike per 0.5s, always try to cast it during a spike.
+        - Dolyak Stance:
+            - Breaks stun for yourself and provides 33% dmg reduction, stabs and prevent movement condition application on allies. Use for sustaining/spiking.
+        - Bear Stance:
+            - Heal skill + pulsing condi cleanse on your allies.
+          
+			  
+			  
+alternative 
+Take a look at this Game Play and build
+[Video](<https://www.youtube.com/watch?v=8r2Md6JcL8Q>)
+[Build](<http://en.gw2skills.net/editor/?POwAIlnlRweYbsDmJW0X2P1aE40A-DWhYBRBiYLIQxIGtNH2h0kEoClQLjAbdLgF9PjAA-w>)

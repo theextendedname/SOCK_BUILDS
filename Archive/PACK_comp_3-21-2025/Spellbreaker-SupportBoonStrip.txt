@@ -1,0 +1,65 @@
+Spellbreaker Support Boon Strip
+<:warrior_spellbreaker:1162460415914156116> Spellbreaker Support Boon Strip
+- Credit: @extended 
+- [The Build](<http://gw2skills.net/editor/?PKwEYiNssA2HTihxOx03y8ZB-DWJYjRN/ZkuKInpgu+FECBsHY6t8/lGA-w>)
+- [Video](<https://youtu.be/taY6LMxdFA0?t=610>) Pls don't be dumb. This is **NOT** the same build but is a good overview of the play style.
+- More Info
+**Your Role:** Boon Support, Pull, Boon Strip, and Heal
+
+**Key Abilities and Their Uses:**
+
+* **Winds of Disenchantment (Elite - AKA: "Da Bubble"):**
+  * Use when the commander calls for "Wells" or "Big Damage."
+  * Strips enemy boons and blocks ranged attacks during pushes.
+* **Full Counter (F2):**
+  * A powerful ability with multiple uses:
+    * Boon strip
+    * Daze
+    * Interrupt
+    * Endurance and adrenaline recharge
+    * Blocks all damage
+    * Grants stability
+    * Unblockable
+* **Staff Snap Pull (Staff 4):**
+    * Use to pull enemies into your zerg.
+* **Movement Skills:**
+    * Staff Valiant Leap (Staff 2), Line Breaker (Staff 3), and Sword Savage Leap (Sword 2) for quick movement.
+* **To the Limit (Heal Skill):**
+  * Grants endurance, heals, and cleanses.
+  * Use as part of combos and after dodges to avoid enemy pushes. See "Team Dodge Combo."
+* **Shake it Off (Utility Skill):**
+  * AOE break free and cleanse.
+  * Essential for breaking teammates free during pushes. See "Team Dodge Combo."
+* **Boon Strips:**
+  * Full Counter(F2)
+  * Break Enchantments(Utility Skill)
+  * Staff(4)
+
+**General Tips:**
+
+* Focus on executing combos correctly.
+* Stay on the tag (don't stray from the group).
+* Always cast Warhorn(4) before Warhorn(5).
+* Warhorn skills have a 20 second cooldown, keep them on cooldown.
+
+
+**Combos:**
+
+* **Team Buff Combo (Might Stacking):**
+    * Warhorn (4) > Warhorn (5) > Staff (2)
+    * Cast every 20 seconds or when called for.
+    * This is a very important combo, keep it on cooldown.
+	
+* **Staff Zerg Combo (Melee combat):**
+    * Team Buff Combo > Staff (3) > Staff (4) > Staff (F1) > Full Counter (F2) > Staff (F1) > Break Enchantments(Utility) > To the Limit(Heal) > Team Buff Combo
+    * Remember to weapon swap for warhorn skills on cooldown. Even if you have to cut the full combo short.
+	* Don't skip Staff(3) as it gives 8 Seconds of Protection and needs to be cast just before engagement
+	
+* **Team Dodge Combo (Survival):**
+    * Team Buff Combo > Dodge > Shake it Off > Dodge > To the Limit
+    * Use dodge evade frames to cast Shake it Off and prevent being CC'd.
+    * Use To the Limit to recover dodges.
+	
+* **Da Bubble Combo (Big Push):**
+    * Team Buff Combo > Banner of Tactics(Utility) > Winds of Disenchantment(Elite) > Staff Zerg Combo
+    * Winds of Disenchantment has a 1.5-second cast time, so be aware of interrupts.

@@ -1,0 +1,28 @@
+Specter Support
+<:thief_specter:1162444003174789150> Scourge Support
+- Credit: @autumn
+- [The Build](<http://gw2skills.net/editor/?PagAsqlhySZrMRWLeKXXxfA-DWJYjRDfZEUCkZBo7vgQEmNwbx/fNA-w>)
+- [Video @Bryan](<https://youtu.be/DNfdwrWEgus>)
+- More info
+  - put Scepter in weapon set 1 and pistol in weapon set 2 (weapon swap without needing duplicates)
+  - keep commander targeted (or highest dps in your party)
+  - rotate between spending and generating Shadow Force
+- Spending
+  - Shadow Shroud rotation (ensure you are targeting correct ally): F2 -> 5 as you enter melee -> 3 on enemies -> 2 on enemies -> 4 in melee -> F2
+  - don't stay in shroud, on exit you consume all Shadow Force to heal allies
+- Generating
+  - goal is to generate max Shadow Force before next engage -> shadowstep and spending initiative generates (only while in combat)
+  - best way is spam Sc3: shadowsteps and spends initiative
+  - I recommend spamming Sc3 as you enter fight to max out barrier and quickness, then do Shadow Shroud combo, then return to Sc3 once initiative is full again
+- Utilities
+  - F1 gives small amount of barrier but does not proc Steal traits when targeting ally, best used on enemy to rip boons and give to party
+  - all Wells are shadowsteps, care for terrain esp. on stairs
+  - aim wells of Gloom, Bounty, and Silence on allies, anticipate group movement
+  - aim Shadowfall (elite) on enemies, DONT PASS TAG
+  - Blinding Powder gives invis to party, heals party, personal superspeed, personal stability (1 stack), 3 initiative; can also use Pistol 5 first to extend stealth as BP is blast finisher
+  - when downed, spam 2 ability to shadowstep to allies
+- notes: 
+  - Well of Silence and Shadow Shroud 2 should be cleanses, but you're right that there isn't anywhere near as much as scrapper
+  - For the wells, I tend to use them once the group has settled on the spot we want to dps since they all get value the longer we're in them. It works well when the commander plays around DH traps, but we'll see if things change in the future (edited)
+  - You should target a player in your party for barrier. Target will get most barrier, while others will get a reduced amount. Targeting commander is not efficient in giving max barrier if you're not in their party.
+  - Scepter 3's second skill is a channel and it needs to be allowed to fully channel for max barrier. Be aware of overriding the channel while in combat. Yes, I have to fight this urge, too.

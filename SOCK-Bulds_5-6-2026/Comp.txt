@@ -1,0 +1,28 @@
+### **Suggested 2-Build Limit Comp**
+* **Commander**
+* **Boon Support** | Troub, Harb
+* **Healer** | Druid, Scrapper 
+* **Boon Strip DPS** | Reaper, Spellbreaker 
+* **Main Stabs** | Firebrand, Lumi
+* **DPS** | Amalgam, Core Guardian
+
+
+
+30 Player SOCK Comp
+* <:catmander_purple:1162441936049799168> Commander (1)
+* <:pepeCross:900140370820735076> Boon Support (6) Troub, Harb
+* <:role_heal:1066927219450073108> Healer (6) Druid, Scrapper
+* <a:strips:1357552177580867755> Boon Strip DPS (5) Reaper, Spellbreaker
+* <a:stabbybear:1281679030915039232> Main Stabs (6) Firebrand, Lumi
+* <:role_dps:1066928563191828560> DPS (6) Amalgam,  Core Guardian
+
+
+
+Example parties 30  SOCK Comp
+**Group 1 **: The lobby
+**Group 2 **: <:catmander_purple:1162441936049799168>, <:role_heal:1066927219450073108>, <:pepeCross:900140370820735076>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 3 **: <a:strips:1357552177580867755>, <:role_heal:1066927219450073108>, <:pepeCross:900140370820735076>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 4 **: <a:strips:1357552177580867755>, <:role_heal:1066927219450073108>, <:pepeCross:900140370820735076>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 5 **: <a:strips:1357552177580867755>, <:role_heal:1066927219450073108>, <:pepeCross:900140370820735076>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 6 **: <a:strips:1357552177580867755>, <:role_heal:1066927219450073108>, <:pepeCross:900140370820735076>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>
+**Group 7 **: <a:strips:1357552177580867755>, <:role_heal:1066927219450073108>, <:pepeCross:900140370820735076>, <:role_dps:1066928563191828560>, <a:stabbybear:1281679030915039232>

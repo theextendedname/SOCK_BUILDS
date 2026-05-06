@@ -1,0 +1,21 @@
+Chronomancer Support
+ <:mesmer_chronomancer:1162443888515100712>Chronomancer Support
+- Credit: @Autumn
+- [The Build](<http://en.gw2skills.net/editor/?PigAQZlZwsYZMFWJe0TqtOA-DWJYjRFfZUdKkeFo7vgQEm9wbx/fNA-w>)
+- [Video 1 @Autumn](<https://youtu.be/ACO6Ik7OEIM>)
+- [Video 2 @Autumn](<https://www.youtube.com/watch?v=8Qt4zKyyAdc>)
+- More info
+ - Primary goal: Provide boons and healing to party.
+ - Secondary goal: Revive downs with Illusion of Life.
+
+ - Boons
+  - Stability --> Distortion (F4) and Mantra of Concentration
+  - Alacrity --> on any shatter
+  - Quickness --> Time Warp (elite)
+  - Protection --> on any shatter
+
+ - Healing --> on any shatter, using heal mantra
+
+ - Continuum Split
+  - Getting good value is important to maximize boon output. With 3 clones, you have time to use all shatters, reset with Signet of Illusions, 
+  then use all shatters and Time Warp.
