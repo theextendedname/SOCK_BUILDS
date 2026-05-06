@@ -1,6 +1,6 @@
-Firebrand Boon Support
+Firebrand Main Stabs
 
-<:guardian_firebrand:1162443861944193054>Firebrand Boon Support
+<:guardian_firebrand:1162443861944193054>Firebrand Main Stabs
 - Credit: <@97162271272235008> 
  - [The Build](<https://gw2skills.net/editor/?PWwEQLtrMCGHTkhxMxU+a/pB-DWJYjRd/hkmgoaZQ6KBP+aIEhZP8W8/SDA-w)
  - Builds focus is Stabs, Resistance, Might

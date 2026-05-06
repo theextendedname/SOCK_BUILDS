@@ -1,15 +1,13 @@
-Reaper AOE DPS
-- <:necro_reaper:1162443916352700556> Reaper AOE DPS
+Reaper DPS Boon Strip
+- <:necro_reaper:1162443916352700556> Reaper DPS Boon Strip
 - Credit: @Bloop
-- [The Build](https://gw2skills.net/editor/?PSwEQ7MrMB2CDhdwKxh/6sZD-D2QYhomeKYHCO/SppoouQozCoiEw2fCBQgNAZM8W0fGAA-w)
-
+- [The Build](https://gw2skills.net/editor/?PSwEQ7MrMhE2SLDJkd0xKj0h/6sZD-DWZYBB5sFUsYU3Klmii6ChOLgKSAb/JEAB2AkxwbR/ZAA-w)
+- [Training Video](https://www.youtube.com/watch?v=4IgC0bAND1U)
+- [Law of the REAPER](https://youtu.be/u0FrNCQfYEc)
 - **Important Note**: it is almost always better to save your wells for when the zerg fully commits and the enemy zerg stops maneuvering as much. Be patient in order to get maximum value from your wells.
-- **Important Note**: DPS is tied to your Shroud uptime and the less dmg you take, the longer your shroud uptime. Stay on tag to reduce dmg taken.
+- **Important Note**: While DPS is tied to your Shroud uptime, going into Shroud strips boons and should be high priority. Stay on tag to reduce dmg taken.
 
 - Shroud Mechanics
-  - **Important**:  Auto attack chain reduces CD of shroud skills.
-        - 3rd hit from auto attack chain in shroud reduces cooldown from all your shroud skills. When there are people to hit near you after casting shroud 4 (soul spiral),  spam 1 in shroud until  shroud 4 goes off cooldown 
-           - **Tip**: Hitting downs are a good way to recharge shroud 4.
   - Boon strip on entering shroud 
        - Try to enter shroud when you are close enough to the enemy zerg to maximize boon strips
   - Additional dmg modifiers while in shroud
@@ -22,7 +20,7 @@ Reaper AOE DPS
   - Wells
      - Cast well of corruption then well of suffering before entering shroud and doing the shroud rotation
   - Shroud Rotation
-      - Enter shroud when you are close to the enemy zerg -> shroud 3 -> shroud 4 -> shroud 1 autoattack rotation once (i.e. press 1 3 times so the next time when you enter shroud, shroud 4 will be up) -> exit shroud
+      - Enter shroud when you are close to the enemy zerg -> shroud 3 -> shroud 4 -> exit shroud
      - Shroud 3 reduces dmg taken and provides pulsing self stabs and will not cancel shroud 4
   - When not in shroud:
     - Aim to build life force ASAP using:
