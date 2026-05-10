@@ -1,42 +1,59 @@
 Scrapper Heals
 
-<:engineer_scrapper:1162443834140143626>Scrapper Heals
+<:engineer_scrapper:1162443834140143626> Scrapper Heals
 
 - [The Build](https://gw2skills.net/editor/?PegAUVlNweYeMHWJe0S3tMA-DWJYjRVfhEUUkaBUdq471hQEgeLtvZBA-w)
+- [Video @gravenknight](<https://www.youtube.com/watch?v=KALvQAazYG0>)
+- [Video CoffeeDart GW2](<https://www.youtube.com/watch?v=KQey0jcw4II>)
 - [Video @sheffplaysgames](<https://www.youtube.com/watch?v=pLnictOT5qU>)
 
-- More info
-NOTE: There's some minor build differences in the video
+# SCRAPPER HEALS GUIDE
 
-__Purpose:__
-- Heal, cleanse, superspeed
+The Heal Scrapper is a strong healer in the current meta, offering excellent burst cleansing along with powerful healing and barrier generation.
 
-__Quickguide:__
-- Always be rotating through kits, weapon, and gyros. Do not camp medkit.
-- Rotation timing is based around Elixir Gun 3 Fumigate's 16sec CD 
-- SB arrows have a "Chain Reaction" mechanic, which adds value when another arrow is placed in the previous arrow's AOE. Order matters.
-- Superspeed should be maintained as much as possible.
-- Try to provide heal/barrier and cleansing together.
+---
+
+## KEY CONCEPTS
+
+The Heal Scrapper’s main purpose is to provide **Cleansing**, **Healing**, **Barrier Generation**, **Superspeed** and blasting fields to trigger Relic of Karakosa.
+
+- Always rotate through your Shortbow skills, Kits, and Gyros. You can camp Med Kit (Skill 1 - Med Blaster) briefly ONLY while waiting for other skills to get off cooldown.
+- The rotation is built around Elixir Gun (Skill 3 - Fumigate), your goal is to use Fumigate as often as possible. When swapping back to Elixir Gun, Fumigate or Super Elixir (Skill 5) should be just coming off cooldown.
+- You should maintain **Superspeed** whenever possible.
+  - When out of combat, **Superspeed** = **Swiftness**.
+  - When in combat, **Superspeed** = 100% increase to forward movement speed.
 
 __Combos:__
-- Shortbow 4-2-5 for empowering
-- Shortbow 3-2-4-5 in combat
-- Medkit 5-3-4-2
-- Elixir Gun 3 (full channel) 5-4 (weapon swap immediately)
+- Shortbow 4 > 2 > 5  when commander calls for **Might** 
+- **Bulwark Gyro** as we push in, then switch to **Elixir Gun** 3 > 5 > 4 (Quickly weapon swap after using Skill 4 to cancel backward leap) as soo as we engage.
+- **Med Kit** 5 > 3 > 2 > 4 *OR* **Med Kit** 3 > 5 > 2 > 4 (If ping is a problem).
+- **Shortbow** 3 > 2 > 4 > 5 (Skill 2 and Skill 5 are blast finishers).
+
+__Chain Reaction:__
+The Chain Reaction mechanic is unique to the engineer's Shortbow. These are example of what you'll get when you chain react.
+- Shortbow 3 > 2 (Condi Cleanse)
+- Shortbow 4 > 5 (Grant Boons)
 
 __Superspeed:__
-- All gyros
-- F1 Bandage Self
+- All Gyros
+- Bandage Self (F1)
+- Shortbow (Skill 5)
 
-__Stab:__
-- Defense Field toolbelt skill
+__Party Stability/Block Missiles:__
+- Defense Field (F4)
 
-__Stunbreak:__
-- Healing Mist toolbelt skill
+__Personal Breaks Stun:__
+- Healing Mist (F2)
 
-__Tips:__
-- Switch Shortbows once Sigil of Life is fully stacked
-- Drop Supply Crate on Melee clash to stun enemy and to proc Karakosa Relic blast finisher
-- Drop Function Gyro and Defense Field on stragglers
-- Elixir Gun 3 cleanses you and the party
-- Place a personal target on a party member to help targeting EG3 and SB skills
+---
+
+### ADDITIONAL NOTES
+
+- Switch to your **Main Shortbow** once you reach 25 stacks of Life on your **Stacking Shortbow**.
+- **Superior Sigil of Frenzy** is an alternative option for **Superior Sigil of Renewal**.
+- Be sure to use **Supply Crate** (Elite Skill) to stun enemies and blast your water fields.
+- Drop **Chemical Field** (F3) to poison downed enemies.
+- Use **Purge Gyro** when additional cleanse is required.
+- Provide **Superspeed** to allies who fall behind.
+- Elixir Gun (Skill 3 - Fumigate) cleanses you and your party!
+- Put a **Personal Target** on a party or squad member to help guide your Shortbow skill placement.
