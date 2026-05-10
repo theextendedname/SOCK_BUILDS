@@ -24,7 +24,7 @@ The Heal Scrapper’s main purpose is to provide **Cleansing**, **Healing**, **B
   - When in combat, **Superspeed** = 100% increase to forward movement speed.
 
 __Combos:__
-- Shortbow 4 > 2 > 5  when commander calls for **Might** 
+- **Shortbow** 4 > 2 > 5  when commander calls for **Might** 
 - **Bulwark Gyro** as we push in, then switch to **Elixir Gun** 3 > 5 > 4 (Quickly weapon swap after using Skill 4 to cancel backward leap) as soo as we engage.
 - **Med Kit** 5 > 3 > 2 > 4 *OR* **Med Kit** 3 > 5 > 2 > 4 (If ping is a problem).
 - **Shortbow** 3 > 2 > 4 > 5 (Skill 2 and Skill 5 are blast finishers).
