@@ -1,7 +1,7 @@
 Druid Healer Support
 <:ranger_druid:1162443942705516564> Druid Healer Support
 
-- [The Build](https://gw2skills.net/editor/?POwEkEmpsCGCbhlwKxyVyrVWyeuC-DWJYjRnfhEUCmaIUdF571hQEg98bp9NLA-w)
+- [The Build](https://gw2skills.net/editor/?POwEkEmpsCGCbhlwKxyVyrVWjruIA-DWJYjRnfhEUCmaIUdF571hQEg98bp9NLA-w)
 - [Training Video](https://www.youtube.com/watch?v=npNwK81Qzbg)
 
 - More Info
@@ -16,7 +16,7 @@ Exotic gear is fine for WvW and can be purchased with WvW currency. In addition,
 
 2. Transference Sigil is required, but second sigil is your choice. I recommend Cleansing or Energy.
 
-3. Pink Moa if you don't have Turtle (Smokescale is also good to have for smoke field)
+3. Pink Moa if you don't have River Otter (Smokescale is also good to have for smoke field)
 
 **Targeting**
 
@@ -82,7 +82,7 @@ both good, tho stars better for most people. 1 spirit not bad to have sometimes.
 
 pets: brownbear is best always
 2nd pet is a lot harder to say what's best...
--turtle pet is not that great, small AOE bubble to block projectiles, usually get's outclassed by brand shield 5 and scrapper boubble
+- River Otter extra Fury source, Healing and Weakness debuff on enemies.
 -fernhound, nice synergy with a bit of healing and some extra regen. tho also not that amazing
 -white moa, some more damage reduction is nice from frost aura
 + if you run 2+ glyphs the 'verdant etching' trait in druid is nice for some extra protection
