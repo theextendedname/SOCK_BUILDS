@@ -1,3 +1,8 @@
+[build1](https://en.gw2skills.net/editor/?PGAFgEGaYZEsEGF7idiDvya7CA-DWJYiRf/x0kEoChQyCkYWBm9FEE0CGxAGIICCQ9wbR/lNA-w)
+[build1](https://en.gw2skills.net/editor/?PGwEgEOssBGFLhdxOxRXZtdB-DWJYiRbfh0UCUXIURRY7tgAIw0hsAeL6PDAA-w)
+
+https://www.youtube.com/watch?v=zWnYLYPWL0Q
+
 **Main Dmg of tempest comes from overloads.**
 * start in Fire 
    * Warhorn 5 for fireworks (proc relic)
