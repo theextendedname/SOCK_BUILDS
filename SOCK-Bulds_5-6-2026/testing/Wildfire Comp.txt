@@ -1,0 +1,61 @@
+30 comp
+1 Commander
+6 heals (Druid/Scrapper)
+6 Main Stabs (Firebrand/Lumi)
+6 Boon Support (Troub)
+3 Boon Strip DPS (Scourge)
+1 Boon Strip DPS (Spellbreaker)
+4 DPS (Tempest)
+3 DPS (Amalgam) maybe DH or Untamed is a better fit?  
+
+40 comp
+1 Commander
+8 Heals (Druid/Scrapper)
+8 Main Stabs (Firebrand/Lumi)
+8 Boon Support (Troub)
+4 Boon Strip DPS (Scourge)
+1 Boon Strip DPS (Spellbreaker)
+6 DPS (Tempest)
+4 DPS (Amalgam)   
+
+50 comp
+1 Commander
+10 heals (Druid/Scrapper)
+10 Main Stabs (Firebrand/Lumi)
+10 Boon Support (Troub)
+5 Boon Strip DPS (Scourge)
+2 Boon Strip DPS (Spellbreaker)
+7 DPS (Tempest)
+5 DPS (Amalgam)   
+
+
+- Heals (Druid/Scrapper)
+   * [Druid](https://gw2skills.net/editor/?POwEkEmpsiEGSIbpslUyKj0yVyrVmTFZ1FdFA-DWJYjRnfhEUCmaIUdF571hQEg98bp9NLA-w)
+   * [Scrapper](https://gw2skills.net/editor/?PegAUVlNweYeMHWJe0S3tMA-DWJYjRVfhEUUkaBUdq471hQEgeLtvZBA-w)
+- Main Stabs (Firebrand/Lumi)
+   * [Firebrand](<https://gw2skills.net/editor/?PWwEQLtrMCGHTkhxMxU+a/pB-DWJYjRd/hkmgoaZQ6KBP+aIEhZP8W8/SDA-w)
+   * [Lumi](https://gw2skills.net/editor/?PWwAYl7l5yiZcMMGJmKX7zNA-DWJYjRN/ZkuSImZguOREiRTegKwsHCcL+fpBA-w)
+- Boon Support (Troub)
+   * [Troub](https://gw2skills.net/editor/?PiwAw6RlZwsYwsZGNe0TqTdA-DWJYjRHfZkZKUdFo7rhQIg9gA+p7Hs0+lGA-w)
+- Strip DPS (Scourge)
+   * [Scourge](https://gw2skills.net/editor/?PSwAc2FlRweYHMEmJO8XnveA-DWRYBRnIG+DpJJUnChYWB26sQACYP8aqyMAA-w)
+- Boon Strip DPS (Spellbreaker)
+   * [Spellbreaker](<https://en.gw2skills.net/editor/?PKgEQLU2QBTKpN10oiand64bp/qA-D2QYhoqzeHUyh0kkoThQOrAbdWIABsHeN63pEA-w>)
+- DPS (Tempest)   
+   * [Tempest wildfire build](https://gw2skills.net/editor/?PGAFgEGaYZEsEGF7idiDvya7CA-DWJYiRb/h0kkoChQMLAzeLYABsFeL6vsBA-w)
+- DPS (Amalgam)   
+   * [Amalgam](https://gw2skills.net/editor/?PegAQJlJn88ae2FuuU2d3O2LfzMFo96THA-DWZYBRVyfLoAxwKkmSi6ChKqAbPLUgA2DvF9nBAA-w)
+   
+   
+ 
+ 
+* [example fights](https://milk-teh.github.io/GW2Milk/?report=20260604-205344-mk4m) 
+
+* [06/04 09:05 AM • EBG](https://dps.report/lRBj-20260604-210631_wvw)
+* [06/04 09:11 AM • EBG](https://dps.report/KsZM-20260604-211224_wvw)
+* [06/04 09:13 AM • EBG](https://dps.report/aBtd-20260604-211449_wvw)
+* [06/04 09:19 AM • EBG](https://dps.report/PNXM-20260604-212150_wvw)
+* [06/04 09:24 AM • EBG](https://dps.report/loqd-20260604-212557_wvw)
+* [06/04 09:29 AM • EBG](https://dps.report/JgtD-20260604-213044_wvw)
+* [06/04 09:32 AM • EBG](https://dps.report/3OPI-20260604-213355_wvw)
+* [06/04 09:36 AM • EBG](https://dps.report/Ik4U-20260604-213841_wvw)
