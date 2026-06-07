@@ -24,8 +24,8 @@
 10 Main Stabs (Firebrand/Lumi)
 10 Boon Support (Troub)
 5 Boon Strip DPS (Scourge)
-2 Boon Strip DPS (Spellbreaker)
-7 DPS (Tempest)
+1 Boon Strip DPS (Spellbreaker)
+8 DPS (Tempest)
 5 DPS (Amalgam)   
 
 
