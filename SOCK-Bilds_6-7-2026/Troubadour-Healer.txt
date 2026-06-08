@@ -1,5 +1,5 @@
 <:Troubadour:1432827508021002412> Troubadour Boon Support 
-- [The Build](https://gw2skills.net/editor/?PiwAw6RlZwsYwsZGNe0TqTdA-DWJYjRHfZkZKUdFo7rhQIg9gA+p7Hs0+lGA-w)
+- [The Build](https://gw2skills.net/editor/?PiwAw6Rl9ysYwsZGNe0TaTdA-DWJYjRHfhEUYkaCUdFo7vgQIg9gA+p7Hs0+lGA-w)
 12 concentration infusions + 6 healing infusions
 with regen active 100% boon duration
 Bowl of Fruit Salad with Mint Garnish
@@ -44,5 +44,5 @@ Magnanimous Maintenance Oil
 
 - ** Rotation **
     -  Charge Mantra of Concentration when you are about 900 range from the enemy
-    -  On Engage: cast F1 for more heals -> F4 for invuln to soak dmg when entering melee -> Crescendo for stability and quickness -> F3 for CC ->  continue with normal rotation, rifle skills etc
+    -  On Engage: cast F1 for more heals -> F4 for invuln to soak dmg when entering melee -> F5 Crescendo for stability and quickness -> F3 for CC ->  continue with normal rotation, rifle skills etc
     -  When trying to sustain/squad is standing on clash: Swap to sword/shield -> shield 5 (for CC) -> shield 4 (blocks) -> shield 2 (invuln) -> shield 4 (flip skill for more blocks)
