@@ -8,35 +8,62 @@ Superior Sharpening Stone
 
 **Your Role:** Pull, Boon Strip, and Damage Dealer
 
-**Boon Rip Skill List**
- * Well of Corruption
- * Nightfall
- * Signet of Vampirism - Malicious Swarm + Signets of Suffering
- * Ghastly Breach
- * Unholy Feast
- * Trail of Anguish
+---
+
+# **BOON RIP SKILL LIST**
+
+* `Well of Corruption`
+* `Nightfall`
+* `Signet of Vampirism` + `Malicious Swarm`(Spite Trait) + `Signets of Suffering`(Spite Trait)
+* `Ghastly Breach`
+* `Unholy Feast`
+* `Trail of Anguish`
+
+---
+
+# **SKILL PRIORITY**
+
+* **Well of Corruption + Well of Suffering** * Always together, on call.
+* **Ghastly Breach / Nightfall** * On call, not always together.
+* **Trail of Anguish** * Do *not* use when standing still if it's not part of the "wells/bomb" call. Do *not* save for a stun break—it is one of the best boon corrupt skills in the game. Best used when moving in melee to cover more terrain.
+* **Sandstorm Shroud (F5)** 
+* **Unholy Feast (Axe 3)**
+* **Signet of Vampirism** * Use on cooldown. Do *not* save it for healing.
+* **Manifest Sand Shade** => Other Shade skills that aren't on cooldown **(F1-F4)**
+* **Spinal Shivers** => **Ghastly Claws** * Only on single targets.
+* **Death Spiral**
+* **Gravedigger** * This is for cleave. Once the enemy group has downs, this becomes your top priority skill.
+* **Soul Grasp** * Only use if you are low on Life Force.
+
+---
+
+# **PLAYSTYLE & ROLE OVERVIEW**
+
+> **Power Scourge** is a utility DPS that sets up its group with heavy boon corruption.
+
+* **The Spike:** Your highest priority is using `Well of Corruption` and `Well of Suffering` together with other Necromancers in the squad on the commander's call. This creates the window for your group to secure kills.
+* **Secondary Wells:** Use `Ghastly Breach` and `Nightfall` just like wells—at the same time, and in that exact order, on the commander's call. If your commander doesn't call them, use them reactively to punish the enemy group pushing into yours.
+* **Extra Damage:** Use `Manifest Sand Shade` => `Desert Shroud` to layer extra damage on top of your other group spikes.
+* **Crowd Control:** Save `Grasping Darkness` to pull enemies into your group's spikes, or to catch enemies trying to kite away.
+* **Weapons:** Focus on using **Axe/Focus** until you actively need `Nightfall` or `Grasping Darkness` on **Greatsword**.
+
+---
+
+# **SHADE MANAGEMENT (F1-F5)**
+
+* **Maintain Presence:** Having at least **one active shade** at all times is critical. Thanks to *Blood as Sand*, this reduces your incoming damage by 7%. Do *not* spam shades; dropping them one at a time is much more efficient.
+* **Double Coverage:** All shade skill effects occur on **both the shade AND you**. This allows you to place shades on the enemy's path while still guaranteeing cleanses for your immediate team.
+* **Cast Time:** Shade skills are instant cast. Weave them into your rotation on cooldown while fighting.
+
+---
+
+# **VS CLOUD (SPREAD OUT ENEMIES)**
+
+*Recommendations above are aimed toward traditional squad-vs-squad. If fighting clouds, adjust with the following:*
+
+* **Shade Importance:** Shades are even more vital here. You can almost upkeep 2 shades at all times. The ability to hit multiple places at once and control chokepoints from a distance is extremely strong. Fights in SMC and Keeps are excellent for Scourge.
+* **The Killer Combo:** Wells by themselves are strong, but combined with shades, they generate instant downs.
+* **The Combo:** Place wells where your shades are located => hit `F2`/`F3`/`F4` (instant cast) => hit `Focus 5`. Most players without invulnerability will immediately go down.
 
 
-**Skill priority**
- * Well of Corruption + Well of Suffering - always together, on call
- * Ghastly Breach/Nightfall - on call, not always together
- * Unholy Feast
- * Manifest Sand Shade ⇒ Desert Shroud + any other Shade skills that aren't on cooldown
- * Spinal Shivers ⇒ Ghastly Claws - only on single target
- * Death Spiral
- * Gravedigger
- * Soul Grasp - only if low on Life Force
- 
-- *Power Scourge* is a utility DPS that sets up its group with boon corruption
-   - Your highest priority is using your Well of Corruption and Well of Suffering together with other necros in squad on the commanders call to create an opportunity for your group to generate kills
-   - Use Nightfall and Ghastly Breach like wells - at the same time as other necros on the commanders call
-   - If your commander doesn't call these skills, use them to punish the enemy group pushing into yours
-   - Use Manifest Sand Shade -> Desert Shroud to add extra damage on top of your other spikes
-   - Save Grasping Darkness to Pull Pull enemies into your groups spikes or catch enemies when they try to kite your group
-   - Focus on using Axe/Warhorn until you need Nightfall or Grasping Darkness on Greatsword
-
-
-VS Cloud. Recommendations above are aimed towards traditional squad vs squad. If we are fighting clouds we need to adjust.
-Shades are even more important. You can almost upkeep 2 shades at all time. The ability to hit multiple places at once and control chokepoints from distance is extremely strong. Fights in SMC and keeps are excellent for Scourge.
-Wells. Wells by themselves are very strong, but combined with shades can generate downs. The combo is, place wells where your shades are located, hit F2/3/4 (instant cast) then hit Focus 5. Most players without invulnerability go down.
-Use Trail of Anguish often when we are moving. It helps you, your teammates and strips boons. Any groups trying to pick the tail will step on it.
+* **Kiting Defense:** Use `Trail of Anguish` frequently when moving. It helps you, supports your teammates, and strips enemy boons. Any groups trying to pick off the tail of your squad will step right into it.
