@@ -1,10 +1,7 @@
 Boon Stirp DPS Scourge
 <:necro_scourge:1162443917648728124> Boon Strip DPS Scourge 
  
-- [The Build](https://gw2skills.net/editor/?PSwAc2FlRweYHMEmJO8XnveA-DWRYBRnIG+DpJJUnChYWB26sQACYP8aqyMAA-w)
-18 power infusions
-Peppercorn-Crusted Sous-Vide Steak
-Superior Sharpening Stone
+- [The Build](https://gw2skills.net/editor/?PSwAcyFlRweYHMEmJO8XnveA-DWRYBRnIG+DpJJUnChYWB26sQACYP8aqyMAA-w)
 
 **Your Role:** Pull, Boon Strip, and Damage Dealer
 
@@ -27,7 +24,7 @@ Superior Sharpening Stone
 * **Ghastly Breach / Nightfall** * On call, not always together.
 * **Trail of Anguish** * Do *not* use when standing still if it's not part of the "wells/bomb" call. Do *not* save for a stun break—it is one of the best boon corrupt skills in the game. Best used when moving in melee to cover more terrain.
 * **Sandstorm Shroud (F5)** 
-* **Unholy Feast (Axe 3)**
+* **Unholy Feast (Axe 3)** => **Hunger Maelstrom (sword 4)** =>  **Devouring Visage (Sword 5) If axe is back off CD during the chain, Press Axe 3 always. The chain completion is not critical, **if downs, immediately** go to GS. 
 * **Signet of Vampirism** * Use on cooldown. Do *not* save it for healing.
 * **Manifest Sand Shade** => Other Shade skills that aren't on cooldown **(F1-F4)**
 * **Spinal Shivers** => **Ghastly Claws** * Only on single targets.
@@ -39,13 +36,13 @@ Superior Sharpening Stone
 
 # **PLAYSTYLE & ROLE OVERVIEW**
 
-> **Power Scourge** is a utility DPS that sets up its group with heavy boon corruption.
+**Power Scourge** is a utility DPS that sets up its group with heavy boon corruption.
 
 * **The Spike:** Your highest priority is using `Well of Corruption` and `Well of Suffering` together with other Necromancers in the squad on the commander's call. This creates the window for your group to secure kills.
 * **Secondary Wells:** Use `Ghastly Breach` and `Nightfall` just like wells—at the same time, and in that exact order, on the commander's call. If your commander doesn't call them, use them reactively to punish the enemy group pushing into yours.
 * **Extra Damage:** Use `Manifest Sand Shade` => `Desert Shroud` to layer extra damage on top of your other group spikes.
 * **Crowd Control:** Save `Grasping Darkness` to pull enemies into your group's spikes, or to catch enemies trying to kite away.
-* **Weapons:** Focus on using **Axe/Focus** until you actively need `Nightfall` or `Grasping Darkness` on **Greatsword**.
+* **Weapons:** Focus on using **Axe/Sword** until you actively need `Nightfall` or `Grasping Darkness` on **Greatsword**.
 
 ---
 
