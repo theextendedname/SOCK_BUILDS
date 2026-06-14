@@ -34,9 +34,9 @@ Tempest DPS
 * Fiery GS skill 1 is a projectile and can be reflected or negated buy spellbreaker bubble.
 
 **Fighting Cloud**
-* You **MUST USE** `Dagger/Warhorn` for zerg fights!!! However, you may switch to `Staff` when we are fighting 100% cloud opponets. 
-* Don't make me police you weapon swapping. You **MUST USE** `Dagger/Warhorn` for zerg fights!!!
-* Create a second Gear template so you can quickly swap back to `Dagger/Warhorn`. 
+* You **MUST USE** `Dagger/Warhorn` for zerg fights!!! However, you may switch to `Staff` when we are fighting 100% cloud opponents. 
+* Don't make me police your weapon swapping. You **MUST USE** `Dagger/Warhorn` for zerg fights!!!
+* Create a second Gear template so you can quickly swap back to `Dagger/Warhorn`.
 
 
 
