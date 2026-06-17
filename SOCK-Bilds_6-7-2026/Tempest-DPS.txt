@@ -1,7 +1,7 @@
 Tempest DPS
  :tempest: Tempest DPS
 
- - [The Build](https://en.gw2skills.net/editor/?PGAFgEGaYZEsEGF7idiDvya7CA-DWJYiRb/h0kkoChQMLAzeLYABsFeL6vsBA-w)
+ - [The Build](https://gw2skills.net/editor/?PGAFgEGaYZEsEGF7idijvya7CA-DWJYiRb/h0kkoChQMLAzeLYABsFeL6vsBA-w)
  - 18 Mighty Infusions
  - Peppercorn-Crusted Sous-Vide Steak
  - Potent Superior Sharpening Stone
