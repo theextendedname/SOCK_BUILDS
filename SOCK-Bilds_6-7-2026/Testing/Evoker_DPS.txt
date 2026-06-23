@@ -1,0 +1,68 @@
+Evoker DPS
+<:evoker:1488912787055841460> Evoker DPS
+
+ - [Build](https://gw2skills.net/editor/?PGgEQjWGMLhdxoYn4orsNrUCHAA-DWRYiRVn3cQhFSTFRdhQFZgtnFCQA7h3i+nRAA-w)
+ - [Game Play Video](https://www.youtube.com/watch?v=Y11-oPiQFfg)
+ - Weapon Options: Spear
+ - Always start in Air Attunement for high Range and early Crowd Control
+ - Swap to Fire Attunement next to line up with the squad's Well of Corruption Spike
+ - Follow up instantly with Conjure Fiery Greatsword to keep dealing massive damage
+ - Swap to Earth Attunement to maintain damage while waiting for Air and Fire Etchings to clear Cooldowns
+
+*Burst Damage Skill List*
+ - Fire - `Meteor`(4) (Biggest damage skill, use twice with Arcane Echo)
+ - Fire - `Blazing Barrage`(2) (Short cooldown, high damage)
+ - Fire - `Volcano`(5) (Massive pulsing damage in a large radius)
+ - Earth - `Fissure`(4) (Main source of burst in Earth)
+ - Earth - `Haboob`(5) (Massive wave damaging and blinding enemies)
+ - Air - `Derecho`(5) (Massive wave damaging and dazing enemies)
+ - Air - `Fulgor`(2) (High damage, unique uncleansable effect)
+
+*Damage Modifier Skill List*
+ - Fire - `Seethe`(3) (Grants a damage increase to your next Spear skill)
+ - Air - `Energize`(3) (Instant cast, ensures next Spear skill is a Critical Hit)
+
+*Utility & Crowd Control Skill List*
+ - Water - `Undertow`(4) (Strong pull that inflicts Slow to catch players out of stack)
+ - Air - `Twister`(4) (Strong crowd control to isolate players)
+ - Earth - `Harden`(3) (Instant cast, grants Barrier and inflicts Daze)
+ - `Zap`(F5) (1200 range - Use on cooldown)
+ - `Rejuvenate`(Heal) (Use just after `Zap` to recharge `Zap`)
+ - Earth - `Earthen Spear`(2) (Use to hit players out of Reflect Projectiles)
+
+Example Burst Spear Rotation
+ - **Start in Air Attunement**
+ - `Zap` (1200 range - Use on Cooldown)
+ - `Rejuvenate`(Heal) (Use 5 sec after `Zap` to recharge `Zap`) 
+ - `Etching: Derecho`
+ - `Energize`
+ - `Twister`
+ - `Fulgor`
+ - `Derecho`
+ - **Swap to Fire Attunement**
+    * `Conjure Fiery GreatSword` **(if not on CD and during a Well call from tag)**
+    * `Firestorm` **(Glyph Utility)**    
+    * `Firestorm` **(From CFG) Press once and drop CFG**
+
+ - `Blazing Barrage`
+ - `Etching: Volcano`
+ - `Firestorm`(Glyph Utility)
+ - `Seethe` + `Arcane Echo` + `Meteor` (Always use Seethe before Meteor)
+ - `Volcano`
+ - `Blazing Barrage`
+ - `Meteor`
+ - **Swap to Earth Attunement**
+ - `Etching: Haboob`
+ - `Harden` (Good way to complete etching quickly)
+ - `Fissure`
+ - `Earthen Spear`
+ - `Haboob`
+ - **Swap to Water Attunement**
+ - `Ice Beam` -> `Ripple`(Skip if you don't need movement) -> `Undertow`
+ - **Swap to Air Attunement** and repeat (Earth won't be up yet on the second pass)
+
+*Rotation Notes & Build Options*
+ - Due to high range, follow the main rotation easily but adapt to zerg volatility.
+ - After your first burst loop, Earth Attunement won't be accessible for a while. 
+ - Stay longer in Air and Fire Attunements to wait for Etchings. Cast `Fulgor` earlier in Air for a second cast, and hold Fire for another `Blazing Barrage` cast to avoid lowering DPS.
+ - Remember that you can complete Etchings using skills outside of your Spear like `Arcane Brilliance`, `Glyph of Storms`, and even your Auto Attack Chains!
