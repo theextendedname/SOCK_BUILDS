@@ -43,7 +43,6 @@ Example Burst Spear Rotation
     * `Conjure Fiery GreatSword` **(if not on CD and during a Well call from tag)**
     * `Firestorm` **(Glyph Utility)**    
     * `Firestorm` **(From CFG) Press once and drop CFG**
-
  - `Blazing Barrage`
  - `Etching: Volcano`
  - `Firestorm`(Glyph Utility)
