@@ -31,3 +31,28 @@ Example parties 30 SOCK Comp
 **Group 5** : <:BoonStrip:1219731345425829998> *(Scourge)*, <:role_heals:1513236354807627887>, <a:stabbybear:1281679030915039232>, <:pepeCross:900140370820735076>, <:role_dps:1513236400483471410>*(Tempest)*
 **Group 6** : <:BoonStrip:1219731345425829998> *(Scourge)*, <:role_heals:1513236354807627887>, <a:stabbybear:1281679030915039232>, <:pepeCross:900140370820735076>, <:role_dps:1513236400483471410>*(Amalgam)*
 **Group 7** : <:role_dps:1513236400483471410> *(Amalgam)*, <:role_heals:1513236354807627887>, <a:stabbybear:1281679030915039232>, <:pepeCross:900140370820735076>, <:role_dps:1513236400483471410> *(Amalgam)*
+
+
+-----------
+
+
+40 comp (+2 all supports, +1 scourge, +1 Spellbreaker, +2 amalagam)
+* <:catmander_purple:1162441936049799168> Commander (1)
+* <:role_heals:1513236354807627887> Heals Druid, Scrapper (8)
+* <a:stabbybear:1281679030915039232> Main Stabs (8) Firebrand, Lumi
+* <:pepeCross:900140370820735076> Boon Support (8) Troub
+* <:BoonStrip:1219731345425829998> Boon Strip DPS (4) Scourge
+* <:BoonStrip:1219731345425829998> Boon Strip DPS (2) Spellbreaker
+* <:role_dps:1513236400483471410> DPS (4) Tempest
+* <:role_dps:1513236400483471410> DPS (5) Amalgam
+
+
+50 comp (+2 all supports, +2 Spellbreaker, +2 amalagam)
+* <:catmander_purple:1162441936049799168> Commander (1)
+* <:role_heals:1513236354807627887> Heals Druid, Scrapper (10)
+* <a:stabbybear:1281679030915039232> Main Stabs (10) Firebrand, Lumi
+* <:pepeCross:900140370820735076> Boon Support (10) Troub
+* <:BoonStrip:1219731345425829998> Boon Strip DPS (4) Scourge
+* <:BoonStrip:1219731345425829998> Boon Strip DPS (4) Spellbreaker
+* <:role_dps:1513236400483471410> DPS (4) Tempest
+* <:role_dps:1513236400483471410> DPS (7) Amalgam
