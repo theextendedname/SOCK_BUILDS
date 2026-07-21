@@ -33,7 +33,7 @@ Example parties 30 SOCK Comp
 **Group 7** : <:role_dps:1513236400483471410> *(Amalgam)*, <:role_heals:1513236354807627887>, <a:stabbybear:1281679030915039232>, <:pepeCross:900140370820735076>, <:role_dps:1513236400483471410> *(Amalgam)*
 
 
------------
+----
 
 
 40 comp (+2 all supports, +1 scourge, +1 Spellbreaker, +2 amalagam)
