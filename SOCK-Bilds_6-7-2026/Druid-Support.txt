@@ -1,11 +1,13 @@
 Druid Healer Support
 <:ranger_druid:1162443942705516564> Druid Healer Support
 
-- [The Build](https://gw2skills.net/editor/?POwEkEmpsiEGSIbpslUyKj0yVyrVmTFZ1FdFA-DWJYjRnfhEUCmaIUdF571hQEg98bp9NLA-w)
+- [Standard Build](https://gw2skills.net/editor/?POwEkEmpsiEGSILpw5UyKj0yVyrZmCruG89A-DWJYjRnfhEUCmaIUdF571hQEg98bp9NLA-w)
 - [Advanced Blast finish Build](https://gw2skills.net/editor/?POwEkEmpsiEGSILpw5UyKj0yVyrZly9sGsrA-DWJYjRnfhEUCmaIUdF571hQEg98bp9NLA-w)
   * See notes at bottom of post for Advanced Blast finish Build
-- [Training Video](https://www.youtube.com/watch?v=npNwK81Qzbg)
-- [Video Start Playing Support Druid](https://www.youtube.com/watch?v=odl96bqD544)
+  * The only diffrence is the elite Druild trait (Standard)`Lingering Light` vs (Advanced)`Lesser Seed of Life`
+  * Don't use `Glyph of unity` the build editor isn't updated with the new `Glyph of Burgeoning` Please use `Glyph of Burgeoning`
+- [Advanced Build Video](https://www.youtube.com/watch?v=6KpWNxURJqw)
+
 
 ### Guild Wars 2: WvW Druid Class Guide
 
@@ -22,7 +24,7 @@ Druids are superb healers and cleansers, providing essential boons like Fury and
 
 1. **Turn OFF Autotargeting** in your game settings.
 2. Create keybinds for **"Select Personal Target"** and **"Call Personal Target"**. Mark an ally in your party with this.
-3. Use **Staff 2** directly on that friendly target to bounce heals.
+3. Use this to quickly target/find your ally if they get in trouble.
 
 
 ### Celestial Avatar (CA) Mechanics
@@ -39,8 +41,7 @@ CA is your elite mechanic (the light-blue sphere/bar above your health). It runs
 **Quick Draw Trait:** Your first weapon skill used after swapping weapons (or entering/exiting CA) gets a **66% cooldown reduction**.
 
 1. **Celestial Avatar:** Enter a few seconds into combat. Stay in as long as possible.
-* **Combo:** Skill 3 first (let it channel completely) -> Skills 4 + 2 -> Spam 1 & 4.
-* **AVOID Skill 5:** It roots you in place. Using it while the group is moving will get you killed.
+* **Combo:**  Skills 4 + 3 + 2 -> Press 1 & 4 on cool down. (if you spam 1 too much you may not get a third CA 4)
 
 
 2. **Staff:** Swap to Staff and immediately use **Staff 3** at your feet (preferably into a water/light field). Use **Staff 4** on enemies, **Staff 5** ahead of group movement (blast it with Staff 3 if possible), and **Staff 2** at your feet.
@@ -86,29 +87,30 @@ CA is your elite mechanic (the light-blue sphere/bar above your health). It runs
 
 **Pre-Fight**
 
-Warhorn 5 (on might call)  >  WEAPON SWAP >  Frost Spirit (placed just ahead of group timing it to cast as we engage)
+Mace 2 > Warhorn 5 (on might call)  > Pet attack F2 > WEAPON SWAP >  Frost Spirit (placed just ahead of group timing it to cast as we engage)
 
 **Core Rotation**
 
-Staff 3 (on feet) > Staff 4 (towards enemy) > Staff 5 (ahead) + Staff 3 (blast) > Staff 2 (on Personal Target) 
+Staff 3 (on feet) > Staff 4 (towards enemy) > Staff 5 (ahead) + Staff 3 (blast) > Staff 2 (on Group)
 
 WEAPON SWAP
 
-Warhorn > Mace 3 [SITUATIONAL] > Mace 2 > Mace 3 + Warhorn 4 > Celestial Avatar
+Swap Warhorn >   Mace 2 > Mace 3 [SITUATIONAL] + Warhorn 4 + Warhorn 5 > Celestial Avatar
 
 [Don't cast Mace 3 if the leap is BAD]
 
 **Celestial Avatar Rotation **
 
-CA 2  > CA 4 > CA 3  > CA 1 through CA 4 off cool down until astral force is consumed.
-(the idea is to blast finish CA 4 with CA 3. Casting CA 2 first allows the light field to dissipate so CA 4 water field can be blasted)
+CA 4  > CA 3 > CA 2  > CA 1 through CA 4 off cool down until astral force is consumed.
+(the idea is to blast finish CA 4 with CA 3. )
+Then repeat Core Rotation
+
 
 **Notes**
-- Quick Draw isn't a big deal anymore because CA had cast time removed
 - Other utilities and pet skills are slotted in as needed/off cooldown. See guidance above. 
 - *Healing increases with actions per min (APM) and prioritizing CA.*
 
-**Notes on Advanced Blast finish Build**
+**Notes on `Advanced` Blast finish Build**
 - Blasting combo water fields and spawn a lesser seed of life
 - Blast finishing water fields is a must and core to the build. Do it a lot or the build is poop
 - Don't use `Glyph of unity` the build editor isn't updated with the new `Glyph of Burgeoning` Please use `Glyph of Burgeoning`
