@@ -4,7 +4,7 @@ Druid Healer Support
 - [Standard Build](https://gw2skills.net/editor/?POwEkEmpsiEGSILpwtUyKj0yVyrZmSw37KrA-DWJYjRnfhEUCmaIUdF571hQEg98bp9NLA-w)
 - [Advanced Blast finish Build](https://gw2skills.net/editor/?POwEkEmpsiEGSILpw5UyKj0yVyrZly9sGsrA-DWJYjRnfhEUCmaIUdF571hQEg98bp9NLA-w)
   * See notes at bottom of post for Advanced Blast finish Build
-  * The only diffrence is the elite Druild trait (Standard)`Lingering Light` vs (Advanced)`Lesser Seed of Life`
+  * The big diffrence is the elite Druild trait (Standard)`Lingering Light` vs (Advanced)`Lesser Seed of Life`
   * Don't use `Glyph of unity` the build editor isn't updated with the new `Glyph of Burgeoning` Please use `Glyph of Burgeoning`
 - [Advanced Build Video](https://www.youtube.com/watch?v=6KpWNxURJqw)
 
