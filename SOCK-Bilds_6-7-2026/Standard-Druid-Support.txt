@@ -1,12 +1,7 @@
-Druid Healer Support
-<:ranger_druid:1162443942705516564> Druid Healer Support
+Standard Healer Support
+<:ranger_druid:1162443942705516564> Standard Druid Healer Support
 
 - [Standard Build](https://gw2skills.net/editor/?POwEkEmpsiEGSILpwtUyKj0yVyrZmSw37KrA-DWJYjRnfhEUCmaIUdF571hQEg98bp9NLA-w)
-- [Advanced Blast finish Build](https://gw2skills.net/editor/?POwEkEmpsiEGSILpw5UyKj0yVyrZly9sGsrA-DWJYjRnfhEUCmaIUdF571hQEg98bp9NLA-w)
-  * See notes at bottom of post for Advanced Blast finish Build
-  * The big diffrence is the elite Druild trait (Standard)`Lingering Light` vs (Advanced)`Lesser Seed of Life`
-  * Don't use `Glyph of unity` the build editor isn't updated with the new `Glyph of Burgeoning` Please use `Glyph of Burgeoning`
-- [Advanced Build Video](https://www.youtube.com/watch?v=6KpWNxURJqw)
 
 
 ### Guild Wars 2: WvW Druid Class Guide
@@ -107,12 +102,21 @@ Then repeat Core Rotation
 
 
 **Notes**
-- Other utilities and pet skills are slotted in as needed/off cooldown. See guidance above. 
+- Other utilities and pet skills are slotted in as needed/off cooldown. See guidance above.
 - *Healing increases with actions per min (APM) and prioritizing CA.*
+- Ensure that all your skills should be used on the hottest zone, about half covering our squad and the other half on the enemy, to ensure constant cc and healing at the hottest area
+- @[skill:12569:Spirit of Nature]  should be used in order, remember your spirit order, it should be subgroup -/minus 1. If the commander does not call for spirit, use it based on the number of clashes. i.e. on the 3rd clash, if you are spirit 3 you should be dropping your spirit
+- You should always be blasting water fields with all your blast finishers to trigger @[relic:101268:Relic of Karakosa] relic
 
-**Notes on `Advanced` Blast finish Build**
-- Blasting combo water fields and spawn a lesser seed of life
-- Blast finishing water fields is a must and core to the build. Do it a lot or the build is poop
-- Don't use `Glyph of unity` the build editor isn't updated with the new `Glyph of Burgeoning` Please use `Glyph of Burgeoning`
-- use Brown Bear and Turtle pets
-- keep Druid Celestial Shadow trait to align super speed output with Scrapper
+**Water Fields**
+@[skill:31496:Sublime Conversion]
+@[skill:32253:Rejuvenating Tides]
+@[skill:12489:Healing Spring]
+
+**Blast Finishers**
+@[skill:31535:Ancestral Grace]
+@[skill:12621:Call of the Wild]
+@[skill:71963:Oaken Cudgel]
+@[skill:32364:Lunar Impact]
+@[skill:12497:Frost Spirit]
+@[skill:12495:Stone Spirit]
